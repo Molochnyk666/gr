@@ -1,0 +1,714 @@
+{
+    "First aid kits": {
+        "filter_words": [
+            {
+                "content": [
+                    "aid",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "emergency",
+                    "medical",
+                    "supply"
+                ]
+            },
+            {
+                "content": "bandage"
+            },
+            {
+                "content": [
+                    "antiseptic",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "medical",
+                    "tape"
+                ]
+            },
+            {
+                "content": [
+                    "gauze",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "aid",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "survival",
+                    "kits"
+                ]
+            },
+            {
+                "content": [
+                    "trauma",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "burn",
+                    "dressing"
+                ]
+            },
+            {
+                "content": [
+                    "cpr",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "aid",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "pin"
+                ]
+            },
+            {
+                "content": "tweezer"
+            },
+            {
+                "content": "scissor"
+            },
+            {
+                "content": [
+                    "disposable",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "aid",
+                    "manual"
+                ]
+            },
+            {
+                "content": [
+                    "wound",
+                    "dressing"
+                ]
+            },
+            {
+                "content": [
+                    "pain",
+                    "relief",
+                    "medication"
+                ]
+            },
+            {
+                "content": [
+                    "adhesive",
+                    "plaster"
+                ]
+            },
+            {
+                "content": [
+                    "sterile",
+                    "eye",
+                    "dressing"
+                ]
+            },
+            {
+                "content": [
+                    "instant",
+                    "cold",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "aid",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "emergency",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "resuscitation",
+                    "device"
+                ]
+            },
+            {
+                "content": "tourniquet"
+            },
+            {
+                "content": "splint"
+            },
+            {
+                "content": [
+                    "aid",
+                    "refill",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "aid",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "aid",
+                    "kit"
+                ]
+            }
+        ]
+    },
+    "Masks": {
+        "filter_words": [
+            {
+                "content": "mask"
+            },
+            {
+                "content": [
+                    "face",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "protective",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "surgical",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "n95",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "disposable",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "medical",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "dust",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "respirator",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "antipollution",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "filter",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "hygiene",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "virus",
+                    "protection",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "allergy",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "air",
+                    "purify",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "personal",
+                    "protective",
+                    "equipment",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "antibacterial",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "antiviral",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "face",
+                    "covering"
+                ]
+            },
+            {
+                "content": [
+                    "breathable",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "skinfriendly",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "washable",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "3ply",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "kn95",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "ffp2",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "ffp3",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "pm5",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "face",
+                    "shield"
+                ]
+            },
+            {
+                "content": [
+                    "mask",
+                    "filter"
+                ]
+            },
+            {
+                "content": [
+                    "mask",
+                    "accessory"
+                ]
+            }
+        ]
+    },
+    "Pillboxes": {
+        "filter_words": [
+			{
+				"content":["box", "pill"]
+			},
+            {
+                "content": "pillbox"
+            },
+            {
+                "content": [
+                    "medication",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pill",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "medicine",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "pill",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "pill",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "medication",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "weekly",
+                    "pillbox"
+                ]
+            },
+            {
+                "content": [
+                    "daily",
+                    "pill",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "monthly",
+                    "pill",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pill",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "medicine",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "pill",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "pillbox"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "pill",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "prescription",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "vitamin",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pillbox",
+                    "alarm"
+                ]
+            },
+            {
+                "content": [
+                    "pillbox",
+                    "timer"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "pillbox"
+                ]
+            },
+            {
+                "content": [
+                    "multicompartment",
+                    "pillbox"
+                ]
+            },
+            {
+                "content": [
+                    "pillbox",
+                    "elderly"
+                ]
+            },
+            {
+                "content": [
+                    "pillbox",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "pillbox"
+                ]
+            },
+            {
+                "content": [
+                    "lockable",
+                    "pillbox"
+                ]
+            }
+        ]
+    },
+    "Toothbrushes": {
+        "filter_words": [
+            {
+                "content": "toothbrush"
+            },
+            {
+                "content": [
+                    "dental",
+                    "care"
+                ]
+            },
+            {
+                "content": [
+                    "oral",
+                    "hygiene"
+                ]
+            },
+            {
+                "content": [
+                    "electric",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "manual",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "oral",
+                    "care",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "adult",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "bristle",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "bristle",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "replacement",
+                    "head"
+                ]
+            },
+            {
+                "content": [
+                    "whiten",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "charcoal",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "brand"
+                ]
+            },
+            {
+                "content": [
+                    "multipack",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "toothpaste",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "brace"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "sensitive",
+                    "gum"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "gum",
+                    "disease"
+                ]
+            }
+        ]
+    }
+}

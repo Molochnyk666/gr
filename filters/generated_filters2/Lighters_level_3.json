@@ -1,0 +1,1135 @@
+{
+    "Lighter sets": {
+        "filter_words": [
+            {
+                "content": [
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cigarette",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bbq",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "grill",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "fireplace",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "collectible",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "butane",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "electric",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "gas",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "torch",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "engrave",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "lighter",
+                    "light",
+                    "cigar",
+                    "cutter",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Metal lighters": {
+        "filter_words": [
+            {
+                "content": [
+                    "metal",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "aluminum",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "brass",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "copper",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silver",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metallic",
+                    "finish",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "engrave",
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "cigar",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "pipe",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "zippo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "bic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "torch",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "pocket",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "butane",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "flint",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gas",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "electric",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "usb",
+                    "lighter",
+                    "lighter"
+                ]
+            }
+        ]
+    },
+    "Piezo lighters": {
+        "filter_words": [
+            {
+                "content": [
+                    "piezo",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "ignition",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "electric",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "lighter",
+                    "lighter",
+                    "piezo",
+                    "ignition"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "spark",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "butane",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "bbq",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "ignition",
+                    "gas",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "highquality",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "torch",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "cigarette",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "kitchen",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "camping",
+                    "lighter",
+                    "lighters"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "flame",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "reach",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            }
+        ]
+    },
+    "Plastic lighters": {
+        "filter_words": [
+		      {
+                "content":"lighter",
+				"anti_word": ["metal","zippo","piezo","set","silicon"]
+
+            },
+            {
+                "content": [
+                    "plastic",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "disposable",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "bic",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "cheap",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "bulk",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "color",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "bbq",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "cigarette",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "gas",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "butane",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "lighter",
+                    "light",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "lighter",
+                    "light",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "pocket",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "torch",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "electronic",
+                    "lighter",
+                    "lighter"
+                ]
+            }
+        ]
+    },
+    "Silicon lighters": {
+        "filter_words": [
+            {
+                "content": [
+                    "silicon",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicon",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "cover",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "case",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "sleeve",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "lighter",
+                    "lighter",
+                    "silicone",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "waterproof",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "light",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "lighter",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "silicone",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "encase",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "light",
+                    "protector"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "lighter",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "silicone",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "resistant",
+                    "silicone",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "light",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "light",
+                    "skin"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "light",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "silicone",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "nonslip",
+                    "silicone",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "bic",
+                    "lighter",
+                    "lighter"
+                ]
+            }
+        ]
+    },
+    "Zippo lighters": {
+        "filter_words": [
+            {
+                "content": [
+                    "zippo",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "collectible",
+                    "lighter",
+                    "lighters"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "zippo"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "butane",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "outdoor",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "pocket",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "classic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "engrave",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "military",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "flame",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "fluid"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "limited",
+                    "edition"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "harley",
+                    "davidson",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "replacement"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "lighter",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "custom",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "insert"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "windproof",
+                    "lighter",
+                    "lighter"
+                ]
+            }
+        ]
+    }
+}

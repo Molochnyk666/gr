@@ -1,0 +1,681 @@
+{	"Bicycle repair kits":{
+		"filter_words": [ 
+		{"content": [
+                    "bicycle",
+                    "repear",
+					"kit"
+		]},
+		{"content": [
+                    "repear",
+					"kit"]}
+					]
+	},
+    "Bicycle bells": {
+        "filter_words": [
+            {
+                "content": [
+                    "bicycle",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bells"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "mountain",
+                    "bike",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "road",
+                    "bike",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "bike",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "bicycle",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "loud",
+                    "bicycle",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "bell",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "ring",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "brass",
+                    "bicycle",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "handlebar",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "bike",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "bicycle",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "bike",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "bell",
+                    "horns"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "bicycle",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "bike",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "pitch",
+                    "bicycle",
+                    "bell"
+                ]
+            }
+        ]
+    },
+    "Bike bottles": {
+        "filter_words": [
+            {
+                "content": [
+                    "bike",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "hydration",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "cycle",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bottle",
+                    "cage"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "bike",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "mountain",
+                    "bike",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "road",
+                    "bike",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "drink",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "hydration",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "water",
+                    "bottle",
+                    "bike"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bottle",
+                    "mount"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "bottle",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "hydration",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "cycle",
+                    "bottle",
+                    "cage"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bottle",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "water",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bottle",
+                    "bracket"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "drink",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "hydration",
+                    "bottle"
+                ]
+            }
+        ]
+    },
+    "Bike lights": {
+        "filter_words": [
+            {
+                "content": [
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "headlight"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "tail",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "lighting",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "mountain",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "road",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "safety",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "rear",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "light",
+                    "mount"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "intensity",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light",
+                    "battery"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "night",
+                    "riding",
+                    "lights"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "indicator",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light",
+                    "bracket"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "dynamo",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "light",
+                    "reflector"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light",
+                    "holder"
+                ]
+            }
+        ]
+    },
+    "Bike saddle covers": {
+        "filter_words": [
+            {
+                "content": [
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "pad",
+                    "bicycle",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "comfortable",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "mountain",
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "road",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "saddle",
+                    "protection"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "seat",
+                    "cushion",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "universal",
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "breathable",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "antislip",
+                    "bicycle",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "elastic",
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "saddle",
+                    "rain",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "memory",
+                    "foam",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "saddle",
+                    "skin",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "neoprene",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "saddle",
+                    "cover",
+                    "replacement"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "saddle",
+                    "protective",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            }
+        ]
+    }
+}

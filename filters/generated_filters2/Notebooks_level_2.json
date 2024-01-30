@@ -1,0 +1,2016 @@
+{
+    "A4 notebooks": {
+        "filter_words": [
+            {
+                "content": [
+                    "a4",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "size",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "paper",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "spiral",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "lined",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "blank",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "hardcover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "sketch",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "writing",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "college",
+                    "rule",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "grid",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "leather",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "journal",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "drawing",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "school",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "office",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "personal",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "business",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "academic",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "designer",
+                    "notebook"
+                ]
+            }
+        ]
+    },
+    "A5 notebooks": {
+        "filter_words": [
+            {
+                "content": [
+                    "a5",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "size",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "journal"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "diary"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "sketchbook"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "notebook",
+                    "line"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "notebook",
+                    "blank",
+                    "page"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "spiral",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "hardcover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "leather",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "bullet",
+                    "journal"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "grid",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "dot",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "notebook",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "travel",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "personalized",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "moleskine",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "notebook",
+                    "divider"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "notebook",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "notebook",
+                    "pen",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "notebook",
+                    "elastic",
+                    "band"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "notebook",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "notebook",
+                    "school"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "notebook",
+                    "office"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "notebook",
+                    "artist"
+                ]
+            }
+        ]
+    },
+    "A6 notebooks": {
+        "filter_words": [
+            {
+                "content": [
+                    "a6",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "size",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "journal"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "diary"
+                ]
+            },
+            {
+                "content": "sketchbook"
+            },
+            {
+                "content": [
+                    "a6",
+                    "notepad"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "spiral",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "hardcover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "lined",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "blank",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "grid",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "leather",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "travel",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "bullet",
+                    "journal"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "personalized",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "moleskine",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a6",
+                    "planner",
+                    "notebook"
+                ]
+            }
+        ]
+    },
+    "A7 notebooks": {
+        "filter_words": [
+            {
+                "content": [
+                    "a7",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "size",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "pocket",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "line",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "leather",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "spiral",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "travel",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "grid",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "sketch",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "journal",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "planner",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "dot",
+                    "grid",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "moleskine",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "personalized",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "bullet",
+                    "journal",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a7",
+                    "diary",
+                    "notebook"
+                ]
+            },
+            {
+                "content": "notepad"
+            },
+            {
+                "content": [
+                    "writing",
+                    "notebook"
+                ]
+            }
+        ]
+    },
+    "Business notebooks": {
+        "filter_words": [
+            {
+                "content": [
+                    "business",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "executive",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "bind",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "hardback",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "business",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "pen",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "quality",
+                    "paper",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "index",
+                    "tabs"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "meeting",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "journal",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "planner",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "list"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "time",
+                    "schedule"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "project",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "entrepreneur"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "strategy",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "goal",
+                    "tracker"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "idea",
+                    "notebook"
+                ]
+            }
+        ]
+    },
+    "Checkered notebooks": {
+        "filter_words": [
+            {
+                "content": [
+                    "checkered",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "grid",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "squared",
+                    "paper",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "graph",
+                    "paper",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "journal"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "diary"
+                ]
+            },
+            {
+                "content": [
+                    "check",
+                    "pattern",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "sketchbook"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "notepad"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "stationery"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "school",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "office",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "writing",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "drawing",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "design",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "bullet",
+                    "journal"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "composition",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "planner",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "dot",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "lined",
+                    "notebook"
+                ]
+            }
+        ]
+    },
+    "Hardcover notebooks": {
+        "filter_words": [
+            {
+                "content": [
+                    "hardcover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "hardbound",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "quality",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "journal"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "diary"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "sketchbook"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "writing",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "spiral",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "hardcover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "line",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "blank",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "notebook",
+                    "elastic",
+                    "band"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "notebook",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "hardcover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "hardcover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "hardcover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "notebook",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "thick",
+                    "hardcover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "grid",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "dotted",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "notebook",
+                    "school"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "notebook",
+                    "office"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "notebook",
+                    "artist"
+                ]
+            }
+        ]
+    },
+    "Line notebooks": {
+        "filter_words": [
+            {
+                "content": [
+                    "line",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "lined",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "college",
+                    "rule",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "wide",
+                    "rule",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "spiral",
+                    "notebook",
+                    "line"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "lined",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "a4",
+                    "lined",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "lined",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "lined",
+                    "journal",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "lined",
+                    "writing",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "lined",
+                    "paper",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "lined",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "lined",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "lined",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "lined",
+                    "sketch",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "line",
+                    "notebook",
+                    "school"
+                ]
+            },
+            {
+                "content": [
+                    "line",
+                    "notebook",
+                    "office"
+                ]
+            },
+            {
+                "content": [
+                    "lined",
+                    "notebook",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "lined",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "line",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "line",
+                    "notebook",
+                    "divider"
+                ]
+            }
+        ]
+    },
+    "Moleskine notebooks": {
+        "filter_words": [
+            {
+                "content": [
+                    "moleskine",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "journals"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "sketchbook"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "planner"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "diaries"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "classic",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "cahier",
+                    "journals"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "art",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "professional",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "soft",
+                    "cover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "hard",
+                    "cover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "pocket",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "large",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "xl",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "rule",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "plain",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "dotted",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "grid",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "leather",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "limited",
+                    "edition",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "watercolor",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "writing",
+                    "instrument"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "city",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "travel",
+                    "notebook"
+                ]
+            }
+        ]
+    },
+	
+    "Notebooks with pen": {
+        "filter_words": [
+            {
+                "content": [
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "journal",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "diary",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "notepad",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "spiral",
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "pen",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "hardcover",
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "executive",
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "a5",
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "eco",
+                    "-",
+                    "friendly",
+                    "notebook",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "attach",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "line",
+                    "notebook",
+                    "pen"
+                ]
+            }
+        ]
+    },
+    "Organiser notebooks": {
+        "filter_words": [
+            {
+                "content": [
+                    "organiser",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "planner",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "schedule",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "diary",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "task",
+                    "management",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "agenda",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "journal",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "productivity",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "goal",
+                    "setting",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "time",
+                    "management",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "personal",
+                    "organizer",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "daily",
+                    "planner",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "weekly",
+                    "planner",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "monthly",
+                    "planner",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "yearly",
+                    "planner",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "list",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "appointment",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "project",
+                    "planner",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "organizer",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "student",
+                    "planner",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "meeting",
+                    "notes",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "event",
+                    "planning",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "planner",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "planner",
+                    "notebook"
+                ]
+            }
+        ]
+    },
+    "Paperback notebooks": {
+        "filter_words": [
+            {
+                "content": [
+                    "paperback",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "softcover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "flexible",
+                    "cover",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "journal",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "diary",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "college",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "writing",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "sketching",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "lined",
+                    "paper",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "blank",
+                    "paper",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "dot",
+                    "paper",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "grid",
+                    "paper",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "size",
+                    "paperback",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "spiral",
+                    "paperback",
+                    "notebooks"
+                ]
+            },
+            {
+                "content": [
+                    "bind",
+                    "paperback",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "paperback",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "plain",
+                    "paperback",
+                    "notebook"
+                ]
+            }
+        ]
+    },
+    "Sets with notebook": {
+        "filter_words": [
+            {
+                "content": [
+                    "set",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "set",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "journal",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "diary",
+                    "notebook",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "notebook",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "combo",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "notebook",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "notebook",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "notebook",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "notebook",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "notebook",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "notebook",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "notebook",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "planner",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "moleskine",
+                    "notebook",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "journal",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "sketchbook",
+                    "set"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,6196 @@
+{
+    "Badges": {
+        "filter_words": [
+            {
+                "content": "badge"
+            },
+            {
+                "content": [
+                    "id",
+                    "badge"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "holders"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "clip"
+                ]
+            },
+            {
+                "content": "lanyard"
+            },
+            {
+                "content": [
+                    "badge",
+                    "reel"
+                ]
+            },
+            {
+                "content": [
+                    "magnetic",
+                    "badge"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "punch"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "badge"
+                ]
+            },
+            {
+                "content": [
+                    "employee",
+                    "badge"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "badge"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "making",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "pins"
+                ]
+            },
+            {
+                "content": [
+                    "retractable",
+                    "badge"
+                ]
+            },
+            {
+                "content": [
+                    "visitor",
+                    "badges"
+                ]
+            },
+            {
+                "content": [
+                    "conference",
+                    "badge"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "inserts"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "ribbons"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "label"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "design",
+                    "software"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "protectors"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "chains"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "attachment"
+                ]
+            }
+        ]
+    },
+    "Business cards holders": {
+        "filter_words": [
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "display"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "mounted",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "rotate",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "multiple",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "desk",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "display",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "executive",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "vertical",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "logo"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "logo",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "branded",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "holder",
+                    "logo"
+                ]
+            },
+            {
+                "content": [
+                    "company",
+                    "logo",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "engraved",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "logoembosse",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "customized",
+                    "logo",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "logo",
+                    "card",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "business",
+                    "card",
+                    "holder",
+                    "logo"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "holder",
+                    "branding"
+                ]
+            },
+            {
+                "content": [
+                    "logo",
+                    "imprint",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "holder",
+                    "marketing"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "logo",
+                    "card",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "logoprinte",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "holder",
+                    "promotion"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "holder",
+                    "company",
+                    "logo"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "genuine",
+                    "leather",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "leather",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "case",
+                    "leather"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "card",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "leather",
+                    "card",
+                    "holders"
+                ]
+            },
+            {
+                "content": [
+                    "executive",
+                    "leather",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "leather",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "leather",
+                    "card",
+                    "holders"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "leather",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "leather",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "leather",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "leather",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "business",
+                    "card",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "business",
+                    "card",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "leather",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "leather",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "business",
+                    "card",
+                    "holder",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "business",
+                    "card",
+                    "holder",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "slim",
+                    "leather",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "display",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "holder",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "holder",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Business cards holders_level_2.json"
+    },
+    "Calculators": {
+        "filter_words": [
+            {
+                "content": "calculator"
+            },
+            {
+                "content": [
+                    "scientific",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "graphing",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "financial",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "printing",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "solar",
+                    "power",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "accounting",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "basic",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "advanced",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "calculator",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "calculator",
+                    "battery"
+                ]
+            },
+            {
+                "content": [
+                    "calculator",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "display",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "programmable",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "engineering",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "statistic",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "calculator",
+                    "printer"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "electronic",
+                    "calculator"
+                ]
+            },
+            {
+                "content": [
+                    "calculator",
+                    "memory",
+                    "function"
+                ]
+            }
+        ]
+    },
+    "Calendars": {
+        "filter_words": [
+            {
+                "content": "calendar"
+            },
+            {
+                "content": [
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "yearly",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "monthly",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "weekly",
+                    "planner"
+                ]
+            },
+            {
+                "content": [
+                    "daily",
+                    "planner"
+                ]
+            },
+            {
+                "content": [
+                    "appointment",
+                    "book"
+                ]
+            },
+            {
+                "content": [
+                    "schedule",
+                    "planner"
+                ]
+            },
+            {
+                "content": [
+                    "academic",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "magnetic",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "dry",
+                    "erase",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "flip",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "perpetual",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "planner",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "board"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "diary"
+                ]
+            },
+            {
+                "content": [
+                    "perpetual",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "yearround",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "infinite",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "nonyear",
+                    "specific",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "allyear",
+                    "calendars"
+                ]
+            },
+            {
+                "content": [
+                    "forever",
+                    "calendars"
+                ]
+            },
+            {
+                "content": [
+                    "endless",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "universal",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "timeless",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "date",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "lifelong",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "continuous",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "everlasting",
+                    "calendars"
+                ]
+            },
+            {
+                "content": [
+                    "unending",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "eternal",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "indefinite",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "unrestricted",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "nonexpiring",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "relevant",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "calendarstable",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "standup",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "daily",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "monthly",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "yearly",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "planner",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "academic",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "quarterly",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "threemonth",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "90day",
+                    "calendars"
+                ]
+            },
+            {
+                "content": [
+                    "seasonal",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "quarterly",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "academic",
+                    "quarterly",
+                    "calendars"
+                ]
+            },
+            {
+                "content": [
+                    "fiscal",
+                    "quarterly",
+                    "calendars"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "quarterly",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "quarterly",
+                    "calendars"
+                ]
+            },
+            {
+                "content": [
+                    "planner",
+                    "quarterly",
+                    "calendars"
+                ]
+            },
+            {
+                "content": [
+                    "yearly",
+                    "calendar",
+                    "quarterly",
+                    "view"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "quarterly",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "quarterly",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "printable",
+                    "quarterly",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "quarterly",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "quarterly",
+                    "calendar",
+                    "template"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "quarterly",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "quarterly",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "quarterly",
+                    "planning",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "quarterly",
+                    "organizational",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "monthly",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "yearly",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "theme",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "inspirational",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "animal",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "nature",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "artistic",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "educational",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "motivational",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "flip",
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "authentic",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "genuine",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "real",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "traditional",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "classic",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "authenticity",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "design",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "artwork",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "historical",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "collector",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "limited",
+                    "edition",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "exclusive",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "print",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "custommade",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "illustration",
+                    "calendar"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Calendars_level_2.json"
+    },
+    "Clock": {
+        "filter_words": [
+            {
+                "content": "clock"
+            },
+            {
+                "content": [
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "analog",
+                    "clock"
+                ]
+            },
+            {
+                "content": "timekeeper"
+            },
+            {
+                "content": [
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "alarm",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "pendulum",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "quartz",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "battery",
+                    "operate",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "silent",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "temperature",
+                    "display"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "timepiece"
+                ]
+            },
+            {
+                "content": [
+                    "countdown",
+                    "clock"
+                ]
+            },
+            {
+                "content": "stopwatch"
+            },
+            {
+                "content": "timer"
+            },
+            {
+                "content": [
+                    "clock",
+                    "date",
+                    "display"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "desk",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "alarm",
+                    "function"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "pendulum",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "retro",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "minimalist",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "nautical",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "quartz",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "atomic",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "battery",
+                    "operate",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "mantel",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "bedside",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "analog",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "alarm",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "retro",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "quartz",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "battery",
+                    "operate",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "silent",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "clock",
+                    "office"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "analog",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "wall",
+                    "decor",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "date"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "temperature"
+                ]
+            },
+            {
+                "content": [
+                    "silent",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "battery",
+                    "operate"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "alarm"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "second"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "timer"
+                ]
+            },
+            {
+                "content": [
+                    "stylish",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "day",
+                    "date"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "world",
+                    "time"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "pendulum",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "highend",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "exclusive",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "elite",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "prestigious",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "timepiece"
+                ]
+            },
+            {
+                "content": [
+                    "expensive",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "status",
+                    "symbol",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "luxury",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "quality",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "brand",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "gold",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "diamond",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "man",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "woman",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "watch",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "watch",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "watch",
+                    "model"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "watch",
+                    "style"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "watch",
+                    "brand"
+                ]
+            },
+            {
+                "content": "hourglass"
+            },
+            {
+                "content": [
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "sand",
+                    "timer",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "hourglass"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "brass",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "sand",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "timepiece",
+                    "hourglass"
+                ]
+            },
+            {
+                "content": [
+                    "nautical",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "miniature",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "sandglass",
+                    "timer",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "retro",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "analog",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "alarm",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pendulum",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "grandfather",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cuckoo",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "mantel",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "nautical",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "time",
+                    "zone",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "thermometer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "barometer",
+                    "set"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Clock_level_2.json"
+    },
+    "Document folders": {
+        "filter_words": [
+			{
+				"content": "folder"
+			},
+            {
+                "content": [
+                    "document",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "file",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "document",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "file",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "document",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "file",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "hang",
+                    "file",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "legal",
+                    "size",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "letter",
+                    "size",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "expand",
+                    "file",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "classification",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "accordion",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "manila",
+                    "folders"
+                ]
+            },
+            {
+                "content": [
+                    "presentation",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "binder",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "file",
+                    "label"
+                ]
+            },
+            {
+                "content": [
+                    "file",
+                    "divider"
+                ]
+            },
+            {
+                "content": [
+                    "file",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "document",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "portfolio",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "report",
+                    "covers"
+                ]
+            },
+            {
+                "content": [
+                    "file",
+                    "jacket"
+                ]
+            },
+            {
+                "content": [
+                    "tab",
+                    "divider"
+                ]
+            },
+            {
+                "content": [
+                    "file",
+                    "tab"
+                ]
+            }
+        ]
+    },
+    "For notes": {
+        "filter_words": [
+			{
+				"content":["sticky", "note"]
+			},
+            {
+                "content": "note"
+            },
+            {
+                "content": "notepad"
+            },
+            {
+                "content": [
+                    "sticky",
+                    "note"
+                ]
+            },
+            {
+                "content": "notebook"
+            },
+            {
+                "content": [
+                    "memo",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "index",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "legal",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "spiral",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "composition",
+                    "book"
+                ]
+            },
+            {
+                "content": "journal"
+            },
+            {
+                "content": [
+                    "flip",
+                    "chart"
+                ]
+            },
+            {
+                "content": [
+                    "graph",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "sketch",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "postit",
+                    "notes"
+                ]
+            },
+            {
+                "content": [
+                    "write",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "lined",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "notepad",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "notebook"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "notepad"
+                ]
+            },
+            {
+                "content": [
+                    "note",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "note",
+                    "tabs"
+                ]
+            },
+            {
+                "content": [
+                    "note",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "note",
+                    "cards"
+                ]
+            },
+            {
+                "content": [
+                    "note",
+                    "binder"
+                ]
+            },
+            {
+                "content": [
+                    "note",
+                    "organizer"
+                ]
+            },
+            {
+                "content": "sticker"
+            },
+            {
+                "content": [
+                    "decorative",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "vinyl",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "planner",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "scrapbooking",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "bumper",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "stick",
+                    "sheet"
+                ]
+            },
+            {
+                "content": [
+                    "diecut",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "sticker",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "label",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "3d",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "glow",
+                    "dark",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "holographic",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "educational",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "craft",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "sticker",
+                    "books"
+                ]
+            },
+            {
+                "content": [
+                    "emoji",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "cartoon",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "animal",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "alphabet",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "number",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "reward",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "post",
+                    "-",
+                    "note"
+                ]
+            },
+            {
+                "content": [
+                    "adhesive",
+                    "note"
+                ]
+            },
+            {
+                "content": [
+                    "removable",
+                    "note"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "notes"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "supply"
+                ]
+            },
+            {
+                "content": "stationery"
+            },
+            {
+                "content": [
+                    "m",
+                    "postit",
+                    "notes"
+                ]
+            },
+            {
+                "content": [
+                    "colorful",
+                    "sticky",
+                    "note"
+                ]
+            },
+            {
+                "content": [
+                    "selfstick",
+                    "note"
+                ]
+            },
+            {
+                "content": [
+                    "popup",
+                    "note"
+                ]
+            },
+            {
+                "content": [
+                    "super",
+                    "sticky",
+                    "note"
+                ]
+            },
+            {
+                "content": [
+                    "lined",
+                    "postit",
+                    "notes"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "postit",
+                    "note"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "postit",
+                    "note"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "postit",
+                    "notes"
+                ]
+            },
+            {
+                "content": [
+                    "postit",
+                    "note",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "postit",
+                    "note",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "postit",
+                    "note",
+                    "cubes"
+                ]
+            },
+            {
+                "content": [
+                    "postit",
+                    "note",
+                    "flag"
+                ]
+            },
+            {
+                "content": [
+                    "postit",
+                    "note",
+                    "tabs"
+                ]
+            },
+            {
+                "content": [
+                    "postit",
+                    "note",
+                    "shape"
+                ]
+            },
+            {
+                "content": [
+                    "postit",
+                    "note",
+                    "size"
+                ]
+            },
+            {
+                "content": [
+                    "postit",
+                    "note",
+                    "color"
+                ]
+            },
+            {
+                "content": [
+                    "binder",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "document",
+                    "organization"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "fastener"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "file",
+                    "organization"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "binding",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "binder"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "essentials"
+                ]
+            },
+            {
+                "content": [
+                    "paperwork",
+                    "organization"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "binder",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "binder",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "colored",
+                    "binder",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "bulk",
+                    "binder",
+                    "clip"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\For notes_level_2.json"
+    },
+    "Holders": {
+        "filter_words": [
+            {
+                "content": "holder"
+            },
+            {
+                "content": [
+                    "pen",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "document",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "file",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "clip",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "magazine",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "folder",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "stapler",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "tape",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "letter",
+                    "holder"
+                ]
+            },
+            {
+                "content": "bookend"
+            },
+            {
+                "content": "paperweight"
+            },
+            {
+                "content": [
+                    "desk",
+                    "tray"
+                ]
+            },
+            {
+                "content": [
+                    "binder",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "cup"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "caddy"
+                ]
+            },
+            {
+                "content": [
+                    "sticky",
+                    "note",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "brochure",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "sorter"
+                ]
+            },
+            {
+                "content": [
+                    "envelope",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "shelf"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "clipboard",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "drawer",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "file",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "label",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "cd",
+                    "dvd",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "memo",
+                    "holder"
+                ]
+            }
+        ]
+    },
+    "Moneyboxes": {
+        "filter_words": [
+            {
+                "content": "moneyboxe"
+            },
+            {
+                "content": [
+                    "cash",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "coin",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "piggy",
+                    "bank"
+                ]
+            },
+            {
+                "content": [
+                    "safe",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cash",
+                    "drawer"
+                ]
+            },
+            {
+                "content": [
+                    "lockable",
+                    "money",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "money",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "coin",
+                    "collector"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "saving",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "cash",
+                    "safe"
+                ]
+            },
+            {
+                "content": [
+                    "coin",
+                    "bank"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "jar"
+                ]
+            },
+            {
+                "content": [
+                    "cash",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "coin",
+                    "storage",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "box",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "money",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "money",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cash",
+                    "box",
+                    "key"
+                ]
+            },
+            {
+                "content": [
+                    "petty",
+                    "cash",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "secure",
+                    "money",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "box",
+                    "safe"
+                ]
+            }
+        ]
+    },
+    "Office sets": {
+        "filter_words": [
+            {
+                "content": [
+                    "office",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "furniture",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "desk",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "chair",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "stationery",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "supply",
+                    "bundle"
+                ]
+            },
+            {
+                "content": [
+                    "complete",
+                    "office",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "equipment",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "organizer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "file",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "storage",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "writing",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "desktop",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "notebook",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "stapler",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "paper",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "folder",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "binder",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clip",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "tape",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "scissor",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "envelope",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "label",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "calculator",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Pencil cases and stands": {
+        "filter_words": [
+			{
+				"content": ["pencil", "case"]
+			},
+            {
+                "content": [
+                    "pencil",
+                    "case",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "supply",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "write",
+                    "instrument",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "desk",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "holder",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "multifunction",
+                    "desk",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "case",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "pen",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "pencil",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "zippered",
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "canvas",
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "cute",
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "case",
+                    "compartment"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "case",
+                    "girl",
+                    "boy"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "case",
+                    "zipper"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "case",
+                    "adult"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "case",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "case",
+                    "artist"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "pencil",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "pencil",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "pen",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "pencil",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "case",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "multifunctional",
+                    "pen",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "pencil",
+                    "display",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "stationery",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "pen",
+                    "pencil",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "organizer",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "pen",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "pen",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "display",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "carry",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "case",
+                    "zipper"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "case",
+                    "desk"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "case",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "case",
+                    "hard",
+                    "shell"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "case",
+                    "large",
+                    "capacity"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "case",
+                    "student"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "case",
+                    "artist"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand",
+                    "office"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand",
+                    "desk"
+                ]
+            },
+            {
+                "content": [
+                    "rotate",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand",
+                    "drawer"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand",
+                    "organizer"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Pencil cases and stands_level_2.json"
+    },
+    "Press papier": {
+        "filter_words": [
+            {
+                "content": [
+                    "press",
+                    "papier"
+                ]
+            },
+            {
+                "content": "paperweight"
+            },
+            {
+                "content": [
+                    "desk",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "stone",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "marble",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "engraved",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "paperweight"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "paperweight"
+                ]
+            }
+        ]
+    },
+    "Stationery": {
+        "filter_words": [
+            {
+                "content": "stationery"
+            },
+            {
+                "content": "pen"
+            },
+            {
+                "content": "pencil"
+            },
+            {
+                "content": "notebook"
+            },
+            {
+                "content": "paper"
+            },
+            {
+                "content": "envelope"
+            },
+            {
+                "content": "stapler"
+            },
+            {
+                "content": [
+                    "paper",
+                    "clip"
+                ]
+            },
+            {
+                "content": "highlighter"
+            },
+            {
+                "content": "marker"
+            },
+            {
+                "content": "eraser"
+            },
+            {
+                "content": "ruler"
+            },
+            {
+                "content": [
+                    "sticky",
+                    "note"
+                ]
+            },
+            {
+                "content": "binder"
+            },
+            {
+                "content": [
+                    "index",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "correction",
+                    "fluid"
+                ]
+            },
+            {
+                "content": "tape"
+            },
+            {
+                "content": "scissor"
+            },
+            {
+                "content": [
+                    "hole",
+                    "punch"
+                ]
+            },
+            {
+                "content": [
+                    "rubber",
+                    "band"
+                ]
+            },
+            {
+                "content": "label"
+            },
+            {
+                "content": [
+                    "desk",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "file",
+                    "cabinet"
+                ]
+            },
+            {
+                "content": "calendar"
+            },
+            {
+                "content": "planner"
+            },
+            {
+                "content": "whiteboard"
+            },
+            {
+                "content": "clipboard"
+            },
+            {
+                "content": "stamp"
+            },
+            {
+                "content": [
+                    "ink",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "letter",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "drawing",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "write",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "postit",
+                    "notes"
+                ]
+            },
+            {
+                "content": [
+                    "glue",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "colored",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "graph",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "printer",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "ink",
+                    "cartridges"
+                ]
+            },
+            {
+                "content": "toner"
+            },
+            {
+                "content": [
+                    "fax",
+                    "machine",
+                    "supply"
+                ]
+            },
+            {
+                "content": "ruler"
+            },
+            {
+                "content": [
+                    "measure",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "rulers"
+                ]
+            },
+            {
+                "content": [
+                    "architectural",
+                    "scale",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "engineering",
+                    "scale",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "draft",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "rulers"
+                ]
+            },
+            {
+                "content": [
+                    "geometry",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "flexible",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "straightedge",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "triangular",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "protractor",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "tsquare",
+                    "rulers"
+                ]
+            },
+            {
+                "content": [
+                    "laser",
+                    "rulers"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "ruler"
+                ]
+            },
+            {
+                "content": "yardstick"
+            },
+            {
+                "content": [
+                    "meter",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "ruler",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "precision",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "graphic",
+                    "design",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "draw",
+                    "ruler"
+                ]
+            },
+            {
+                "content": [
+                    "ruler",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "ruler",
+                    "magnifying",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "ruler",
+                    "stencil"
+                ]
+            },
+            {
+                "content": [
+                    "ruler",
+                    "nonslip",
+                    "backing"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "fastener"
+                ]
+            },
+            {
+                "content": [
+                    "binder",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "paper",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "colored",
+                    "paper",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "jumbo",
+                    "paper",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "paper",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "paper",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "clip",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "clip",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "assort",
+                    "paper",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "clip",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "paper",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "multipurpose",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "organize",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "supply",
+                    "paper",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "holding",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "clip",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "paper",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "paperwork",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "document",
+                    "clip"
+                ]
+            },
+            {
+                "content": "staples"
+            },
+            {
+                "content": [
+                    "staple",
+                    "pin"
+                ]
+            },
+            {
+                "content": [
+                    "staple",
+                    "remover"
+                ]
+            },
+            {
+                "content": [
+                    "heavyduty",
+                    "stapler"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "stapler"
+                ]
+            },
+            {
+                "content": [
+                    "staple",
+                    "cartridge"
+                ]
+            },
+            {
+                "content": [
+                    "staple",
+                    "gun"
+                ]
+            },
+            {
+                "content": [
+                    "electric",
+                    "stapler"
+                ]
+            },
+            {
+                "content": [
+                    "staplefree",
+                    "stapler"
+                ]
+            },
+            {
+                "content": [
+                    "staple",
+                    "binder"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "staple"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "staple"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "stapler"
+                ]
+            },
+            {
+                "content": [
+                    "staple",
+                    "wire"
+                ]
+            },
+            {
+                "content": [
+                    "staple",
+                    "size"
+                ]
+            },
+            {
+                "content": [
+                    "refill",
+                    "staple"
+                ]
+            },
+            {
+                "content": [
+                    "stapling",
+                    "machine"
+                ]
+            },
+            {
+                "content": [
+                    "stapleless",
+                    "stapler"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "reach",
+                    "stapler"
+                ]
+            },
+            {
+                "content": [
+                    "stapler",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "stapler",
+                    "punch",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "multisheet",
+                    "stapler"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "stapler"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "capacity",
+                    "stapler"
+                ]
+            },
+            {
+                "content": [
+                    "stapler",
+                    "staple"
+                ]
+            },
+            {
+                "content": "bookmark"
+            },
+            {
+                "content": [
+                    "page",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "reading",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "book",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "magnetic",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "bead",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "literary",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "educational",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "theme",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "bookmark",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bookmark",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "tassel",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "bookmark",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "inspirational",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "bookmark",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "utility",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "cutter"
+                ]
+            },
+            {
+                "content": [
+                    "craft",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "cutter"
+                ]
+            },
+            {
+                "content": [
+                    "precision",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "blade"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "hobby",
+                    "knife"
+                ]
+            },
+            {
+                "content": "scalpel"
+            },
+            {
+                "content": [
+                    "cut",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "retractable",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "xacto",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "cutting",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "cutting",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "scrapbooking",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "graphic",
+                    "art",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "knife",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "multipurpose",
+                    "stationery",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "stationery",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "stationery",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "stationery",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "knife",
+                    "blade"
+                ]
+            },
+            {
+                "content": "sharpener"
+            },
+            {
+                "content": [
+                    "pencil",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "electric",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "manual",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "dual",
+                    "hole",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "single",
+                    "hole",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "crayon",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "battery",
+                    "operate",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "carpenter",
+                    "pencil",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "colored",
+                    "pencil",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "artist",
+                    "pencil",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "mechanical",
+                    "pencil",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "sharpening",
+                    "machine"
+                ]
+            },
+            {
+                "content": [
+                    "sharpen",
+                    "tool"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Stationery_level_2.json"
+    },
+    "Weather stations": {
+        "filter_words": [
+            {
+                "content": [
+                    "weather",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "outdoor",
+                    "thermometer"
+                ]
+            },
+            {
+                "content": "hygrometer"
+            },
+            {
+                "content": "barometer"
+            },
+            {
+                "content": [
+                    "weather",
+                    "forecast",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "weather",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "weather",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "monitoring"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "instruments"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "radio"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "tracker"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "sensor"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "vane"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "station",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "station",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "weather",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "weather",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "weather",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "station",
+                    "display"
+                ]
+            },
+            {
+                "content": "anemometer"
+            },
+            {
+                "content": [
+                    "rain",
+                    "gauge"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "station",
+                    "wind",
+                    "speed"
+                ]
+            },
+            {
+                "content": [
+                    "solar",
+                    "power",
+                    "weather",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "station",
+                    "app"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "station",
+                    "alarm",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "station",
+                    "humidity",
+                    "monitor"
+                ]
+            },
+            {
+                "content": [
+                    "weather",
+                    "station",
+                    "barometric",
+                    "pressure"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,1253 @@
+{
+    "Construction tools": {
+        "filter_words": [
+            {
+                "content": [
+                    "construction",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "building",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "power",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "hand",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "masonry",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "carpentry",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "concrete",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "plumbing",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "electrical",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "machinery"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "hardware"
+                ]
+            },
+            {
+                "content": [
+                    "measuring",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "cut",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "drilling",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "scaffolding",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "demolition",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "fastener"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "level"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "saw"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "drill"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "hammer"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "wrench"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "plier"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "ladder"
+                ]
+            }
+        ]
+    },
+    "Hammers": {
+        "filter_words": [
+            {
+                "content": "hammer"
+            },
+            {
+                "content": [
+                    "construction",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "hand",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "carpentry",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "improvement",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "hardware",
+                    "tool"
+                ]
+            },
+            {
+                "content": "mallet"
+            },
+            {
+                "content": "sledgehammer"
+            },
+            {
+                "content": [
+                    "ballpeen",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "claw",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "framing",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "demolition",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "masonry",
+                    "hammer"
+                ]
+            },
+            {
+                "content": [
+                    "softface",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "dead",
+                    "blow",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "power",
+                    "hammer"
+                ]
+            },
+            {
+                "content": [
+                    "hammer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "hammer"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "household",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "multipurpose",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "hammer",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "hammer",
+                    "handles"
+                ]
+            },
+            {
+                "content": [
+                    "hammer",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "hammer",
+                    "storage"
+                ]
+            }
+        ]
+    },
+    "Multitools": {
+        "filter_words": [
+			{
+				"content": ["officer", "knife"]
+			},
+		    {
+                "content": ["multi","tools"]
+            },
+            {
+                "content": "multitool"
+            },
+            {
+                "content": [
+                    "swiss",
+                    "army",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "survival",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "multitool"
+                ]
+            },
+            {
+                "content": "leatherman"
+            },
+            {
+                "content": [
+                    "gerber",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "multifunction",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "multipurpose",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "tactical",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "edc",
+                    "everyday",
+                    "carry",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "utility",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "plier"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "multifunctional",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "survival",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "survival",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "scissor"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "opener"
+                ]
+            }
+        ]
+    },
+    "Pocket knives": {
+        "filter_words": [
+            {
+                "content": [
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "swiss",
+                    "army",
+                    "knive"
+                ]
+            },
+            {
+                "content": [
+                    "hunting",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "tactical",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "survival",
+                    "knives"
+                ]
+            },
+            {
+                "content": [
+                    "edc",
+                    "everyday",
+                    "carry",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "utility",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "blade",
+                    "knive"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "lock",
+                    "blade",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "slip",
+                    "joint",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "trapper",
+                    "knive"
+                ]
+            },
+            {
+                "content": [
+                    "jack",
+                    "knives"
+                ]
+            },
+            {
+                "content": [
+                    "whittling",
+                    "knives"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "collector",
+                    "pocket",
+                    "knives"
+                ]
+            }
+        ]
+    },
+    "Roulettes": {
+        "filter_words": [
+						{
+			"content": "roulette"
+		},
+		{
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "measure",
+                    "tape"
+                ]
+            },
+			{
+                "content": [
+                    "measuring",
+                    "tape"
+                ]
+            },
+            {
+                "content": "roulettes"
+            },
+            {
+                "content": [
+                    "roulette",
+                    "wheel"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "table"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "chip"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "rake"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "layout"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "casino",
+                    "roulette"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "roulette",
+                    "wheel"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "roulette",
+                    "wheel"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "game",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "felt",
+                    "layout"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "betting",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "spinner"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "dealer",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "table",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "wheel",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "game",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "roulette",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "table",
+                    "cloth"
+                ]
+            },
+            {
+                "content": [
+                    "deluxe",
+                    "roulette",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "wheel",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "game",
+                    "equipment"
+                ]
+            }
+        ]
+    },
+    "Screwdrivers": {
+        "filter_words": [
+            {
+                "content": "screwdriver"
+            },
+            {
+                "content": [
+                    "hand",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "phillips",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "flathead",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "torx",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "precision",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "multibit",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "magnetic",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "ratcheting",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "insulated",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "electric",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "cordless",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "interchangeable",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "electronic"
+                ]
+            },
+            {
+                "content": [
+                    "watchmaker",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "automotive",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "comfort",
+                    "grip"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "nonslip",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "tight",
+                    "space"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "reach",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "storage",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "diy",
+                    "projects"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "home",
+                    "repair"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "computer",
+                    "repair"
+                ]
+            }
+        ]
+    },
+    "Tool kits": {
+        "filter_words": [
+            {
+                "content": [
+                    "tool",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "hand",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "power",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wrench",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plier",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "hammer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "drill",
+                    "bit"
+                ]
+            },
+            {
+                "content": [
+                    "socket",
+                    "set"
+                ]
+            },
+            {
+                "content": "toolbox"
+            },
+            {
+                "content": [
+                    "multitool",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "repair",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "tool",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "automotive",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "electrician",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "carpenter",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "gardening",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "plumbing",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "masonry",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "mechanic",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "improvement",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "maintenance",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "tool"
+                ]
+            }
+        ]
+    }
+}

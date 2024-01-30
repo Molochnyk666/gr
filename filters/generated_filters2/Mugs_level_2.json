@@ -1,0 +1,2523 @@
+{
+    "Beer mugs": {
+        "filter_words": [
+            {
+                "content": [
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "pint",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "stein"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "german",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "tankard"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "goblet"
+                ]
+            },
+            {
+                "content": [
+                    "craft",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "engrave",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "traditional",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "irish",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "oktoberfest",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "tall",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "tasting",
+                    "mug"
+                ]
+            }
+        ]
+    },
+    "Chameleon mugs": {
+        "filter_words": [
+            {
+                "content": [
+                    "chameleon",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "color",
+                    "change",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "reptile",
+                    "theme",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "animal",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "tea",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "sensitive",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "magic",
+                    "chameleon",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "design",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "print",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "art",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "pattern",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "ceramic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "inspire",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "image",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "theme",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "color",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "novelty",
+                    "mugs"
+                ]
+            },
+            {
+                "content": [
+                    "chameleon",
+                    "gift",
+                    "mug"
+                ]
+            }
+        ]
+    },
+    "Designer mug": {
+        "filter_words": [
+            {
+                "content": [
+                    "design",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "artistic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "design",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "tea",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "highend",
+                    "mugs"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "ceramic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "design",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "brand",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "insulate",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "porcelain",
+                    "mugs"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "bone",
+                    "china",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "stoneware",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "enamel",
+                    "mugs"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "mug",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "handpainted",
+                    "mug"
+                ]
+            }
+        ]
+    },
+    "Enamelled mugs": {
+        "filter_words": [
+            {
+                "content": [
+                    "enamel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "camping",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "enamel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "tea",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "coat",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamelware",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "retro",
+                    "enamel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "steel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "outdoor",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "enamel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "metal",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "painted",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "mug",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "insulate",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "mug",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "art",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "enamel",
+                    "mug",
+                    "collection"
+                ]
+            }
+        ]
+    },
+    "Frosted mugs": {
+        "filter_words": [
+            {
+                "content": [
+                    "frost",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "frosted",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "frosted",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frosted",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "insulated",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frosted",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "drinking",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "tea",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "latte",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "ceramic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frosted",
+                    "glass",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "glass",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "glass",
+                    "tea",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frosted",
+                    "glass",
+                    "latte",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "glass",
+                    "drinking",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "glass",
+                    "mug",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Glass mugs": {
+        "filter_words": [
+		
+		
+			{
+				"content": "borosilicate"
+			},	
+			{
+				"content": ["borosilicate", "glass"]
+			},
+            {
+                "content": [
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "tea",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "borosilicate",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "latte",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "espresso",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "mug",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "colored",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "hand",
+                    "blow",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "frost",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "irish",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "mug",
+                    "hot",
+                    "drink"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "mug",
+                    "cold",
+                    "drink"
+                ]
+            },
+            {
+                "content": [
+                    "dishwasher",
+                    "safe",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "microwave",
+                    "safe",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "resistant",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "glass",
+                    "mug"
+                ]
+            }
+        ]
+    },
+    "Metal mugs": {
+        "filter_words": [
+            {
+                "content": [
+                    "metal",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "aluminum",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "copper",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "metallic",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "metal",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "camping",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "engrave",
+                    "metal",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "tea",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "metal",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "metal",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "moscow",
+                    "mule",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "espresso",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "mug",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "metal",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "metal",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "drinking",
+                    "mug"
+                ]
+            }
+        ]
+    },
+    "Mug boxes": {
+        "filter_words": [
+            {
+                "content": [
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "packaging",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "coffee",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "tea",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "storage",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "single",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "presentation",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "shipping",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "wholesale",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "mug",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "mug",
+                    "box"
+                ]
+            }
+        ]
+    },
+    "Mug sets": {
+        "filter_words": [
+            {
+                "content": [
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "coffee",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "tea",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "porcelain",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "stoneware",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "couple",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "family",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "espresso",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "theme",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "colorful",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "match",
+                    "mug",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Mugs coloured inside": {
+        "filter_words": [
+            {
+                "content": [
+                    "mug",
+                    "colour",
+                    "inside"
+                ]
+            },
+            {
+                "content": [
+                    "coloured",
+                    "interior",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "inside",
+                    "coloured",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "inner",
+                    "colour"
+                ]
+            },
+            {
+                "content": [
+                    "dual",
+                    "colour",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "coloured",
+                    "lining"
+                ]
+            },
+            {
+                "content": [
+                    "inner",
+                    "painted",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "coloured",
+                    "inner",
+                    "surface"
+                ]
+            },
+            {
+                "content": [
+                    "contrast",
+                    "colour",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "inside",
+                    "colour",
+                    "detail"
+                ]
+            },
+            {
+                "content": [
+                    "colour",
+                    "inside",
+                    "ceramic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "interior",
+                    "colour",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "inside",
+                    "colour",
+                    "detail",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "coloured",
+                    "inlay"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "colour",
+                    "tea",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "coloured",
+                    "inside"
+                ]
+            },
+            {
+                "content": [
+                    "inside",
+                    "coloured",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "inner",
+                    "colour",
+                    "detail"
+                ]
+            },
+            {
+                "content": [
+                    "colour",
+                    "inside",
+                    "glass",
+                    "mug"
+                ]
+            }
+        ]
+    },
+    "Mugs for sublimation": {
+        "filter_words": [
+            {
+                "content": [
+                    "mug",
+                    "sublimation"
+                ]
+            },
+            {
+                "content": [
+                    "sublimation",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "blank",
+                    "mug",
+                    "sublimation"
+                ]
+            },
+            {
+                "content": [
+                    "sublimation",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "sublimation",
+                    "mug",
+                    "blank"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "sublimation",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "mug",
+                    "sublimation"
+                ]
+            },
+            {
+                "content": [
+                    "sublimation",
+                    "ready",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "sublimation",
+                    "print",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "sublimation",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "transfer",
+                    "sublimation",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "sublimation",
+                    "mug",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "sublimation",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "sublimation",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "sublimation",
+                    "mug",
+                    "wholesale"
+                ]
+            },
+            {
+                "content": [
+                    "oz",
+                    "sublimation",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "sublimation",
+                    "mug",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "sublimation",
+                    "mug",
+                    "printing"
+                ]
+            },
+            {
+                "content": [
+                    "sublimation",
+                    "mug",
+                    "heat",
+                    "press"
+                ]
+            },
+            {
+                "content": [
+                    "sublimation",
+                    "mug",
+                    "craft"
+                ]
+            }
+        ]
+    },
+    "Mugs made of eco materials": {
+        "filter_words": [
+            {
+                "content": [
+                    "mug",
+                    "eco",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "biodegradable",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "material",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "environmentally",
+                    "friendly",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "material",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "compostable",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "eco",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "plantbased",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "waste",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "earthfriendly",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "nontoxic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "bpafree",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "ecoconscious",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "ethically",
+                    "mug"
+                ]
+            }
+        ]
+    },
+    "Mugs with lids": {
+        "filter_words": [
+            {
+                "content": [
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "lidded",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "coffee",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "leakproof",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "cover",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "seal",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "tea",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "tumbler",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "vacuum",
+                    "insulate",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "spillproof",
+                    "mug",
+                    "lid"
+                ]
+            }
+        ]
+    },
+    "Original mugs": {
+        "filter_words": [
+            {
+                "content": [
+                    "original",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "authentic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "genuine",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "design",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "classic",
+                    "mugs"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "artwork",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "collector",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "limited",
+                    "edition",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "signature",
+                    "mugs"
+                ]
+            },
+            {
+                "content": [
+                    "traditional",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "oneofakind",
+                    "mugs"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "brand",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "rare",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "mugs"
+                ]
+            },
+            {
+                "content": [
+                    "retro",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "series",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "print",
+                    "mug"
+                ]
+            }
+        ]
+    },
+    "Plastic mugs": {
+        "filter_words": [
+            {
+                "content": [
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "bpafree",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "mug",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "microwave",
+                    "safe",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "dishwasher",
+                    "safe",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "unbreakable",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "color",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "stackable",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "plastic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "camping",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "party",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "mug",
+                    "hot",
+                    "drink"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "mug",
+                    "cold",
+                    "drink"
+                ]
+            }
+        ]
+    },
+    "White mugs": {
+        "filter_words": [
+		            {
+                "content":"white"
+
+            },
+            {
+                "content": [
+                    "white",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "ceramic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "tea",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "plain",
+                    "white",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "porcelain",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "white",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "white",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "latte",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "insulate",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "bone",
+                    "china",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "personalized",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "enamel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "stoneware",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "mug",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "mug",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "mug",
+                    "print"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "mug",
+                    "quote"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "mug",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "thermal",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "cappuccino",
+                    "mug"
+                ]
+            }
+        ]
+    }
+}

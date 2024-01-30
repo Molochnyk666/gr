@@ -1,0 +1,658 @@
+{	"Polyester cosmetic bags":{
+		"filter_words": [
+		        {
+                "content": [
+                    "cotton",
+                    "cosmetic",
+                    "bag"
+                ]
+            }
+		]
+		},
+    "Cotton cosmetic bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "cotton",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "cotton",
+                    "cosmetic",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "canvas",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "travel",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "zipper",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "washable",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "cotton",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "drawstring",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "cotton",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "cotton",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "print",
+                    "cotton",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "plain",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "cosmetic",
+                    "storage",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "line",
+                    "makeup",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Leather cosmetic bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "genuine",
+                    "leather",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "toiletry",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "travel",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "leather",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "makeup",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "leather",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "faux",
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "leather",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "cosmetic",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "beauty",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "leather",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "cosmetic",
+                    "organizer",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "leather",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "cosmetic",
+                    "storage",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Sets with cosmetic bag": {
+        "filter_words": [
+            {
+                "content": [
+                    "set",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "makeup",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beauty",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "makeup",
+                    "pouch",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "toiletry",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vanity",
+                    "case",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "case",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "makeup",
+                    "organizer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "travel",
+                    "kit",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "skincare",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "brush",
+                    "holder",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "bag",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "makeup",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "storage",
+                    "bag",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Transparent cosmetic bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "transparent",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "seethrough",
+                    "cosmetic",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "pvc",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "toiletry",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "travel",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "beauty",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "plastic",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "cosmetic",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "makeup",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "clear",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "cosmetic",
+                    "storage",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "zipper",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "cosmetic",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "cosmetic",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "makeup",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "cosmetic",
+                    "bag",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "transparent",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "transparent",
+                    "cosmetic",
+                    "bag"
+                ]
+            }
+        ]
+    }
+}

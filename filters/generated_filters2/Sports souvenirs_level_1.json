@@ -1,0 +1,5405 @@
+{
+    "Balls": {
+        "filter_words": [
+            {
+                "content": "ball"
+            },
+            {
+                "content": [
+                    "sport",
+                    "ball",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "basketball",
+                    "collectibles"
+                ]
+            },
+            {
+                "content": [
+                    "soccer",
+                    "ball",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "baseball",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "tennis",
+                    "ball",
+                    "collectibles"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "ball",
+                    "souvenirs"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "golf",
+                    "ball",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "sign",
+                    "sport",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "sport",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "autographed",
+                    "footballs"
+                ]
+            },
+            {
+                "content": [
+                    "limited",
+                    "edition",
+                    "basketball"
+                ]
+            },
+            {
+                "content": [
+                    "commemorative",
+                    "soccer",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "collectible",
+                    "baseball"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "ball",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "miniature",
+                    "sport",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "ball",
+                    "ornament"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "sport",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "ball",
+                    "display",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "cricket",
+                    "ball",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "handpainte",
+                    "sport",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "ball",
+                    "replica"
+                ]
+            },
+            {
+                "content": [
+                    "championship",
+                    "ball",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "team",
+                    "logo",
+                    "sport",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "training",
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "allweather",
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "match",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "practice",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "union",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "league",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "ball",
+                    "brands"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "ball",
+                    "size"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "official",
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "world",
+                    "cup",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "ball",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "ball",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "synthetic",
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "ball",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "ball",
+                    "designs"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "rugby",
+                    "ball",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "grip",
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "glow",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "volleyball"
+                ]
+            },
+            {
+                "content": [
+                    "water",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "pool",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "summer",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "games"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "ball",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "colorful",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "party",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "ball",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "ball",
+                    "pool",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "neon",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "giant",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "soccer",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "ball",
+                    "inflatable"
+                ]
+            },
+            {
+                "content": "football"
+            },
+            {
+                "content": [
+                    "soccer",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "training",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "official",
+                    "size",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "match",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "practice",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "team",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "brand"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "synthetic",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "rubber",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "ball",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "ball",
+                    "pump"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "ball",
+                    "net"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "ball",
+                    "carrier"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "ball",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "ball",
+                    "holder"
+                ]
+            },
+            {
+                "content": "volleyball"
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "training",
+                    "volleyball"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "volleyball"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "brand"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "net"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "pump"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "clothing"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "knee",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "whistle"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "coaching",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "volleyball",
+                    "training",
+                    "aid"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "volleyball"
+                ]
+            },
+            {
+                "content": [
+                    "youth",
+                    "volleyball"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "volleyball"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "volleyball"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "volleyball"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "volleyball"
+                ]
+            },
+            {
+                "content": [
+                    "light",
+                    "volleyball"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "volleyball"
+                ]
+            },
+            {
+                "content": "fitball"
+            },
+            {
+                "content": [
+                    "exercise",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "stability",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "pilate",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "swiss",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "balance",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "core",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "physio",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "therapy",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "workout",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "exercise",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "antiburst",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "body",
+                    "balance",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "training",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "rehabilitation",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "gym",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "strength",
+                    "training",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "physical",
+                    "therapy",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "posture",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "aerobic",
+                    "ball"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Balls_level_2.json"
+    },
+    "Bicycle accessories": {
+        "filter_words": [
+			{"content": ["bicycle", "repair", "kit"]},
+            {
+                "content": [
+                    "bicycle",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "accessory",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "sport",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "gear",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "racing",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "accessory",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "theme",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "tour",
+                    "de",
+                    "france",
+                    "souvenirs"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "event",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "bicycle",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "race",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "cycling",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "team",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "helmet",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "tour",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "championship",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "race",
+                    "medal"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "event",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "brand",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "pad",
+                    "bicycle",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "comfortable",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "mountain",
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "road",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "saddle",
+                    "protection"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "seat",
+                    "cushion",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "universal",
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "breathable",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "antislip",
+                    "bicycle",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "elastic",
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "saddle",
+                    "rain",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "memory",
+                    "foam",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "saddle",
+                    "skin",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "neoprene",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "bike",
+                    "saddle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "saddle",
+                    "cover",
+                    "replacement"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "saddle",
+                    "protective",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "bike",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "hydration",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "cycle",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bottle",
+                    "cage"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "bike",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "mountain",
+                    "bike",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "road",
+                    "bike",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "drink",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "hydration",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "water",
+                    "bottle",
+                    "bike"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bottle",
+                    "mount"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "bottle",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "hydration",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "cycle",
+                    "bottle",
+                    "cage"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bottle",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "water",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bottle",
+                    "bracket"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "drink",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "hydration",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "headlight"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "tail",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "lighting",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "mountain",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "road",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "safety",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "rear",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "light",
+                    "mount"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "intensity",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light",
+                    "battery"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "night",
+                    "riding",
+                    "lights"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "indicator",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light",
+                    "bracket"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "bike",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "dynamo",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "light",
+                    "reflector"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "light",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "bike",
+                    "bells"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "mountain",
+                    "bike",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "road",
+                    "bike",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "bike",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "bicycle",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "loud",
+                    "bicycle",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "bell",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "ring",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "brass",
+                    "bicycle",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "handlebar",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "bike",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "bicycle",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "bike",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "bicycle",
+                    "bell",
+                    "horns"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "bicycle",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "bike",
+                    "bell"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "pitch",
+                    "bicycle",
+                    "bell"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Bicycle accessories_level_2.json"
+    },
+    "Expanders": {
+        "filter_words": [
+            {
+                "content": "expander"
+            },
+            {
+                "content": [
+                    "fitness",
+                    "expander",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "expander",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "expander",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "expanders",
+                    "souvenirs"
+                ]
+            },
+            {
+                "content": [
+                    "physical",
+                    "training",
+                    "expander",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "resistance",
+                    "expanders",
+                    "sports",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "workout",
+                    "expanders",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "strength",
+                    "training",
+                    "expander",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "bodybuilding",
+                    "expanders",
+                    "collectibles"
+                ]
+            },
+            {
+                "content": [
+                    "athletic",
+                    "expanders",
+                    "souvenirs"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "equipment",
+                    "expander",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "gear",
+                    "expander",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "training",
+                    "expanders",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "training",
+                    "expander",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "gym",
+                    "expander",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "equipment",
+                    "expander",
+                    "souvenir"
+                ]
+            }
+        ]
+    },
+    "Gifts for the fans": {
+        "filter_words": [
+            {
+                "content": [
+                    "gift",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "fan",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "team",
+                    "logo",
+                    "merchandise"
+                ]
+            },
+            {
+                "content": [
+                    "autographed",
+                    "sport",
+                    "item"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "apparel"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "sport",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "fan",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "jersey"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "fan",
+                    "jewelry"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "poster"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "limited",
+                    "edition",
+                    "sport",
+                    "item"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "sport",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "fan",
+                    "home",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "fan",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "fan",
+                    "drinkware"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "flag"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "fan",
+                    "ornament"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "fan",
+                    "bedding"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "fan",
+                    "wall",
+                    "art"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "bobbleheads"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "fan",
+                    "puzzle"
+                ]
+            },
+            {
+                "content": [
+                    "tap",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "drumstick",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "percussion",
+                    "instrument",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "musician",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "drummer",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "tapping",
+                    "stick",
+                    "merchandise"
+                ]
+            },
+            {
+                "content": [
+                    "rhythm",
+                    "stick",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "musical",
+                    "stick",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "drum",
+                    "accessory",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "drumstick"
+                ]
+            },
+            {
+                "content": [
+                    "musictheme",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "band",
+                    "member",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "drummer"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "drumstick"
+                ]
+            },
+            {
+                "content": [
+                    "percussion",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "drumstick",
+                    "novelty",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "music",
+                    "lover",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "drumming",
+                    "enthusiast",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "drumstick",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "drumstick",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "drumstick",
+                    "gift"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Gifts for the fans_level_2.json"
+    },
+    "Goods for sports games": {
+        "filter_words": [
+            {
+                "content": [
+                    "good",
+                    "sport",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "gameused",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "autographed",
+                    "sport",
+                    "good"
+                ]
+            },
+            {
+                "content": [
+                    "team",
+                    "jerseys"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "sport",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "game",
+                    "merchandise"
+                ]
+            },
+            {
+                "content": [
+                    "official",
+                    "team",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "sign",
+                    "sport",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "game",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "limited",
+                    "edition",
+                    "sport",
+                    "good"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "game",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "authentic",
+                    "sport",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "playerspecific",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "championship",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "trading",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "game",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "fan",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "sport",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "game",
+                    "keepsake"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "game",
+                    "apparel"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "game",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "game",
+                    "memento"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "game",
+                    "novelty"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "game",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "badminton",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "badminton",
+                    "racket"
+                ]
+            },
+            {
+                "content": "shuttlecock"
+            },
+            {
+                "content": [
+                    "badminton",
+                    "net"
+                ]
+            },
+            {
+                "content": [
+                    "badminton",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "badminton",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "badminton",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "badminton",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "badminton",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "badminton",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "badminton",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "badminton",
+                    "court",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "badminton",
+                    "racket",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "badminton",
+                    "shuttlecock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "highquality",
+                    "badminton",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "badminton",
+                    "set",
+                    "net"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "badminton",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "badminton",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "adult",
+                    "badminton",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "badminton",
+                    "training",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "ping",
+                    "pong",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "paddle"
+                ]
+            },
+            {
+                "content": [
+                    "ping",
+                    "pong",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "net"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "table",
+                    "tennis",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "table",
+                    "tennis",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "table",
+                    "tennis",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "racket"
+                ]
+            },
+            {
+                "content": [
+                    "ping",
+                    "pong",
+                    "table"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "rubber"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "blade"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "bat"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "training",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "game",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "table",
+                    "tennis",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "table",
+                    "tennis",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "set",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "set",
+                    "beginner"
+                ]
+            },
+            {
+                "content": [
+                    "highquality",
+                    "table",
+                    "tennis",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "set",
+                    "net"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "tennis",
+                    "set",
+                    "ball"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Goods for sports games_level_2.json"
+    },
+    "Skipping ropes": {
+        "filter_words": [
+            {
+                "content": [
+                    "skip",
+                    "rope"
+                ]
+            },
+            {
+                "content": [
+                    "skip",
+                    "rope",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "jump",
+                    "rope",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "souvenir",
+                    "skip",
+                    "rope"
+                ]
+            },
+            {
+                "content": [
+                    "skipping",
+                    "rope",
+                    "collectibles"
+                ]
+            },
+            {
+                "content": [
+                    "jump",
+                    "rope",
+                    "sport",
+                    "merchandise"
+                ]
+            },
+            {
+                "content": [
+                    "skip",
+                    "rope",
+                    "sport",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "souvenir",
+                    "skip",
+                    "rope"
+                ]
+            },
+            {
+                "content": [
+                    "athletic",
+                    "souvenir",
+                    "jump",
+                    "rope"
+                ]
+            },
+            {
+                "content": [
+                    "gymnastic",
+                    "rope",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "skip",
+                    "rope",
+                    "sport",
+                    "keepsake"
+                ]
+            },
+            {
+                "content": [
+                    "jump",
+                    "rope",
+                    "athletic",
+                    "collectibles"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "rope",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "memento",
+                    "skip",
+                    "rope"
+                ]
+            },
+            {
+                "content": [
+                    "skip",
+                    "rope",
+                    "fitness",
+                    "merchandise"
+                ]
+            },
+            {
+                "content": [
+                    "jump",
+                    "rope",
+                    "sport",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "skip",
+                    "rope",
+                    "gym",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "workout",
+                    "rope",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "gift",
+                    "skip",
+                    "rope"
+                ]
+            },
+            {
+                "content": [
+                    "skip",
+                    "rope",
+                    "sport",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "jump",
+                    "rope",
+                    "exercise",
+                    "souvenir"
+                ]
+            }
+        ]
+    },
+    "Sports accessories": {
+        "filter_words": [
+            {
+                "content": [
+                    "sport",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "team",
+                    "merchandise"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "athlete",
+                    "autograph"
+                ]
+            },
+            {
+                "content": [
+                    "gameused",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "apparel"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "jewelry"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "poster"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "sock"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "sunglass"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "flag"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "pennant"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "badge"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "patch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "jersey"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "helmet"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "bat"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "racket"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "puck"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "bobbleheads"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "athletic",
+                    "headband"
+                ]
+            },
+            {
+                "content": "sweatband"
+            },
+            {
+                "content": [
+                    "running",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "basketball",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "tennis",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "workout",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "soccer",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "hair",
+                    "band"
+                ]
+            },
+            {
+                "content": [
+                    "elastic",
+                    "sport",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "nonslip",
+                    "sport",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "sport",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "sport",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "sport",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "headband",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "sport",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "breathable",
+                    "sport",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "moisture",
+                    "wicke",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "headband",
+                    "logo"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "sport",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "performance",
+                    "sport",
+                    "headband"
+                ]
+            },
+            {
+                "content": "wristband"
+            },
+            {
+                "content": [
+                    "athletic",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "tennis",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "basketball",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "running",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "workout",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "elastic",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "wrist",
+                    "support",
+                    "band"
+                ]
+            },
+            {
+                "content": [
+                    "wrist",
+                    "sweat",
+                    "absorber"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "wrist",
+                    "guard"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "breathable",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "wrist",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "wrist",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "performance",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "workout",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "weightlifting",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "training",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "crossfit",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "strength",
+                    "training",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "pad",
+                    "fitness",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "gym",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "wrist",
+                    "support",
+                    "fitness",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "breathable",
+                    "workout",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "nonslip",
+                    "gym",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "training",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "fitness",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "fitness",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "exercise",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "weightlifting",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "comfortable",
+                    "gym",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "grip",
+                    "training",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "fingerless",
+                    "fitness",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "finger",
+                    "gym",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "glove",
+                    "wrist",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "weightlifting",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "glove",
+                    "pull"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "glove",
+                    "dumbbell"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "glove",
+                    "kettlebell"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "glove",
+                    "barbell"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "glove",
+                    "cycling"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "glove",
+                    "rowing"
+                ]
+            },
+            {
+                "content": "flicker"
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "wheel"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "handlebar"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "grip"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "brake"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "helmet"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "safety",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "deck"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "bearings"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "replacement"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "protective",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "scooter",
+                    "equipment"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Sports accessories_level_2.json"
+    },
+    "Sports beverage containers": {
+        "filter_words": [
+					{
+				"content": "shaker"
+			},
+            {
+                "content": [
+                    "sport",
+                    "beverage",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "team",
+                    "logo",
+                    "drinkware"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "theme",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "athlete",
+                    "signature",
+                    "tumbler"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "insulated",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "beverage",
+                    "cooler"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "hydration",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "sippy",
+                    "cups"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "protein",
+                    "shaker"
+                ]
+            },
+            {
+                "content": [
+                    "athlete",
+                    "endorse",
+                    "drinkware"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "beer",
+                    "stein"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "insulate",
+                    "cup"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "water",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "drinking",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "hydration",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "leakproof",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bpafree",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "drink",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "athletic",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "running",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "cycle",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "hike",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "sipper",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "infuser",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "filter",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "bottle",
+                    "straw"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "team",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "bottle",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "tritan",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "nutrition",
+                    "shaker"
+                ]
+            },
+            {
+                "content": [
+                    "protein",
+                    "shaker",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "workout",
+                    "shaker",
+                    "cups"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "drink",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "protein",
+                    "powder",
+                    "shaker"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "hydration",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "athletic",
+                    "shaker",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "leakproof",
+                    "shaker",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "workout",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "blender",
+                    "bottle",
+                    "sport",
+                    "nutrition"
+                ]
+            },
+            {
+                "content": [
+                    "mixer",
+                    "protein",
+                    "shake"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "shaker",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "shaker",
+                    "cup",
+                    "gym"
+                ]
+            },
+            {
+                "content": [
+                    "nutrition",
+                    "supplement",
+                    "shaker"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "nutrition",
+                    "mixer",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "nutrition",
+                    "shaker"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Sports beverage containers_level_2.json"
+    },
+    "Sports kits": {
+        "filter_words": [
+            {
+                "content": [
+                    "sport",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "kit",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "team",
+                    "jerseys"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "equipment",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "sign",
+                    "sport",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "uniform",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "authentic",
+                    "sport",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "collectible",
+                    "sport",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "sport",
+                    "uniform"
+                ]
+            },
+            {
+                "content": [
+                    "replica",
+                    "sport",
+                    "kits"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "kit",
+                    "merchandise"
+                ]
+            },
+            {
+                "content": [
+                    "autographed",
+                    "sport",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "gear",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "limited",
+                    "edition",
+                    "sport",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "kit",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "official",
+                    "team",
+                    "jersey"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "kit",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "player",
+                    "kit",
+                    "souvenirs"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "sport",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "kit",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "kit",
+                    "replica",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "workout",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "training",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "gym",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "strength",
+                    "training",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "cardio",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "pilate",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "resistance",
+                    "band"
+                ]
+            },
+            {
+                "content": [
+                    "dumbbell",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "jump",
+                    "rope"
+                ]
+            },
+            {
+                "content": [
+                    "weightlifting",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "boxing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "crossfit",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "aerobic",
+                    "step"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "tracker"
+                ]
+            },
+            {
+                "content": [
+                    "kettlebell",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "bench"
+                ]
+            },
+            {
+                "content": [
+                    "pullup",
+                    "bar"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "glove"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Sports kits_level_2.json"
+    },
+    "Sports watches": {
+        "filter_words": [
+            {
+                "content": [
+                    "sport",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "athletic",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "team",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "basketball",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "baseball",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "soccer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "souvenir",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "memorabilia",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "fan",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "sport",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "sport",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "chronograph",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "brand",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "running",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "watch",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "watch",
+                    "merchandise"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "watch",
+                    "memorabilia"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "watch",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "sportsthemed",
+                    "watches"
+                ]
+            },
+            {
+                "content": [
+                    "athlete",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "club",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sports",
+                    "league",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "tracker"
+                ]
+            },
+            {
+                "content": [
+                    "activity",
+                    "tracker"
+                ]
+            },
+            {
+                "content": [
+                    "heart",
+                    "rate",
+                    "monitor",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "gps",
+                    "running",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "watch",
+                    "pedometer"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "fitness",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "fitness",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "calorie",
+                    "counter",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "monitor",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "step",
+                    "tracker",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "band"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "tracker",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "workout",
+                    "tracker",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "multisport",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "smartwatch"
+                ]
+            },
+            {
+                "content": [
+                    "swim",
+                    "tracking",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "tracker",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "bracelet",
+                    "alarm"
+                ]
+            },
+            {
+                "content": [
+                    "blood",
+                    "pressure",
+                    "monitor",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "wellness",
+                    "tracker"
+                ]
+            },
+            {
+                "content": [
+                    "connected",
+                    "gps",
+                    "fitness",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "bracelet",
+                    "music",
+                    "control"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "bracelet",
+                    "smartphone",
+                    "notification"
+                ]
+            },
+            {
+                "content": "pedometer"
+            },
+            {
+                "content": [
+                    "pedometer",
+                    "sports",
+                    "watches"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "tracker",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "step",
+                    "counter",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "activity",
+                    "tracker",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "walking",
+                    "distance",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "calorie",
+                    "counting",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "monitoring",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "gps",
+                    "pedometer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "pedometer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "run",
+                    "watch",
+                    "step",
+                    "counter"
+                ]
+            },
+            {
+                "content": [
+                    "heart",
+                    "rate",
+                    "monitor",
+                    "pedometer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "multifunction",
+                    "sport",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "pedometer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "pedometer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "watch",
+                    "pedometer"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "sport",
+                    "pedometer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "wristband",
+                    "pedometer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "monitor",
+                    "pedometer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "advanced",
+                    "pedometer",
+                    "sports",
+                    "watch"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Sports watches_level_2.json"
+    },
+    "Whistles": {
+        "filter_words": [
+            {
+                "content": "whistles"
+            },
+            {
+                "content": [
+                    "sport",
+                    "whistle"
+                ]
+            },
+            {
+                "content": [
+                    "referee",
+                    "whistles"
+                ]
+            },
+            {
+                "content": [
+                    "coach",
+                    "whistles"
+                ]
+            },
+            {
+                "content": [
+                    "whistle",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "whistle",
+                    "necklace"
+                ]
+            },
+            {
+                "content": [
+                    "team",
+                    "logo",
+                    "whistles"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "sport",
+                    "whistle"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "sport",
+                    "whistle"
+                ]
+            },
+            {
+                "content": [
+                    "collectible",
+                    "sport",
+                    "whistles"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "whistle",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "football",
+                    "whistle"
+                ]
+            },
+            {
+                "content": [
+                    "basketball",
+                    "whistle"
+                ]
+            },
+            {
+                "content": [
+                    "soccer",
+                    "whistles"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "whistle",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "engraved",
+                    "sport",
+                    "whistle"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "sport",
+                    "whistle"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "sport",
+                    "whistle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "whistle",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "whistle",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "whistle",
+                    "gift",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Yoga mats": {
+        "filter_words": [
+            {
+                "content": [
+                    "yoga",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "yoga",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "nonslip",
+                    "yoga",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "yoga",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "thick",
+                    "yoga",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "practice",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "pilate",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "meditation",
+                    "mats"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "mat",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "yoga",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "yoga",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "highdensity",
+                    "yoga",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "yoga",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "yoga",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "yoga",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "mat",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "mat",
+                    "carry",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "mat",
+                    "alignment",
+                    "line"
+                ]
+            },
+            {
+                "content": [
+                    "extra",
+                    "large",
+                    "yoga",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "mat",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "mat",
+                    "towel"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,4639 @@
+{
+
+    "Advertising textiles": {
+        "filter_words": [
+            {
+                "content": [
+                    "bath",
+                    "mat"
+                ]
+            },
+            {
+                "content": "towel"
+            },
+            {
+                "content": [
+                    "cool",
+                    "towel"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "blanket"
+            },
+            {
+                "content": [
+                    "picnic",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "chain"
+                ]
+            },
+            {
+                "content": "plaid"
+            },
+            {
+                "content": [
+                    "advertising",
+                    "textile"
+                ]
+            },
+            {
+                "content": "plaid"
+            },
+            {
+                "content": [
+                    "travel",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "woollen",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid"
+                ]
+            },
+            {
+                "content": "bedspread"
+            },
+            {
+                "content": [
+                    "child",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "set"
+                ]
+            },
+            {
+                "content": "cushion"
+            },
+            {
+                "content": [
+                    "decorative",
+                    "cushion"
+                ]
+            },
+            {
+                "content": "towel"
+            },
+            {
+                "content": [
+                    "towel",
+                    "february"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "bathroom",
+                    "mat"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Advertising_textiles_level_1.json"
+    },
+    "Bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "child",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "bag",
+                    "hanger"
+                ]
+            },
+            {
+                "anti_word": [
+                    [
+                        "cool",
+                        "bag"
+                    ]
+                ],
+                "content": [
+                    "drawstre",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "bag",
+                    "football"
+                ]
+            },
+            {
+                "anti_word": [
+                    [
+                        "sunglass",
+                        "pouch"
+                    ],
+                    [
+                        "hard",
+                        "disk"
+                    ],
+                    "mobile",
+                    "bicycle",
+                    [
+                        "safety",
+                        "vest"
+                    ],
+                    "gift",
+                    "glass",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "pouch"
+            },
+            {
+                "content": [
+                    "laptop",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "anti_word": [
+                    "picnic",
+                    "child",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "backpack"
+            },
+            {
+                "anti_word": [
+                    [
+                        "tea",
+                        "bag"
+                    ],
+                    "cool",
+                    "beach",
+                    "gift",
+                    "cooler",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "bag"
+            },
+            {
+                "content": "suitcase"
+            },
+            {
+                "content": "valise"
+            },
+            {
+                "content": "briefcase"
+            },
+            {
+                "content": "clutch"
+            },
+            {
+                "content": "borsetka"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "wallet"
+            },
+            {
+                "anti_word": [
+                    "keyring",
+                    "keyre",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "purse"
+            },
+            {
+                "anti_word": "scale",
+                "content": "luggage"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "trolley"
+            },
+            {
+                "content": "shopper"
+            },
+            {
+                "anti_word": [
+                    [
+                        "tablet",
+                        "case"
+                    ],
+                    "pen",
+                    "pencil",
+                    "mobile",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "case"
+            },
+            {
+                "content": [
+                    "bag",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "bag",
+                    "sport"
+                ]
+            },
+            {
+                "content": [
+                    "bag",
+                    "childrenВґs"
+                ]
+            },
+            {
+                "content": [
+                    "mall",
+                    "shopper"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "credit",
+                    "sleeve"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "dublin",
+                    "trolley"
+                ]
+            },
+            {
+                "content": [
+                    "cards",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "set",
+                    "trolley"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "belt",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "block",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "cart",
+                    "protector"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Bags_level_1.json"
+    },
+    "Car accessories": {
+        "filter_words": [
+            {
+                "content": [
+                    "car",
+                    "mobile",
+                    "holder"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "car"
+            },
+            {
+                "content": "icescraper"
+            },
+            {
+                "content": [
+                    "boot",
+                    "car",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "air",
+                    "car",
+                    "freshener"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "sun",
+                    "visor"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "organizer"
+                ]
+            },
+            {
+                "anti_word": [
+                    [
+                        "box",
+                        "lunch"
+                    ]
+                ],
+                "content": [
+                    "holder",
+                    "phone"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "charger",
+                    "wireless"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "funnel"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "sunshade"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "multicharger"
+                ]
+            },
+            {
+                "content": [
+                    "charger",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "scraper"
+                ]
+            },
+            {
+                "content": [
+                    "park",
+                    "shop"
+                ]
+            },
+            {
+                "content": [
+                    "sunshade",
+                    "truck"
+                ]
+            },
+            {
+                "content": [
+                    "hammer",
+                    "safety"
+                ]
+            },
+            {
+                "content": [
+                    "emergency",
+                    "hammer"
+                ]
+            },
+            {
+                "content": [
+                    "alcohol",
+                    "tester"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Car_accessories_level_1.json"
+    },
+    "Clothes": {
+        "filter_words": [
+            {
+                "content": "bathrobe"
+            },
+            {
+                "content": [
+                    "6",
+                    "panel"
+                ]
+            },
+            {
+                "anti_word": "plush",
+                "content": "t-shirt"
+            },
+            {
+                "anti_word": [
+                    "plush",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "shirt"
+            },
+            {
+                "content": "polo"
+            },
+            {
+                "anti_word": "plush",
+                "content": "hoodie"
+            },
+            {
+                "content": "sweatshirts"
+            },
+            {
+                "content": "jacket"
+            },
+            {
+                "content": "windbreaker"
+            },
+            {
+                "content": "cardigan"
+            },
+            {
+                "content": "bandana"
+            },
+            {
+                "anti_word": [
+                    "bottle",
+                    "pen",
+                    [
+                        "cook",
+                        "cap"
+                    ]
+                ],
+                "content": "cap"
+            },
+            {
+                "content": "panama"
+            },
+            {
+                "content": "handkerchief"
+            },
+            {
+                "content": "stole"
+            },
+            {
+                "content": "hat"
+            },
+            {
+                "content": "scarf"
+            },
+            {
+                "content": "mitten"
+            },
+            {
+                "anti_word": [
+                    "icescraper",
+                    "kitchen",
+                    "touchscreen"
+                ],
+                "content": "glove"
+            },
+            {
+                "content": "shawl"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "vest"
+            },
+            {
+                "content": "sweatshirt"
+            },
+            {
+                "anti_word": "blanket",
+                "content": "fleece"
+            },
+            {
+                "content": "bodywarmer"
+            },
+            {
+                "content": "trouser"
+            },
+            {
+                "content": "parka"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "coat"
+            },
+            {
+                "content": "smock"
+            },
+            {
+                "anti_word": "plush",
+                "content": "sweater"
+            },
+            {
+                "content": "necktie"
+            },
+            {
+                "content": "sock"
+            },
+            {
+                "anti_word": [
+                    "bag",
+                    "keyring",
+                    "keyre",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "poncho"
+            },
+            {
+                "content": "headwear"
+            },
+            {
+                "anti_word": [
+                    [
+                        "neck",
+                        "cord"
+                    ]
+                ],
+                "content": "neck"
+            },
+            {
+                "content": "beanie"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "tie"
+            },
+            {
+                "content": "headband"
+            },
+            {
+                "content": [
+                    "long",
+                    "sleeve"
+                ]
+            },
+            {
+                "content": [
+                    "baseball",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "glove",
+                    "screen",
+                    "touch"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "vest",
+                    "visibility"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "tank"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "tank"
+                ]
+            },
+            {
+                "content": [
+                    "tank",
+                    "women"
+                ]
+            },
+            {
+                "content": [
+                    "jumper",
+                    "neck"
+                ]
+            },
+            {
+                "content": [
+                    "short",
+                    "sleeved"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "sweatshirt"
+                ]
+            },
+            {
+                "content": [
+                    "trouser",
+                    "workwear"
+                ]
+            },
+            {
+                "content": [
+                    "coat",
+                    "weight"
+                ]
+            },
+            {
+                "content": [
+                    "smock",
+                    "workwear"
+                ]
+            },
+            {
+                "content": [
+                    "softshell",
+                    "vest"
+                ]
+            },
+            {
+                "content": [
+                    "pique",
+                    "polo"
+                ]
+            },
+            {
+                "content": [
+                    "japanese",
+                    "string"
+                ]
+            },
+            {
+                "content": [
+                    "cover",
+                    "neck"
+                ]
+            },
+            {
+                "content": [
+                    "sun",
+                    "visor"
+                ]
+            },
+            {
+                "content": [
+                    "cover",
+                    "face"
+                ]
+            },
+            {
+                "content": [
+                    "face",
+                    "neck"
+                ]
+            },
+            {
+                "content": [
+                    "gaiter",
+                    "neck"
+                ]
+            },
+            {
+                "content": [
+                    "mask",
+                    "textile"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Clothing_level_1.json"
+    },
+    "Cookware and Kitchenware": {
+        "filter_words": [
+            {
+                "content": [
+                    "cook",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "chalk",
+                    "mug"
+                ]
+            },
+            {
+                "content": "chocolate"
+            },
+            {
+                "content": [
+                    "stemless",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "stopper",
+                    "wine"
+                ]
+            },
+            {
+                "content": "cutlery"
+            },
+            {
+                "content": [
+                    "thermo",
+                    "mug"
+                ]
+            },
+            {
+                "content": "mug"
+            },
+            {
+                "anti_word": "travel",
+                "content": "cup"
+            },
+            {
+                "content": "pot"
+            },
+            {
+                "content": "wineglass"
+            },
+            {
+                "anti_word": [
+                    [
+                        "glass",
+                        "trophy"
+                    ],
+                    [
+                        "glass",
+                        "straw"
+                    ],
+                    [
+                        "stemless",
+                        "glass"
+                    ],
+                    "block",
+                    "paperweight",
+                    "pouch",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "glass"
+            },
+            {
+                "content": "thermos"
+            },
+            {
+                "anti_word": [
+                    "towel",
+                    "sport",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "bottle"
+            },
+            {
+                "anti_word": "sport",
+                "content": [
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "anti_word": "sport",
+                "content": "shaker"
+            },
+            {
+                "anti_word": [
+                    "touchscreen",
+                    "icescraper",
+                    [
+                        "touch",
+                        "screen"
+                    ],
+                    "screen"
+                ],
+                "content": [
+                    "kitchen",
+                    "glove"
+                ]
+            },
+            {
+                "content": "platter"
+            },
+            {
+                "content": "salad"
+            },
+            {
+                "content": "maslenka"
+            },
+            {
+                "content": "jug"
+            },
+            {
+                "content": "pitcher"
+            },
+            {
+                "content": "decanter"
+            },
+            {
+                "content": "teapot"
+            },
+            {
+                "content": "turk"
+            },
+            {
+                "content": "menagerie"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "tray"
+            },
+            {
+                "content": "juicer"
+            },
+            {
+                "content": "spice"
+            },
+            {
+                "content": "cheese"
+            },
+            {
+                "content": "blender"
+            },
+            {
+                "content": "spatula"
+            },
+            {
+                "content": "coaster"
+            },
+            {
+                "content": "apron"
+            },
+            {
+                "content": "bake"
+            },
+            {
+                "content": "kitchen"
+            },
+            {
+                "content": "nutcracker"
+            },
+            {
+                "content": "tumbler"
+            },
+            {
+                "content": "bowl"
+            },
+            {
+                "content": "jigger"
+            },
+            {
+                "content": "chopstick"
+            },
+            {
+                "content": "mortar"
+            },
+            {
+                "content": "beer"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "wine"
+            },
+            {
+                "content": "saucer"
+            },
+            {
+                "content": "cook"
+            },
+            {
+                "content": "lunchbox"
+            },
+            {
+                "content": "container"
+            },
+            {
+                "content": "jar"
+            },
+            {
+                "content": "tealight"
+            },
+            {
+                "content": "tea"
+            },
+            {
+                "content": "cruet"
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "waiterВґs"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "lunch"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "serve"
+                ]
+            },
+            {
+                "content": [
+                    "set",
+                    "tea"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "piece",
+                    "place"
+                ]
+            },
+            {
+                "content": [
+                    "coffee",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "salad",
+                    "utensil"
+                ]
+            },
+            {
+                "content": [
+                    "bowl",
+                    "salad"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "salad"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "sugar"
+                ]
+            },
+            {
+                "content": [
+                    "bowl",
+                    "sugar"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "mint"
+                ]
+            },
+            {
+                "content": [
+                    "bowl",
+                    "soup"
+                ]
+            },
+            {
+                "content": [
+                    "bowl",
+                    "candy"
+                ]
+            },
+            {
+                "content": [
+                    "bowl",
+                    "caviar"
+                ]
+            },
+            {
+                "content": [
+                    "jug",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "filter",
+                    "tea"
+                ]
+            },
+            {
+                "content": [
+                    "coffee",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "coffee",
+                    "maker"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "chopping"
+                ]
+            },
+            {
+                "content": [
+                    "salt",
+                    "shaker"
+                ]
+            },
+            {
+                "content": [
+                    "mill",
+                    "pepper"
+                ]
+            },
+            {
+                "content": [
+                    "grinder",
+                    "spice"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "cheese"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "tong"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "thermometer"
+                ]
+            },
+            {
+                "content": [
+                    "manicist",
+                    "vegetable"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "spatula"
+                ]
+            },
+            {
+                "content": [
+                    "container",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "apron",
+                    "kitchen"
+                ]
+            },
+            {
+                "content": [
+                    "brush",
+                    "silicone"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "timer"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "table"
+                ]
+            },
+            {
+                "content": [
+                    "runner",
+                    "table"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "steel"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "vacuum"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "peppermint"
+                ]
+            },
+            {
+                "content": [
+                    "cup",
+                    "plastic"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "cardboard",
+                    "cylindrical"
+                ]
+            },
+            {
+                "content": [
+                    "iron",
+                    "pan"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "carve",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "apple",
+                    "cutter"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "chopstick"
+                ]
+            },
+            {
+                "content": [
+                    "container",
+                    "plastic"
+                ]
+            },
+            {
+                "content": [
+                    "jar",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "mitt",
+                    "oven"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "cut"
+                ]
+            },
+            {
+                "content": [
+                    "pizza",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "infuser",
+                    "tea"
+                ]
+            },
+            {
+                "content": [
+                    "remover",
+                    "seed"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "mortar"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "straw"
+                ]
+            },
+            {
+                "content": [
+                    "cork",
+                    "double",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "cutting"
+                ]
+            },
+            {
+                "content": [
+                    "block",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "straw"
+                ]
+            },
+            {
+                "content": [
+                    "drinking",
+                    "straw"
+                ]
+            },
+            {
+                "content": [
+                    "cook",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "coffee",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "cream",
+                    "ice",
+                    "scoop"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "set"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Cookware_and_kitchen_utensils_level_1.json"
+    },
+    "Electronics": {
+        "filter_words": [
+            {
+                "content": [
+                    "tablet",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "phone",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "mobile",
+                    "case"
+                ]
+            },
+            {
+                "content": "headphones"
+            },
+            {
+                "content": "projector"
+            },
+            {
+                "content": "quadrocopter"
+            },
+            {
+                "content": "humidifier"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "camera"
+            },
+            {
+                "content": "keyboard"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "cable"
+            },
+            {
+                "anti_word": "umbrella",
+                "content": "speaker"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "headphone"
+            },
+            {
+                "content": "earphones"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "charger"
+            },
+            {
+                "content": "powerbank"
+            },
+            {
+                "content": "tablet"
+            },
+            {
+                "content": "earbuds"
+            },
+            {
+                "anti_word": [
+                    "pen",
+                    "portfolio",
+                    "backpack",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "usb"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "battery"
+            },
+            {
+                "content": "earphone"
+            },
+            {
+                "content": "monopod"
+            },
+            {
+                "content": "selfie"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "electronic"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "wireless"
+            },
+            {
+                "content": "mouse"
+            },
+            {
+                "anti_word": [
+                    "bag",
+                    "backpack"
+                ],
+                "content": "laptop"
+            },
+            {
+                "content": "mousepad"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "drive",
+                    "flash"
+                ]
+            },
+            {
+                "anti_word": "umbrella",
+                "content": [
+                    "audio",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "reality",
+                    "virtual"
+                ]
+            },
+            {
+                "content": [
+                    "gadget",
+                    "smart"
+                ]
+            },
+            {
+                "anti_word": "car",
+                "content": [
+                    "charger",
+                    "wireless"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "optical"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "pc"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "hub",
+                    "usb"
+                ]
+            },
+            {
+                "content": [
+                    "drive",
+                    "hard"
+                ]
+            },
+            {
+                "content": [
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "blocker",
+                    "camera"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "cable"
+                ]
+            },
+            {
+                "anti_word": [
+                    "pen",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "stylus"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "phone",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "glove",
+                    "touchscreen"
+                ]
+            },
+            {
+                "content": [
+                    "glove",
+                    "screen",
+                    "touch"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "finder",
+                    "key"
+                ]
+            },
+            {
+                "content": [
+                    "monopod",
+                    "selfie"
+                ]
+            },
+            {
+                "anti_word": "umbrella",
+                "content": [
+                    "speaker",
+                    "wireless"
+                ]
+            },
+            {
+                "content": [
+                    "music",
+                    "output"
+                ]
+            },
+            {
+                "content": [
+                    "headset",
+                    "reality",
+                    "virtual"
+                ]
+            },
+            {
+                "content": [
+                    "reality",
+                    "virtual"
+                ]
+            },
+            {
+                "content": [
+                    "bracelet",
+                    "smart"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "laser",
+                    "pen"
+                ]
+            },
+            {
+                "anti_word": [
+                    "portfolio",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "bank",
+                    "power"
+                ]
+            },
+            {
+                "anti_word": "portfolio",
+                "content": [
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "anti_word": "car",
+                "content": [
+                    "holder",
+                    "mobile"
+                ]
+            },
+            {
+                "anti_word": "pocket",
+                "content": [
+                    "mobile",
+                    "phone"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "flash",
+                    "usb"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "headphone"
+                ]
+            },
+            {
+                "anti_word": [
+                    "car",
+                    "car"
+                ],
+                "content": [
+                    "holder",
+                    "smartphone"
+                ]
+            },
+            {
+                "content": [
+                    "blocker",
+                    "webcam"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "device",
+                    "electronic"
+                ]
+            },
+            {
+                "content": [
+                    "cover",
+                    "phone"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "wireless"
+                ]
+            },
+            {
+                "content": [
+                    "multifunction",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "charge",
+                    "wireless"
+                ]
+            },
+            {
+                "anti_word": [
+                    [
+                        "box",
+                        "lunch"
+                    ],
+                    "car"
+                ],
+                "content": [
+                    "holder",
+                    "phone"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Electronics_level_1.json"
+    },
+    "Gifts for Kids": {
+        "filter_words": [
+            {
+                "content": [
+                    "backpack",
+                    "child"
+                ]
+            },
+            {
+                "content": "crayon"
+            },
+            {
+                "anti_word": [
+                    "towel",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "plush"
+            },
+            {
+                "anti_word": [
+                    "bag",
+                    "towel",
+                    "vest",
+                    "cap",
+                    "stress"
+                ],
+                "content": "child"
+            },
+            {
+                "content": "balloon"
+            },
+            {
+                "content": "yoyo"
+            },
+            {
+                "anti_word": [
+                    [
+                        "chalk",
+                        "mug"
+                    ]
+                ],
+                "content": "chalk"
+            },
+            {
+                "content": [
+                    "custom",
+                    "game",
+                    "memory"
+                ]
+            },
+            {
+                "content": [
+                    "duck",
+                    "rubber"
+                ]
+            },
+            {
+                "content": [
+                    "fox",
+                    "plush"
+                ]
+            },
+            {
+                "content": [
+                    "yo",
+                    "yo"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "sheep"
+                ]
+            },
+            {
+                "content": [
+                    "hippo",
+                    "plush"
+                ]
+            },
+            {
+                "content": [
+                    "bear",
+                    "teddy"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "card",
+                    "laminate",
+                    "presentation"
+                ]
+            },
+            {
+                "content": [
+                    "fidget",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "clapper",
+                    "hand"
+                ]
+            },
+            {
+                "content": [
+                    "hopper",
+                    "truck"
+                ]
+            },
+            {
+                "content": [
+                    "chalk",
+                    "street"
+                ]
+            },
+            {
+                "content": [
+                    "blower",
+                    "bubble"
+                ]
+            },
+            {
+                "content": [
+                    "book",
+                    "colour"
+                ]
+            },
+            {
+                "content": [
+                    "game",
+                    "skill"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "box"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Gifts_for_children_level_1.json"
+    },
+    "Household products": {
+        "filter_words": [
+            {
+                "content": [
+                    "candle",
+                    "holder"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "tool",
+                    "set"
+                ]
+            },
+            {
+                "content": "candlestick"
+            },
+            {
+                "content": "candle"
+            },
+            {
+                "content": "vase"
+            },
+            {
+                "content": "lamp"
+            },
+            {
+                "content": "casket"
+            },
+            {
+                "content": "fireplace"
+            },
+            {
+                "anti_word": [
+                    "fan",
+                    "cable",
+                    "led"
+                ],
+                "content": "humidifier"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "measure"
+            },
+            {
+                "content": "jackknife"
+            },
+            {
+                "content": "reflectivecollar"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "alarm"
+            },
+            {
+                "content": "bath"
+            },
+            {
+                "anti_word": [
+                    "ml",
+                    "500ml",
+                    "bag",
+                    "keyre",
+                    "plush",
+                    "lanyard",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "hanger"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "screwdriver"
+            },
+            {
+                "content": "puff"
+            },
+            {
+                "content": "sewing"
+            },
+            {
+                "content": [
+                    "candle",
+                    "wax"
+                ]
+            },
+            {
+                "content": [
+                    "frame",
+                    "photo"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "knife",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "lcd"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "meter"
+                ]
+            },
+            {
+                "content": [
+                    "clasp",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "laser",
+                    "meter"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "sponge"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "waiter"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "set"
+                ]
+            },
+            {
+                "anti_word": [
+                    "phone",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "multi",
+                    "tool"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "multifunctional",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "frame",
+                    "led"
+                ]
+            },
+            {
+                "content": [
+                    "lead",
+                    "pet"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "measure",
+                    "tape"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "wedding"
+                ]
+            },
+            {
+                "content": [
+                    "fever",
+                    "indicator"
+                ]
+            },
+            {
+                "content": [
+                    "folding",
+                    "meter"
+                ]
+            },
+            {
+                "content": [
+                    "kit",
+                    "sewing"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Home_Goods_level_1.json"
+    },
+    "Leisure Products": {
+        "filter_words": [
+            {
+                "content": [
+                    "beach",
+                    "umbrella"
+                ]
+            },
+            {
+                "anti_word": [
+                    [
+                        "lunch",
+                        "box"
+                    ]
+                ],
+                "content": [
+                    "cooler",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bag"
+                ]
+            },
+            {
+                "anti_word": [
+                    [
+                        "lunch",
+                        "box"
+                    ]
+                ],
+                "content": [
+                    "cool",
+                    "bag"
+                ]
+            },
+            {
+                "content": "fan"
+            },
+            {
+                "content": "binocular"
+            },
+            {
+                "content": "warmer"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "compass"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "flask"
+            },
+            {
+                "content": "chess"
+            },
+            {
+                "content": "backgammon"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "puzzle"
+            },
+            {
+                "content": "frisbee"
+            },
+            {
+                "anti_word": [
+                    "towel",
+                    "ball"
+                ],
+                "content": "beach"
+            },
+            {
+                "anti_word": "bracelet",
+                "content": "survival"
+            },
+            {
+                "content": "earplug"
+            },
+            {
+                "content": "tent"
+            },
+            {
+                "content": "barbecue"
+            },
+            {
+                "content": "grill"
+            },
+            {
+                "anti_word": "blanket",
+                "content": "picnic"
+            },
+            {
+                "content": "sneaker"
+            },
+            {
+                "content": "domino"
+            },
+            {
+                "content": "telescope"
+            },
+            {
+                "content": "camping"
+            },
+            {
+                "content": "xylophone"
+            },
+            {
+                "content": "slipper"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "travel"
+            },
+            {
+                "content": [
+                    "beach",
+                    "chair"
+                ]
+            },
+            {
+                "content": [
+                    "ear",
+                    "plug"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "tennis"
+                ]
+            },
+            {
+                "content": [
+                    "pillow",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "mug",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "holder",
+                    "passport"
+                ]
+            },
+            {
+                "content": [
+                    "passport",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "fan",
+                    "portable"
+                ]
+            },
+            {
+                "content": [
+                    "fan",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "eye",
+                    "mask"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "set",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "hot",
+                    "water"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "flip",
+                    "flop"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "slipper"
+                ]
+            },
+            {
+                "content": [
+                    "bag",
+                    "garment"
+                ]
+            },
+            {
+                "content": [
+                    "lock",
+                    "number"
+                ]
+            },
+            {
+                "content": [
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "bag",
+                    "sleep"
+                ]
+            },
+            {
+                "content": [
+                    "container",
+                    "waterproof"
+                ]
+            },
+            {
+                "content": [
+                    "basket",
+                    "picnic"
+                ]
+            },
+            {
+                "content": [
+                    "game",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cooling",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "heating",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "reflector",
+                    "safety"
+                ]
+            },
+            {
+                "content": [
+                    "game",
+                    "patience"
+                ]
+            },
+            {
+                "content": [
+                    "basket",
+                    "shopping"
+                ]
+            },
+            {
+                "content": [
+                    "golf",
+                    "tee"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "playing"
+                ]
+            },
+            {
+                "content": [
+                    "game",
+                    "memory"
+                ]
+            },
+            {
+                "content": [
+                    "horn",
+                    "stadium"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "chair"
+                ]
+            },
+            {
+                "content": [
+                    "disc",
+                    "flying"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "cool",
+                    "mat",
+                    "universal"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "house"
+                ]
+            },
+            {
+                "content": [
+                    "freezer",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "dart"
+                ]
+            },
+            {
+                "content": [
+                    "organizer",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "aluminum",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "game",
+                    "mikado"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Leisure_goods_level_1.json"
+    },
+	"Diaries and notebooks": {
+		"filter_words": [{
+                "content": "diary"
+            },
+            {
+                "content": "weekly"
+            },
+            {
+                "content": "note"
+            },
+			{
+                "content": "notebook"
+            },
+            {
+                "content": "notepad"
+            },"next_filter":""]
+	},
+    "Office tools": {
+        "filter_words": [
+            {
+                "content": "hourglass"
+            },
+            {
+                "content": [
+                    "conference",
+                    "folder"
+                ]
+            },
+            {
+                "content": "journal"
+            },
+            {
+                "content": [
+                    "pen",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "block"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "cardholder"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "ruler"
+            },
+            {
+                "content": "РЎРѓlip"
+            },
+            {
+                "content": "sharpener"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "badge"
+            },
+            {
+                "content": "calculator"
+            },
+            {
+                "anti_word": [
+                    "pen",
+                    "led",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "clip"
+            },
+            {
+                "content": "bookmark"
+            },
+            {
+                "anti_word": "mousepad",
+                "content": "calendar"
+            },
+            {
+                "content": "paperweight"
+            },
+            {
+                "content": "noteblock"
+            },
+            {
+                "content": "portfolio"
+            },
+            {
+                "content": "clipboard"
+            },
+            {
+                "content": "cutter"
+            },
+            {
+                "content": "stapler"
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "anti_word": [
+                    "candle",
+                    [
+                        "candle",
+                        "holder"
+                    ],
+                    "card",
+                    "phone",
+                    "bottle",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "holder"
+            },
+            {
+                "content": [
+                    "knife",
+                    "stationary"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "money"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "clip",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "clip",
+                    "document"
+                ]
+            },
+            {
+                "content": [
+                    "badge",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "bank",
+                    "piggy"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "table"
+                ]
+            },
+            {
+                "content": [
+                    "station",
+                    "weather"
+                ]
+            },
+            {
+                "content": [
+                    "case",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "holder",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "holder",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "weight"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "wall"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "sleeve"
+                ]
+            },
+            {
+                "content": [
+                    "document",
+                    "folder"
+                ]
+            },
+            {
+                "content": [
+                    "bubble",
+                    "envelope"
+                ]
+            },
+            {
+                "content": [
+                    "cahier",
+                    "journal"
+                ]
+            },
+            {
+                "content": [
+                    "conference",
+                    "portfolio"
+                ]
+            },
+            {
+                "content": [
+                    "map",
+                    "scratch",
+                    "world"
+                ]
+            },
+            {
+                "content": [
+                    "cutter",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "sand",
+                    "timer"
+                ]
+            },
+            {
+                "content": [
+                    "global",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "holder",
+                    "ticket"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "retractable"
+                ]
+            },
+            {
+                "content": [
+                    "bloc",
+                    "stylux"
+                ]
+            },
+            {
+                "content": [
+                    "letter",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "memo",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "map",
+                    "world"
+                ]
+            },
+            {
+                "content": [
+                    "document",
+                    "holder"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Office_supplies_level_1.json"
+    },
+    "Package": {
+        "filter_words": [
+            {
+                "content": [
+                    "gift",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "package"
+                ]
+            },
+            {
+                "anti_word": [
+                    [
+                        "stemless",
+                        "glass"
+                    ],
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "box",
+                    "gift"
+                ]
+            },
+            {
+                "anti_word": [
+                    [
+                        "stemless",
+                        "glass"
+                    ]
+                ],
+                "content": [
+                    "bag",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "package"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "custom"
+                ]
+            },
+            {
+                "content": [
+                    "carton",
+                    "wine"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Packaging_level_1.json"
+    },
+    "Personal accessories": {
+        "filter_words": [
+            {
+                "content": [
+                    "jewellery",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "sunglass",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "sunscreen",
+                    "lotion"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": "comb"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "mirror"
+            },
+            {
+                "content": "massager"
+            },
+            {
+                "content": "wristwatch"
+            },
+            {
+                "anti_word": [
+                    [
+                        "glass",
+                        "trophy"
+                    ],
+                    [
+                        "glass",
+                        "straw"
+                    ],
+                    "ml",
+                    [
+                        "stemless",
+                        "glass"
+                    ],
+                    "bottle",
+                    "cup",
+                    "mug",
+                    "block",
+                    "paperweight",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "glass"
+            },
+            {
+                "anti_word": [
+                    [
+                        "bicycle",
+                        "light"
+                    ],
+                    "hat",
+                    "led",
+                    "umbrella",
+                    "shirt",
+                    "vest",
+                    "jacket",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "light"
+            },
+            {
+                "content": "cufflink"
+            },
+            {
+                "content": "toothbrush"
+            },
+            {
+                "anti_word": [
+                    "lanyard",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "hook"
+            },
+            {
+                "content": "eyewear"
+            },
+            {
+                "anti_word": [
+                    "cap",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "brush"
+            },
+            {
+                "anti_word": [
+                    [
+                        "sunglass",
+                        "pouch"
+                    ]
+                ],
+                "content": "sunglass"
+            },
+            {
+                "content": "manicure"
+            },
+            {
+                "content": "gas"
+            },
+            {
+                "content": "makeup"
+            },
+            {
+                "anti_word": [
+                    [
+                        "sunscreen",
+                        "lotion"
+                    ]
+                ],
+                "content": "sunscreen"
+            },
+            {
+                "content": "lipstick"
+            },
+            {
+                "content": "ashtray"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "pillbox"
+            },
+            {
+                "content": "hairbrush"
+            },
+            {
+                "content": [
+                    "balm",
+                    "lip"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "pill"
+                ]
+            },
+            {
+                "content": [
+                    "aid",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "sheet",
+                    "soap"
+                ]
+            },
+            {
+                "content": [
+                    "spray",
+                    "sunscreen"
+                ]
+            },
+            {
+                "content": [
+                    "face",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "leave",
+                    "soap"
+                ]
+            },
+            {
+                "content": [
+                    "cleaning",
+                    "hand",
+                    "spray"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "nail"
+                ]
+            },
+            {
+                "content": [
+                    "individual",
+                    "spray",
+                    "water"
+                ]
+            },
+            {
+                "content": [
+                    "file",
+                    "mini",
+                    "nail"
+                ]
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "file",
+                    "nail"
+                ]
+            },
+            {
+                "content": [
+                    "guard",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "pillow"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Personal_accessories_level_1.json"
+    },
+    "Promo souvenirs": {
+        "filter_words": [
+            {
+                "content": [
+                    "glass",
+                    "trophy"
+                ]
+            },
+            {
+                "anti_word": "beach",
+                "content": "pillow"
+            },
+            {
+                "content": "antistress"
+            },
+            {
+                "content": "keyre"
+            },
+            {
+                "content": "keyring"
+            },
+            {
+                "content": "flashlight"
+            },
+            {
+                "anti_word": [
+                    "smart",
+                    "fitness",
+                    "sport"
+                ],
+                "content": "bracelet"
+            },
+            {
+                "content": "wristband"
+            },
+            {
+                "anti_word": "sharpener",
+                "content": "rubber"
+            },
+            {
+                "content": "lanyard"
+            },
+            {
+                "content": "postcard"
+            },
+            {
+                "content": "keychain"
+            },
+            {
+                "content": "trophy"
+            },
+            {
+                "content": "magnet"
+            },
+            {
+                "content": "rosary"
+            },
+            {
+                "content": "torch"
+            },
+            {
+                "content": "cushion"
+            },
+            {
+                "content": "banner"
+            },
+            {
+                "content": "promotion"
+            },
+            {
+                "content": "promotional"
+            },
+            {
+                "content": "stress"
+            },
+            {
+                "content": "trophee"
+            },
+            {
+                "content": [
+                    "bath",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "anti",
+                    "stress"
+                ]
+            },
+            {
+                "content": [
+                    "band",
+                    "silicone"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "display"
+                ]
+            },
+            {
+                "content": [
+                    "cube",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "light",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "event",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "ring"
+                ]
+            },
+            {
+                "content": [
+                    "banner",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "memo",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "emergency",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "bracelet",
+                    "dostoievski"
+                ]
+            },
+            {
+                "content": [
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "sticker",
+                    "vinyl"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "pin"
+                ]
+            },
+            {
+                "content": [
+                    "fridge",
+                    "magnet"
+                ]
+            },
+            {
+                "content": [
+                    "holder",
+                    "picture"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "event",
+                    "hand"
+                ]
+            },
+            {
+                "content": [
+                    "band",
+                    "flexible",
+                    "snap"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Promotional_gifts_level_1.json"
+    },
+    "Sport": {
+        "filter_words": [
+            {
+                "content": [
+                    "bicycle",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "ball",
+                    "beach"
+                ]
+            },
+            {
+                "anti_word": [
+                    "towel",
+                    "light",
+                    "bag",
+                    "backpack",
+                    "vest",
+                    "shirt"
+                ],
+                "content": "sport"
+            },
+            {
+                "anti_word": [
+                    "pen",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "ball"
+            },
+            {
+                "content": "expander"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "whistle"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "bike"
+            },
+            {
+                "anti_word": "towel",
+                "content": "fitness"
+            },
+            {
+                "content": "pedometer"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "bicycle"
+            },
+            {
+                "content": "yoga"
+            },
+            {
+                "content": "pilates"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "rope"
+            },
+            {
+                "content": "volleyball"
+            },
+            {
+                "content": "saddle"
+            },
+            {
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "football"
+            },
+            {
+                "content": [
+                    "rope",
+                    "skip"
+                ]
+            },
+            {
+                "content": [
+                    "game'",
+                    "sport"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "sport"
+                ]
+            },
+            {
+                "content": [
+                    "protein",
+                    "shaker"
+                ]
+            },
+            {
+                "content": [
+                    "expander",
+                    "fitness"
+                ]
+            },
+            {
+                "content": [
+                    "band",
+                    "exercise"
+                ]
+            },
+            {
+                "content": [
+                    "dice",
+                    "fitness"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "jump",
+                    "rope"
+                ]
+            },
+            {
+                "content": [
+                    "mat",
+                    "yoga"
+                ]
+            },
+            {
+                "content": [
+                    "arm",
+                    "reflective",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "bell",
+                    "bike"
+                ]
+            },
+            {
+                "content": [
+                    "reflective",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "exercizer",
+                    "hand"
+                ]
+            },
+            {
+                "content": [
+                    "cover",
+                    "saddle"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Sports_souvenirs_level_1.json"
+    },
+    "Umbrellas": {
+        "filter_words": [
+            {
+                "content": [
+                    "cane",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "unusual",
+                    "original",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "umbrella",
+                    "reverse"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "umbrella",
+                    "set"
+                ]
+            },
+            {
+                "content": "mackintoshes"
+            },
+            {
+                "content": [
+                    "mackintoshes",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "stormproof",
+                    "umbrella"
+                ]
+            },
+            {
+                "anti_word": "beach",
+                "content": "umbrella"
+            },
+            {
+                "content": "raincoat"
+            },
+            {
+                "content": [
+                    "automatic",
+                    "umbrella"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Umbrellas_level_1.json"
+    },
+    "VIP gifts": {
+        "filter_words": [
+            {
+                "content": [
+                    "vip",
+                    "gift"
+                ]
+            },
+            {
+                "content": "cacharel"
+            },
+            {
+                "content": "cerruti"
+            },
+            {
+                "content": [
+                    "christian",
+                    "lacroix"
+                ]
+            },
+            {
+                "content": [
+                    "hugo",
+                    "boss"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "jean",
+                    "louis",
+                    "scherrer"
+                ]
+            },
+            {
+                "content": [
+                    "nina",
+                    "ricci"
+                ]
+            },
+            {
+                "content": "ungaro"
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\VIP_gifts_level_1.json"
+    },
+    "Writing utensils": {
+        "filter_words": [
+            {
+                "anti_word": [
+                    [
+                        "torch",
+                        "led"
+                    ],
+                    "case",
+                    "notebook",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "ball",
+                    "pen"
+                ]
+            },
+            {
+                "anti_word": [
+                    "case",
+                    "laser",
+                    "lipstick",
+                    "notebook",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "pen"
+            },
+            {
+                "anti_word": [
+                    "sharpener",
+                    "notebook"
+                ],
+                "content": "pencil"
+            },
+            {
+                "content": "marker"
+            },
+            {
+                "content": "highlighter"
+            },
+            {
+                "anti_word": [
+                    "notebook",
+                    "diary"
+                ],
+                "content": "ballpoint"
+            },
+            {
+                "anti_word": [
+                    "diary",
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": "refill"
+            },
+            {
+                "content": "roller"
+            },
+            {
+                "anti_word": "notebook",
+                "content": [
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "roller"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "pencils",
+                    "set"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters\\Writing_utensils_level_1.json"
+    }
+}

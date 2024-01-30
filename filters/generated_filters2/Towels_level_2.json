@@ -1,0 +1,929 @@
+{
+    "Bath towels": {
+        "filter_words": [
+			{
+				"content": "towel",
+				"anti_word": ["beach", "kitchen","fitness","sauna","microfiber","microfibre"]
+			},
+            {
+                "content": [
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "bathroom",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "egyptian",
+                    "cotton",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "quick",
+                    "dry",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "absorbent",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "spa",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "hotel",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "turkish",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "jacquard",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "stripe",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "terry",
+                    "cloth",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "colorful",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "pattern",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "guest",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "bath",
+                    "towel"
+                ]
+            }
+        ]
+    },
+    "Beach towels": {
+        "filter_words": [
+            {
+                "content": [
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "quick",
+                    "dry",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "sand",
+                    "free",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "stripe",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "extra",
+                    "large",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "tropical",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "nautical",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel",
+                    "poncho"
+                ]
+            }
+        ]
+    },
+    "Fitness towels": {
+        "filter_words": [
+            {
+                "content": [
+                    "fitness",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "workout",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "sweat",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "fitness",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "quick",
+                    "dry",
+                    "gym",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "absorbent",
+                    "workout",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "athletic",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "cool",
+                    "towel",
+                    "fitness"
+                ]
+            },
+            {
+                "content": [
+                    "nonslip",
+                    "gym",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "antibacterial",
+                    "fitness",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "highperformance",
+                    "sport",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "exercise",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "gym",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "workout",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "fitness",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "sport",
+                    "towel"
+                ]
+            }
+        ]
+    },
+    "Kitchen towels": {
+        "filter_words": [
+			{"content":["microfibre", "towel"]},
+            {
+                "content": [
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "dish",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "tea",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "absorbent",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "terry",
+                    "cloth",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "linen",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "hand",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "chef",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "towel",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "dish",
+                    "dry",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "cleaning",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "print",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "embroider",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "dishcloth"
+                ]
+            },
+            {
+                "content": [
+                    "waffle",
+                    "weave",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "kitchen",
+                    "towel"
+                ]
+            }
+        ]
+    },
+    "Sauna towels": {
+        "filter_words": [
+            {
+                "content": [
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "turkish",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "sauna",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "absorbent",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "quick",
+                    "dry",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "quality",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "thick",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "linen",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "extra",
+                    "large",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "breathable",
+                    "sauna",
+                    "towel"
+                ]
+            }
+        ]
+    },
+    "Towels for 23 February": {
+        "filter_words": [
+            {
+                "content": [
+                    "towel",
+                    "february"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "special",
+                    "day",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "commemorative",
+                    "february",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "celebration",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "towel",
+                    "february",
+                    "theme"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "towel",
+                    "february"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "event",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "date",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "towel",
+                    "mark",
+                    "february"
+                ]
+            },
+            {
+                "content": [
+                    "23rd",
+                    "february",
+                    "theme",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "towel",
+                    "special",
+                    "date"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "personalized",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "towel",
+                    "commemorate",
+                    "february"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "decorative",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "anniversary",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "birthday",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "holiday",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "special",
+                    "occasion",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "customized",
+                    "towel"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,4064 @@
+{
+    "128GB memory sticks": {
+        "filter_words": [
+					{
+				"content": ["usb", "128", "gb", "flash", "drive"]
+			},
+			{
+				"content": ["128", "gb"]
+			},
+			{
+				"content": ["usb","128", "gb"]
+			},
+            {
+                "content": [
+                    "gb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "capacity",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "memory",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "portable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usbc",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "data",
+                    "storage",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "external",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "memory",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "disk",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "removable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "flash",
+                    "memory"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "highspeed",
+                    "usb",
+                    "stick"
+                ]
+            }
+        ]
+    },
+    "16GB memory sticks": {
+        "filter_words": [
+			{
+				"content": ["usb", "16", "gb", "flash", "drive"]
+			},
+			{
+				"content": ["16", "gb"]
+			},
+			{
+				"content": ["usb","16", "gb"]
+			},
+            {
+                "content": [
+                    "gb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "portable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "data",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "memory"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "flash",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "highspeed",
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "pc"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "mac"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "password",
+                    "protection"
+                ]
+            }
+        ]
+    },
+    "2GB memory sticks": {
+        "filter_words": [
+							{
+				"content": ["usb", "2", "gb", "flash", "drive"]
+			},
+			{
+				"content": ["2", "gb"]
+			},
+			{
+				"content": ["usb","2", "gb"]
+			},
+            {
+                "content": [
+                    "gb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "portable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "data",
+                    "storage",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "gb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "highspeed",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "data",
+                    "transfer",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "backup",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "memory",
+                    "storage"
+                ]
+            }
+        ]
+    },
+    "32GB memory sticks": {
+        "filter_words": [
+							{
+				"content": ["usb", "32", "gb", "flash", "drive"]
+			},
+			{
+				"content": ["32", "gb"]
+			},
+			{
+				"content": ["usb","32", "gb"]
+			},
+            {
+                "content": [
+                    "gb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "memory"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "portable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "data",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "capacity",
+                    "gb",
+                    "usb"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "flash",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "flash",
+                    "disk"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "key"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "jump",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "memory",
+                    "stick",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "flash",
+                    "drive",
+                    "pack"
+                ]
+            }
+        ]
+    },
+    "4GB memory sticks": {
+        "filter_words": [
+		{
+				"content": ["usb", "4", "gb", "flash", "drive"]
+			},
+			{
+				"content": ["4", "gb"]
+			},
+			{
+				"content": ["usb","4", "gb"]
+			},
+		
+            {
+                "content": [
+                    "gb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "portable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "data",
+                    "storage",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "gb",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "highspeed",
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick",
+                    "deal"
+                ]
+            }
+        ]
+    },
+    "512 MB memory sticks": {
+        "filter_words": [
+			{
+				"content":["512","mb"]
+			},
+            {
+                "content": [
+                    "mb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "drive",
+                    "mb",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "usb",
+                    "memory"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "usb",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "mb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "mb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "mb",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "data",
+                    "storage",
+                    "usb"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "usb",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "usb",
+                    "flash",
+                    "memory"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "usb",
+                    "disk",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "usb",
+                    "stick",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "memory",
+                    "usb",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "usb",
+                    "drive",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "usb",
+                    "data",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "usb",
+                    "flash",
+                    "disk"
+                ]
+            },
+            {
+                "content": [
+                    "mb",
+                    "usb",
+                    "memory",
+                    "stick",
+                    "drive"
+                ]
+            }
+        ]
+    },
+    "64GB memory sticks": {
+        "filter_words": [{
+				"content": ["usb", "64", "gb", "flash", "drive"]
+			},
+			{
+				"content": ["64", "gb"]
+			},
+			{
+				"content": ["usb","64", "gb"]
+			},
+            {
+                "content": [
+                    "gb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "portable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "data",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "capacity",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "memory",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usbc",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "external",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "key"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "disk"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick",
+                    "storage"
+                ]
+            }
+        ]
+    },
+    "8GB memory sticks": {
+        "filter_words": [{
+				"content": ["usb", "8", "gb", "flash", "drive"]
+			},
+			{
+				"content": ["8", "gb"]
+			},
+			{
+				"content": ["usb","8", "gb"]
+			},
+            {
+                "content": [
+                    "gb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "portable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "data",
+                    "storage",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "highspeed",
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "gb",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick",
+                    "datum",
+                    "transfer"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick",
+                    "backup"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "gb",
+                    "usb",
+                    "stick",
+                    "password",
+                    "protection"
+                ]
+            }
+        ]
+    },
+    "Bullet flash drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "bullet",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "shape",
+                    "usb"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "design",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "usb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "style",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "military",
+                    "bullet",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "bullet",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "bullet",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "shape",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "usb",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "shape",
+                    "datum",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "cool",
+                    "bullet",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "bullet",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "shape",
+                    "usb",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "usb",
+                    "drive",
+                    "keychain"
+                ]
+            }
+        ]
+    },
+    "Flash drive boxes": {
+        "filter_words": [
+            {
+                "content": [
+                    "flash",
+                    "drive",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "stick",
+                    "storage",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "flash",
+                    "drive",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "drive",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "flash",
+                    "drive",
+                    "storage",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "stick",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "flash",
+                    "drive",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "flash",
+                    "drive",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "protective",
+                    "case",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "drive",
+                    "storage",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "flash",
+                    "drive",
+                    "protective",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "stick",
+                    "carry",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "flash",
+                    "drive",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "drive",
+                    "box",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "case",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "flash",
+                    "drive",
+                    "holder",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "stick",
+                    "storage",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "flash",
+                    "drive",
+                    "carry",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "usb",
+                    "stick",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shockproof",
+                    "flash",
+                    "drive",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "multislot",
+                    "usb",
+                    "drive",
+                    "box"
+                ]
+            }
+        ]
+    },
+    "Flash drive bracelets": {
+        "filter_words": [
+            {
+                "content": [
+                    "flash",
+                    "drive",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "wearable",
+                    "usb"
+                ]
+            },
+            {
+                "content": [
+                    "bracelet",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "bracelet",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "band"
+                ]
+            },
+            {
+                "content": [
+                    "wristband",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "bracelet",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "jewelry",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "fashion",
+                    "usb",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "usb",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "usb",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "usb",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "stick",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "memory",
+                    "stick",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "tech",
+                    "accessory",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "jewelry"
+                ]
+            },
+            {
+                "content": [
+                    "wearable",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "storage",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "data",
+                    "storage",
+                    "wristband"
+                ]
+            }
+        ]
+    },
+    "Flash drive kits": {
+        "filter_words": [
+            {
+                "content": [
+                    "flash",
+                    "drive",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "flash",
+                    "drive",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "memory",
+                    "stick",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "storage",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "drive",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "multipack",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "bulk",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "thumb",
+                    "drive",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "data",
+                    "storage",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "highspeed",
+                    "usb",
+                    "stick",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "flash",
+                    "drive",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "multiple",
+                    "usb",
+                    "drive",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "flash",
+                    "drive",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "drive",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "memory",
+                    "stick",
+                    "bundle"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "flash",
+                    "drive",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "storage",
+                    "device",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "multisize",
+                    "usb",
+                    "stick",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "assort",
+                    "usb",
+                    "flash",
+                    "drive",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "capacity",
+                    "usb",
+                    "drive",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Flash drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "data",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "external",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "removable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "capacity",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "highspeed",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "data",
+                    "transfer",
+                    "device"
+                ]
+            }
+        ]
+    },
+    "Flash drives business cards": {
+        "filter_words": [
+            {
+                "content": [
+                    "flash",
+                    "drive",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "style",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "flash",
+                    "drive",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "credit",
+                    "card",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "logo",
+                    "print",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "business",
+                    "card",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "customizable",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "market",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "slim",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "capacity",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "usb",
+                    "business",
+                    "card"
+                ]
+            }
+        ]
+    },
+    "Gift thumb drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "gift",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "engrave",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "fancy",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "special",
+                    "occasion",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "customized",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "wedding",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "birthday",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "anniversary",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "gift",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "drive",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "usb",
+                    "stick"
+                ]
+            }
+        ]
+    },
+    "Leather flash drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "leather",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "usb",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "portable",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "usb",
+                    "flash",
+                    "memory"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "leather",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "cover",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "encase",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "wrap",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "leather",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "leather",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "executive",
+                    "leather",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "capacity",
+                    "leather",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "usb",
+                    "drive",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "leather",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "leather",
+                    "usb",
+                    "memory",
+                    "stick"
+                ]
+            }
+        ]
+    },
+    "Memory sticks": {
+        "filter_words": [
+            {
+                "content": [
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "data",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "flash",
+                    "memory"
+                ]
+            },
+            {
+                "content": [
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "external",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "removable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "capacity",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "data",
+                    "transfer",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "secure",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "highspeed",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "memory",
+                    "stick"
+                ]
+            }
+        ]
+    },
+    "Metal flash drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "metal",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "metallic",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "aluminum",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "case",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "metal",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "metal",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "rugge",
+                    "metal",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "encase",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "quality",
+                    "metal",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "metal",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "metal",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "metal",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "shockproof",
+                    "metal",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "corrosion",
+                    "resistant",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "scratch",
+                    "resistant",
+                    "metal",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "metal",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "metal",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "metal",
+                    "usb",
+                    "stick"
+                ]
+            }
+        ]
+    },
+    "Mini USB sticks": {
+        "filter_words": [
+            {
+                "content": [
+                    "mini",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "tiny",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "miniature",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "pocketsized",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "micro",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "smallsize",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "ultracompact",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "usb",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "nano",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "usb",
+                    "flash",
+                    "memory"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "form",
+                    "factor",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "usb",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "usb",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "usb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "ultrasmall",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "usb",
+                    "data",
+                    "storage"
+                ]
+            }
+        ]
+    },
+    "Original flash drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "original",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "genuine",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "authentic",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "certify",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "official",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "real",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "authentic",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "verify",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "legitimate",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "manufacturer",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "highquality",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "trust",
+                    "brand",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "reliable",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "design",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "noncounterfeit",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "authentic",
+                    "data",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "usb",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "genuine",
+                    "brand",
+                    "flash",
+                    "drive"
+                ]
+            }
+        ]
+    },
+    "OTG flash drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "otg",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "otg",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "otg",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "onthego",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "otg",
+                    "compatible",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "drive",
+                    "otg",
+                    "support"
+                ]
+            },
+            {
+                "content": [
+                    "otg",
+                    "enable",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "smartphone",
+                    "compatible",
+                    "otg",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "otg",
+                    "usb",
+                    "flash",
+                    "drive",
+                    "android"
+                ]
+            },
+            {
+                "content": [
+                    "dual",
+                    "usb",
+                    "otg",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "micro",
+                    "usb",
+                    "otg",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "typec",
+                    "otg",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "otg",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "highspeed",
+                    "otg",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "otg",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "otg",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "multidevice",
+                    "otg",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "otg",
+                    "flash",
+                    "drive",
+                    "tablet"
+                ]
+            },
+            {
+                "content": [
+                    "otg",
+                    "usb",
+                    "drive",
+                    "mobile",
+                    "device"
+                ]
+            }
+        ]
+    },
+    "Pen drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "removable",
+                    "disk",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "datum",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "jump",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "key"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "external",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "capacity",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "highspeed",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "retractable",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usbc",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "secure",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "encrypt",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "shockproof",
+                    "usb",
+                    "drive"
+                ]
+            }
+        ]
+    },
+    "Plastic flash drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "plastic",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "usb",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "portable",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "usb",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "plastic",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "plastic",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "usb",
+                    "drive",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "swivel",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "retractable",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "promotional",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "plastic",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "bulk",
+                    "plastic",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "cheap",
+                    "plastic",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            }
+        ]
+    },
+    "Silicone flash drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "silicone",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "flash",
+                    "memory"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "data",
+                    "storage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "silicone",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "flexible",
+                    "silicone",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "silicone",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "cover",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "shockproof",
+                    "silicone",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "usb",
+                    "drive",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "silicone",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "silicone",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "silicone",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "flash",
+                    "drive",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "animal",
+                    "usb",
+                    "drive"
+                ]
+            }
+        ]
+    },
+    "Soft Touch coated flash drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "coat",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "coat",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "coat",
+                    "usb"
+                ]
+            },
+            {
+                "content": [
+                    "rubber",
+                    "coat",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "rubber",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "rubber",
+                    "coat",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "external",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "portable",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "data",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "coat",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "coat",
+                    "pen",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "coat",
+                    "thumb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "coat",
+                    "data",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "coat",
+                    "usb",
+                    "drive"
+                ]
+            }
+        ]
+    },
+    "Wooden flash drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "wooden",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "wood",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "wooden",
+                    "usb"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "pendrive"
+                ]
+            },
+            {
+                "content": [
+                    "wood",
+                    "grain",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "engraved",
+                    "wooden",
+                    "usb"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "wood",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "wood",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "wooden",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "wood",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "biodegradable",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "usb",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "environmentally",
+                    "friendly",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "wooden",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "wooden",
+                    "flash",
+                    "drive"
+                ]
+            }
+        ]
+    }
+}

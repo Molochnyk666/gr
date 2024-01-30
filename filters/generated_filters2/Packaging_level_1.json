@@ -1,0 +1,3708 @@
+{
+    "Bottle packaging": {
+        "filter_words": [
+					{
+				"content": "wine"
+			},
+						{
+				"content": "wine"
+			},
+						{
+				"content": "wine"
+			},
+			{
+				"content": "wine"
+			},
+							{
+				"content": ["bottle", "carton"]
+			},
+					{
+				"content": ["whiskey", "carton"]
+			},
+			{
+				"content": ["wine", "carton"]
+			},
+            {
+                "content": [
+                    "bottle", 
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "water",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "juice",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "medicine",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "soda",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "milk",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "oil",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "perfume",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "sauce",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "liquor",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "biodegradable",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "bottle",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "packaging",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "packaging",
+                    "solution"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "packaging",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "packaging",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "packaging",
+                    "company"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "packaging",
+                    "manufacturer"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "packaging",
+                    "service"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "packaging",
+                    "trend"
+                ]
+            }
+        ]
+    },
+    "Christmas gift wrapping": {
+        "filter_words": [
+            {
+                "content": [
+                    "christmas",
+                    "gift",
+                    "wrapping"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "gift",
+                    "wrapping",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "ribbon"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "tissue",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "gift",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "gift",
+                    "wrap",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "santa",
+                    "claus",
+                    "wrap",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "reindeer",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "snowflake",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "themed",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "wrapping",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "gift",
+                    "wrap",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "xmas",
+                    "gift",
+                    "label"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "gift",
+                    "seal"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "gift",
+                    "wrap",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "gift",
+                    "bow"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "christmas",
+                    "wrapping",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "christmas",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "gift",
+                    "wrap",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "christmas",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "wine",
+                    "bottle",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "kraft",
+                    "wrapping",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "gift",
+                    "wrap",
+                    "storage"
+                ]
+            }
+        ]
+    },
+    "Eco-packaging": {
+        "filter_words": [
+					{
+				"content": "rpet"
+			},
+						{
+				"content": "rpet"
+			},
+						{
+				"content": "rpet"
+			},
+						{
+				"content": "rpet"
+			},
+						{
+				"content": "rpet"
+			},
+			{
+				"content": "rpet"
+			},
+            {
+                "content": [
+                    "eco",
+                    "-",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "biodegradable",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "compostable",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "environmentally",
+                    "friendly",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "waste",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "plasticfree",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "renewable",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "plantbased",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "ecopackage",
+                    "solution"
+                ]
+            },
+            {
+                "content": [
+                    "ecopackage",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "ecopackaging",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "ecopackage",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "ecopackage",
+                    "supplier"
+                ]
+            },
+            {
+                "content": [
+                    "ecopackaging",
+                    "manufacturer"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "packaging",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "packaging",
+                    "alternative"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "packaging",
+                    "solution"
+                ]
+            },
+            {
+                "content": [
+                    "carbonneutral",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "ecoconscious",
+                    "packaging"
+                ]
+            }
+        ]
+    },
+    "Gift bags": {
+        "filter_words": [
+					{
+				"content": ["kraft", "bag"]
+			},
+            {
+                "content": [
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "party",
+                    "favor",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "birthday",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "wedding",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "bag",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "bag",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "paper",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "fabric",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "shower",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "organza",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "velvet",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "satin",
+                    "gift",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Gift boxes": {
+        "filter_words": [
+					{
+				"content": ["paper", "sleeve"]
+			},
+			{
+				"content": ["paper", "sleeve"]
+			},
+			{
+				"content": ["custom", "paper", "sleeve"]
+			},
+			{
+				"content": ["slender", "box"]
+			},
+			{
+				"content":["custom", "box"]
+			},
+            {
+                "content": [
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "birthday",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "wedding",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrapping",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "jewelry",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gourmet",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "chocolate",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "magnetic",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "ribbon",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "velvet",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "floral",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "cardboard",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "rectangular",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "cardboard",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "jewelry",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "christmas",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "birthday",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "box",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "bulk",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "box",
+                    "wholesale"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "flat",
+                    "pack",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "window",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "seethrough",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "display",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "clear",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "peekaboo",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "view",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "lid",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "pvc",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "visible",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "showcase",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "presentation",
+                    "gift",
+                    "box",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "clear",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "windowed",
+                    "packaging",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "transparent",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "peekthrough",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "window",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "glass",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "adhesive",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "package",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "tape",
+                    "dispenser",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "washi",
+                    "tape",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "seal",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "tape"
+                ]
+            },
+            {
+                "content": [
+                    "tapetheme",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "sealing",
+                    "tape"
+                ]
+            },
+            {
+                "content": [
+                    "tape",
+                    "roll",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "duct",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "craft",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "tape",
+                    "roll"
+                ]
+            },
+            {
+                "content": [
+                    "tape",
+                    "storage",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "tape",
+                    "closure"
+                ]
+            },
+            {
+                "content": [
+                    "tape",
+                    "collection",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "mask",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "scotch",
+                    "tape",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "tape",
+                    "box",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "tape",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "jewelry",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "paper",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "bakery",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "packaging",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "favor",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "cardboard",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "box",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "gable",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "pillow",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "window",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "box",
+                    "shipping"
+                ]
+            },
+            {
+                "content": "shubers"
+            },
+            {
+                "content": [
+                    "shubers",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shuber",
+                    "theme",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "special",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shuber",
+                    "brand",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "luxury",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "customize",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "premium",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "holiday",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "birthday",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "anniversary",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "celebration",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "personalized",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "corporate",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "gourmet",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "chocolate",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "candy",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "sweet",
+                    "treat",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "gift",
+                    "box",
+                    "special",
+                    "occasion"
+                ]
+            },
+            {
+                "content": [
+                    "shuber",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "gift",
+                    "boxes",
+                    "kid"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Gift boxes_level_2.json"
+    },
+    "Gift sacks": {
+        "filter_words": [
+            {
+                "content": [
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "birthday",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "fabric",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "velvet",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "satin",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "burlap",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "organza",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "wedding",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "party",
+                    "favor",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "packaging",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "theme",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "sack",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "wholesale",
+                    "gift",
+                    "sack"
+                ]
+            }
+        ]
+    },
+    "Gift wrapping": {
+        "filter_words": [
+
+            {
+                "content": [
+                    "gift",
+                    "wrapping"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrapping",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ribbon",
+                    "bow"
+                ]
+            },
+            {
+                "content": [
+                    "tissue",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrap",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "birthday",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "wrap",
+                    "paper",
+                    "roll"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrap",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "tape"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrap",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrap",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrap",
+                    "cutter"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrap",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrap",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrap",
+                    "sheet"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrap",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "wrap",
+                    "ribbon"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "packaging",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "cardboard",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "cardboard",
+                    "box",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "packaging",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "jewelry",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "box",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "wine",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "wrap",
+                    "roll"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "box",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "cardboard",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "gift",
+                    "wrapping"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "wood",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "crate",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "wood",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "wood",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "handcrafted",
+                    "wooden",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "wooden",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "wood",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "gift",
+                    "basket"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "wooden",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "wooden",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "wooden",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "engrave",
+                    "wooden",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "wood",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "wood",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "wine",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "wooden",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "wooden",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "wooden",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "wooden",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "jewelry",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "christmas",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "fabric",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "gift",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "silk",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "fabric",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "packaging",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "linen",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "cloth",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "wine",
+                    "bottle",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "gift",
+                    "wrap",
+                    "roll"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "fabric",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "velvet",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "muslin",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "burlap",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "gift",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "gift",
+                    "envelope"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "gift",
+                    "tote",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "fabric",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "cloth",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "waste",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "gift",
+                    "wrapping",
+                    "idea"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "gift",
+                    "wrapping"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "plastic",
+                    "wrapping"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "packaging",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "gift",
+                    "wrapping"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cellophane",
+                    "gift",
+                    "wrapping"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "wrap",
+                    "present"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "wrapping",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "gift",
+                    "packaging",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "plastic",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "gift",
+                    "wrap",
+                    "roll"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "plastic",
+                    "wrapping"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "gift",
+                    "wrap",
+                    "bow"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "gift",
+                    "wrap",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "plastic",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "colored",
+                    "plastic",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "shrink",
+                    "wrap",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "gift",
+                    "wrap",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "biodegradable",
+                    "plastic",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "tin",
+                    "gift",
+                    "wrapping"
+                ]
+            },
+            {
+                "content": [
+                    "aluminum",
+                    "foil",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "metallic",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gift",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "steel",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gift",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "metallic",
+                    "wrapping",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "tin",
+                    "foil",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gift",
+                    "basket"
+                ]
+            },
+            {
+                "content": [
+                    "metallic",
+                    "gift",
+                    "wrap",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gift",
+                    "packaging",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gift",
+                    "wrap",
+                    "roll"
+                ]
+            },
+            {
+                "content": [
+                    "metallic",
+                    "gift",
+                    "ribbon"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gift",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gift",
+                    "box",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "metal",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "metal",
+                    "gift",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gift",
+                    "wrapping",
+                    "accessory"
+                ]
+            },
+            {
+                "content": "leatherpackaging"
+            },
+            {
+                "content": [
+                    "leather",
+                    "gift",
+                    "wrapping"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "leather",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "faux",
+                    "leather",
+                    "gift",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "wrap",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "gift",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "gift",
+                    "envelope"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "gift",
+                    "wrap",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "genuine",
+                    "leather",
+                    "gift",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "packaging",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "gift",
+                    "packaging",
+                    "idea"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "leather",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "leather",
+                    "gift",
+                    "wrapping"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "bound",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "gift",
+                    "wrap",
+                    "roll"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "leather",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "leather",
+                    "gift",
+                    "wrapping"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "packaging",
+                    "jewelry"
+                ]
+            },
+            {
+                "content": [
+                    "tin",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "tin",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "tin",
+                    "packaging",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "tin",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "tin",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "tin",
+                    "gift",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "tin",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "tin",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "rectangular",
+                    "tin",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "tin",
+                    "packaging",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "tin",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "tin",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "tin",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "tin",
+                    "gift",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "tin",
+                    "package",
+                    "christmas"
+                ]
+            },
+            {
+                "content": [
+                    "tin",
+                    "packaging",
+                    "birthday"
+                ]
+            },
+            {
+                "content": [
+                    "tin",
+                    "packaging",
+                    "wedding"
+                ]
+            },
+            {
+                "content": [
+                    "tin",
+                    "gift",
+                    "box",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "tin",
+                    "packaging"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Gift wrapping_level_2.json"
+    },
+    "Packaging paper": {
+        "filter_words": [
+            {
+                "content": [
+                    "packaging",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "wrapping",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "paper",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "tissue",
+                    "paper",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "paperboard",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "corrugated",
+                    "paper",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "bag",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "paper",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "paper",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "paper",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "box",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "pouch",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "solution"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "industry"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "manufacturer"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "wholesale"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "food"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "shipping"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "retail"
+                ]
+            }
+        ]
+    },
+    "Packaging with spoon": {
+        "filter_words": [
+            {
+                "content": [
+                    "package",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "spoonincluded",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "integrated",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "food",
+                    "packaging",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "attach",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "container",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "spooninclusive",
+                    "product",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "packaging",
+                    "builtin",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "accompany",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "spoonready",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "disposable",
+                    "packaging",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "packaging",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "meal",
+                    "packaging",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "equip",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "convenient",
+                    "packaging",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "travelfriendly",
+                    "packaging",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "spoonprovided",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "packaging",
+                    "detachable",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "spoonincorporate",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "onthego",
+                    "packaging",
+                    "spoon"
+                ]
+            }
+        ]
+    },
+    "Paper filler": {
+        "filter_words": [
+            {
+                "content": [
+                    "paper",
+                    "filler"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "filler",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "void",
+                    "fill"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "cushioning"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "biodegradable",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packing",
+                    "filler"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "paper",
+                    "filler"
+                ]
+            },
+            {
+                "content": [
+                    "paperbased",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "protective",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "stuffing",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "fill",
+                    "shipping"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "packaging",
+                    "solution"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "padding",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "packaging",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "filler",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "bulk",
+                    "paper",
+                    "filler"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "paper",
+                    "packaging"
+                ]
+            }
+        ]
+    }
+}

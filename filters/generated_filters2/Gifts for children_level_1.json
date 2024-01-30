@@ -1,0 +1,2023 @@
+{
+    "Accessories for children": {
+        "filter_words": [
+            {
+                "content": [
+                    "accessory",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "jewelry"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "hair",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "sunglass"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "belt"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "bandana"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "sock"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "bow",
+                    "tie"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "hair",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "necklace"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "earring"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "ring"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "handbag"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "shoe",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "fashion",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "novelty",
+                    "accessory"
+                ]
+            }
+        ]
+    },
+    "Baby backpacks": {
+        "filter_words": [
+            {
+                "content": [
+                    "baby",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "toddler",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "carrier",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "allinone",
+                    "baby",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "hiking",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "diaper",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "safety",
+                    "harness"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "leash"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "insulate",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "baby",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "baby",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "multifunction",
+                    "baby",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "ergonomic",
+                    "baby",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "changing",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "stroller",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "toy",
+                    "hook"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "baby",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "theme",
+                    "baby",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "baby",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "twin"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "adjustable",
+                    "strap"
+                ]
+            }
+        ]
+    },
+    "Board games": {
+        "filter_words": [
+            {
+                "content": [
+                    "board",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "board",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "board",
+                    "games"
+                ]
+            },
+            {
+                "content": [
+                    "educational",
+                    "board",
+                    "game",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "family",
+                    "board",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "strategy",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "puzzle",
+                    "board",
+                    "games",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "classic",
+                    "board",
+                    "game",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "games",
+                    "kid",
+                    "age"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "interactive",
+                    "board",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "game",
+                    "gift",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "board",
+                    "game",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "fun",
+                    "board",
+                    "game",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "games",
+                    "young",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "learning",
+                    "board",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "games",
+                    "kid",
+                    "adult"
+                ]
+            },
+            {
+                "content": [
+                    "good",
+                    "board",
+                    "game",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "board",
+                    "game",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "multiplayer",
+                    "board",
+                    "game",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "board",
+                    "game",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "card",
+                    "board",
+                    "game"
+                ]
+            }
+        ]
+    },
+    "Clothes for children": {
+        "filter_words": [
+            {
+                "content": [
+                    "clothe",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "clothing"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "apparel"
+                ]
+            },
+            {
+                "content": [
+                    "boy",
+                    "'",
+                    "clothe"
+                ]
+            },
+            {
+                "content": [
+                    "girl",
+                    "'",
+                    "clothe"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "clothe"
+                ]
+            },
+            {
+                "content": [
+                    "toddler",
+                    "clothe"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "fashion"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "outfit"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "dress"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "wear"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "casual",
+                    "wear"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "formal",
+                    "wear"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "sportswear"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "sleepwear"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "swimwear"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "winter",
+                    "clothe"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "summer",
+                    "clothe"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "designer",
+                    "clothe"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "party",
+                    "wear"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "holiday",
+                    "clothe"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "school",
+                    "uniform"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "costume"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "sock"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "rainwear"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "ethnic",
+                    "wear"
+                ]
+            }
+        ]
+    },
+    "Developmental games": {
+        "filter_words": [
+            {
+                "content": [
+                    "developmental",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "educational",
+                    "toys"
+                ]
+            },
+            {
+                "content": [
+                    "developmental",
+                    "games",
+                    "kids"
+                ]
+            },
+            {
+                "content": [
+                    "learning",
+                    "games",
+                    "children"
+                ]
+            },
+            {
+                "content": [
+                    "brain",
+                    "development",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "cognitive",
+                    "development",
+                    "games"
+                ]
+            },
+            {
+                "content": [
+                    "skillbuilding",
+                    "toys",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "stem",
+                    "toys",
+                    "children"
+                ]
+            },
+            {
+                "content": [
+                    "creative",
+                    "learning",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "interactive",
+                    "educational",
+                    "toys"
+                ]
+            },
+            {
+                "content": [
+                    "sensory",
+                    "development",
+                    "toys"
+                ]
+            },
+            {
+                "content": [
+                    "motor",
+                    "skill",
+                    "development",
+                    "games"
+                ]
+            },
+            {
+                "content": [
+                    "problemsolving",
+                    "game",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "science",
+                    "kit",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "math",
+                    "learning",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "language",
+                    "development",
+                    "games"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "craft",
+                    "kit",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "puzzle",
+                    "games",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "logic",
+                    "building",
+                    "games"
+                ]
+            },
+            {
+                "content": [
+                    "musical",
+                    "instrument",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "roleplay",
+                    "toy",
+                    "kids"
+                ]
+            },
+            {
+                "content": [
+                    "early",
+                    "learning",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "preschool",
+                    "educational",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "literacy",
+                    "development",
+                    "games"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "book",
+                    "learning"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "kit",
+                    "kid"
+                ]
+            }
+        ]
+    },
+    "Gift sets for children": {
+        "filter_words": [
+            {
+                "content": [
+                    "gift",
+                    "set",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "toy",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "educational",
+                    "gift",
+                    "set",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "book",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "puzzle",
+                    "gift",
+                    "set",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "craft",
+                    "gift",
+                    "set",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "game",
+                    "gift",
+                    "set",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "lego",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "doll",
+                    "gift",
+                    "set",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "action",
+                    "figure",
+                    "gift",
+                    "set",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "science",
+                    "kit",
+                    "gift",
+                    "set",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "jewelry",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "toy",
+                    "gift",
+                    "set",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "clothing",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "bath",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "cooking",
+                    "set",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "musical",
+                    "instrument",
+                    "gift",
+                    "set",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "sport",
+                    "equipment",
+                    "gift",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Gifts for creativity": {
+        "filter_words": [
+			{
+				"content": ["chalk", "stick"]
+			},
+            {
+                "content": [
+                    "gift",
+                    "creativity"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "craft",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "creative",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "painting",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "drawing",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "sculpt",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "building",
+                    "block"
+                ]
+            },
+            {
+                "content": [
+                    "lego",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "puzzle",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "science",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "musical",
+                    "instrument"
+                ]
+            },
+            {
+                "content": [
+                    "jewelry",
+                    "making",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "sew",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "origami",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bead",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "clay",
+                    "modeling"
+                ]
+            },
+            {
+                "content": [
+                    "magic",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "cooking",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "storytelling",
+                    "games"
+                ]
+            },
+            {
+                "content": [
+                    "creative",
+                    "board",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "educational",
+                    "toys"
+                ]
+            },
+            {
+                "content": [
+                    "robotic",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "coding",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "architecture",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "dressup",
+                    "clothe"
+                ]
+            },
+            {
+                "content": [
+                    "puppet",
+                    "theater"
+                ]
+            },
+            {
+                "content": [
+                    "photography",
+                    "kit"
+                ]
+            }
+        ]
+    },
+    "Reflectors for children": {
+        "filter_words": [
+            {
+                "content": [
+                    "reflector",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "reflector"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "safety",
+                    "reflector"
+                ]
+            },
+            {
+                "content": [
+                    "reflective",
+                    "gift",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "reflective",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "reflective",
+                    "accessory",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "reflective",
+                    "clothing"
+                ]
+            },
+            {
+                "content": [
+                    "reflective",
+                    "toy",
+                    "children"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "reflector",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "bike",
+                    "reflector"
+                ]
+            },
+            {
+                "content": [
+                    "reflective",
+                    "backpack",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "reflective",
+                    "sticker",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "reflective",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "reflective",
+                    "school",
+                    "supply",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "reflective",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "reflective",
+                    "helmet"
+                ]
+            },
+            {
+                "content": [
+                    "reflective",
+                    "nightwear",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "reflective",
+                    "gift",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "reflective",
+                    "safety",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "reflective",
+                    "outdoor",
+                    "toy",
+                    "kids"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "reflective",
+                    "jacket"
+                ]
+            }
+        ]
+    },
+    "Soft toys": {
+        "filter_words": [
+            {
+                "content": [
+                    "soft",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "stuff",
+                    "animals"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "toys",
+                    "kids"
+                ]
+            },
+            {
+                "content": [
+                    "teddy",
+                    "bears"
+                ]
+            },
+            {
+                "content": [
+                    "cuddly",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "dolls"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "animal"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "toy",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "soft",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "kids",
+                    "soft",
+                    "toys"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "toy",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "toy",
+                    "animal"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "soft",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "toy",
+                    "character"
+                ]
+            },
+            {
+                "content": [
+                    "plushie",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "toy",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cartoon",
+                    "soft",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "toy",
+                    "brand"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "soft",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "soft",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "toy",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "educational",
+                    "soft",
+                    "toys"
+                ]
+            },
+            {
+                "content": [
+                    "interactive",
+                    "soft",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "toy",
+                    "car"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "toy",
+                    "puppet"
+                ]
+            }
+        ]
+    },
+    "Sweets for children": {
+        "filter_words": [
+            {
+                "content": [
+                    "sweet",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "sweet"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "candy",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "chocolate",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "sweet",
+                    "treat",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "candy",
+                    "gift",
+                    "basket",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "gourmet",
+                    "sweet"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "candy",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "edible",
+                    "gift",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "sweet",
+                    "hamper"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "lollipop",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "jelly",
+                    "bean",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "sweet",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "candy",
+                    "gift",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "sweet",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "candy",
+                    "bouquet"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "birthday",
+                    "sweet"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "holiday",
+                    "candy",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "sugarfree",
+                    "sweet"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "theme",
+                    "candy",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "candy",
+                    "subscription",
+                    "box"
+                ]
+            }
+        ]
+    },
+    "Toys for children": {
+        "filter_words": [
+            {
+                "content": [
+                    "toy",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "kids",
+                    "toys"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "educational",
+                    "toys",
+                    "kids"
+                ]
+            },
+            {
+                "content": [
+                    "toddler",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "toys",
+                    "boys"
+                ]
+            },
+            {
+                "content": [
+                    "toys",
+                    "girls"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "toys",
+                    "kids"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "toy",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "creative",
+                    "toys",
+                    "kids"
+                ]
+            },
+            {
+                "content": [
+                    "interactive",
+                    "toys",
+                    "children"
+                ]
+            },
+            {
+                "content": [
+                    "learning",
+                    "toys",
+                    "kids"
+                ]
+            },
+            {
+                "content": [
+                    "fun",
+                    "toys",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "ageappropriate",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "good",
+                    "toys",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "popular",
+                    "children",
+                    "toys"
+                ]
+            },
+            {
+                "content": [
+                    "toprated",
+                    "kid",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "safe",
+                    "toys",
+                    "children"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "toys",
+                    "kids"
+                ]
+            },
+            {
+                "content": [
+                    "developmental",
+                    "toys",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "stem",
+                    "toys",
+                    "kids"
+                ]
+            },
+            {
+                "content": [
+                    "puzzle",
+                    "toy",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "action",
+                    "figure",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "doll",
+                    "girl"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "toy",
+                    "boy"
+                ]
+            },
+            {
+                "content": [
+                    "board",
+                    "games",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "toys",
+                    "children"
+                ]
+            },
+            {
+                "content": [
+                    "musical",
+                    "toys",
+                    "kids"
+                ]
+            },
+            {
+                "content": [
+                    "building",
+                    "blocks",
+                    "child"
+                ]
+            },
+            {
+                "content": [
+                    "role",
+                    "play",
+                    "toy",
+                    "kid"
+                ]
+            }
+        ]
+    }
+}

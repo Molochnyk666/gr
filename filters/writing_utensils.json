@@ -1,0 +1,54 @@
+{
+    "Highlighters": [
+        {
+            "content": "refill"
+        },
+        {
+            "content": [
+                "pen",
+                "refill"
+            ]
+        },
+        {
+            "content": "highlighter"
+        }
+    ],
+    "Markers": [{
+            "content": "marker"
+        }
+    ],
+    "Pencils": [
+        {
+            "content": [
+                "pencil",
+                "set"
+            ]
+        },
+        {
+            "content": "pencil"
+        }
+    ],
+    "Pens": [
+        {
+            "content": [
+                "ball",
+                "pen"
+            ]
+        },
+        {
+            "content": "pen"
+        },
+        {
+            "content": "ballpoint"
+        },
+        {
+            "content": [
+                "ballpoint",
+                "pen"
+            ]
+        },
+        {
+            "content": "roller"
+        }
+    ]
+}

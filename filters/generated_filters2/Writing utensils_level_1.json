@@ -1,0 +1,4437 @@
+{
+    "Highlighters": {
+        "filter_words": [
+            {
+                "content": "highlighter"
+            },
+            {
+                "content": [
+                    "highlight",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fluorescent",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "text",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "highlighting",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "stationery",
+                    "item"
+                ]
+            },
+            {
+                "content": [
+                    "multicolored",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "liquid",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "chiseltip",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "fine",
+                    "tip",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "dual",
+                    "tip",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "pastel",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "neon",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "jumbo",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "erasable",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "smearproof",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "nontoxic",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "dry",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "bible",
+                    "highlighter"
+                ]
+            },
+            {
+                "content": [
+                    "study",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "drawing",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "writing",
+                    "utensil"
+                ]
+            },
+            {
+                "content": [
+                    "highlight",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "brandspecific",
+                    "keyword",
+                    "e.g.",
+                    "sharpie",
+                    "highlighter",
+                    "stabilo",
+                    "highlighter",
+                    "etc"
+                ]
+            }
+        ]
+    },
+    "Markers": {
+        "filter_words": [
+            {
+                "content": "marker"
+            },
+            {
+                "content": [
+                    "permanent",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "dry",
+                    "erase",
+                    "marker"
+                ]
+            },
+            {
+                "content": "highlighter"
+            },
+            {
+                "content": [
+                    "washable",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "fabric",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "whiteboard",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "alcohol",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "paint",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "chalk",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "metallic",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "calligraphy",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "dual",
+                    "tip",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "fine",
+                    "point",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "broad",
+                    "tip",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "nontoxic",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "watercolor",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "neon",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "marker",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "brush",
+                    "tip",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "coloring",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "marker",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "bullet",
+                    "journal",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "art",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "sketch",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "flip",
+                    "chart",
+                    "marker"
+                ]
+            }
+        ]
+    },
+    "Pencils": {
+        "filter_words": [
+            {
+                "content": "pencil"
+            },
+            {
+                "content": [
+                    "graphite",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "colored",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "mechanical",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "draw",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "eraser"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "grip"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "extender"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "lead"
+                ]
+            },
+            {
+                "content": [
+                    "charcoal",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "watercolor",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "sketch",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "topper"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "bendable",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "flexible",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "twistable",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "fun",
+                    "bendy",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "magic",
+                    "bend",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "flexi",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "elastic",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "bendable",
+                    "art",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "bendable",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "bendable",
+                    "graphite",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "bendable",
+                    "drawing",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "bendable",
+                    "colored",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "bendable",
+                    "lead",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "bendable",
+                    "writing",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "bendable",
+                    "school",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "bendable",
+                    "kid",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "bendable",
+                    "craft",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "flexible",
+                    "bendy",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "unbreakable",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "eternal",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "everlasting",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "infinite",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "longlasting",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "indestructible",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "permanent",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "unending",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "forever",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "nondisposable",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "replaceable",
+                    "lead"
+                ]
+            },
+            {
+                "content": [
+                    "endless",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "life"
+                ]
+            },
+            {
+                "content": [
+                    "lifetime",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "continuous",
+                    "pencil"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "eternal",
+                    "ink"
+                ]
+            },
+            {
+                "content": [
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "draw",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "colored",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "graphite",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "sketch",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "mechanical",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "watercolor",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "charcoal",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "calligraphy",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pastel",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cartoon",
+                    "pencil",
+                    "set"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Pencils_level_2.json"
+    },
+    "Pens": {
+        "filter_words": [
+			{
+				"content":"ballpen"
+			},
+					{
+				"content": "rollerball"
+			},
+			{
+				"content": ["metal", "rollerball"]
+			},
+            {
+                "content": "pen"
+            },
+            {
+                "content": [
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "calligraphy",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fine",
+                    "tip",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "retractable",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "marker",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "highlight",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "brush",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "multicolor",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "disposable",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "draw",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "sketch",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "technical",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "felt",
+                    "tip",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "erasable",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "brand",
+                    "e.g.",
+                    "bic",
+                    "pilot",
+                    "montblanc",
+                    "parker",
+                    "cross",
+                    "etc"
+                ]
+            },
+            {
+                "content": [
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "biro",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "click",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "twist",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fine",
+                    "point",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "medium",
+                    "point",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "disposable",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "oilbased",
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "smooth",
+                    "writing",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "quickdrye",
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "nonsmudge",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "clip",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "ergonomic",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "ballpoint",
+                    "pen",
+                    "drawing"
+                ]
+            },
+            {
+                "content": [
+                    "ballpoint",
+                    "pen",
+                    "writing"
+                ]
+            },
+            {
+                "content": [
+                    "ballpoint",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "multicolor",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "cheap",
+                    "plastic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "ballpoint",
+                    "plastic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "stick",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "retractable",
+                    "plastic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "plastic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "colored",
+                    "plastic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "pen",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "pen",
+                    "logo"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "plastic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "plastic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "pen",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "pen",
+                    "school"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "pen",
+                    "office"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "plastic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "plastic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "pen",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "pen",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "plastic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "plastic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "aluminum",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "brass",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metallic",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "silver",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "heavyweight",
+                    "metal",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "calligraphy",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "fine",
+                    "point",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "luxury",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "signature",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "engrave",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "promotional",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "personalize",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "executive",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "office",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "business",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "writing",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "craft",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "art",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "handcrafted",
+                    "wooden",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "wooden",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "wooden",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "wooden",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "engraved",
+                    "wooden",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "calligraphy",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "wood",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "wooden",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "wooden",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "wooden",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "wooden",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "wooden",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "artisan",
+                    "wooden",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "eco",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "biodegradable",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "environmentally",
+                    "friendly",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "material",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "plantable",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "compostable",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "ecoconscious",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "earthfriendly",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "nontoxic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "plasticfree",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "waste",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "eco",
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "eco",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "eco",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "eco",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "stationery"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "touch",
+                    "screen",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "tablet",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "smartphone",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "ipad",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "draw",
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "capacitive",
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fine",
+                    "point",
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen",
+                    "touch",
+                    "screen"
+                ]
+            },
+            {
+                "content": [
+                    "universal",
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "precision",
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen",
+                    "palm",
+                    "rejection"
+                ]
+            },
+            {
+                "content": [
+                    "active",
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen",
+                    "drawing"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen",
+                    "writing"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen",
+                    "note",
+                    "taking"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen",
+                    "artist"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen",
+                    "designer"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen",
+                    "graphic",
+                    "tablet"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "pressure",
+                    "sensitive",
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen",
+                    "android",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen",
+                    "ios",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen",
+                    "window",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "multifunction",
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "stylus",
+                    "pen",
+                    "replaceable",
+                    "tip"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "sensitivity",
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "calligraphy",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "ink"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "calligraphy",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "fountain",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "converter"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "cartridge"
+                ]
+            },
+            {
+                "content": [
+                    "japanese",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "german",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "italian",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "paper"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "cleaning",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "beginner"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "gold",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "silver",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "extra",
+                    "fine",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "broad",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "flexible",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "stub",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "music",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "oblique",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "fountain",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "calligraphy",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "nibs"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "parker",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "engrave"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "gold"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "silver"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "limited",
+                    "edition"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "special",
+                    "edition"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "ink",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "converter"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "fine",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "medium",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "broad",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "extra",
+                    "fine",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "stub",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "parker",
+                    "pen",
+                    "flex",
+                    "nib"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "ballpoint",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "fountain",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "rollerball",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "sterling",
+                    "silver",
+                    "senator",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "promotional",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "signature",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "luxury",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "senator",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "pen",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "metal",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "plastic",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "ecofriendly",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "office",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "writing",
+                    "instruments"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "pen",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "brand",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "custom",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "corporate",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "executive",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "premium",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "pen",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "senator",
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "coat",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "rubber",
+                    "coat",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "grip",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "comfort",
+                    "grip",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "writing",
+                    "instrument"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "stylus",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "rubberize",
+                    "finish",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "retractable",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "coat",
+                    "writing",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "finish",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "smooth",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "luxury",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "premium",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "ergonomic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "office",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "professional",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "touch",
+                    "coat",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "display",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "rotate",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "multi",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand",
+                    "drawer"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand",
+                    "desk"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand",
+                    "office"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "pen",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "stand",
+                    "plate"
+                ]
+            },
+            {
+                "content": [
+                    "luminous",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "glow",
+                    "dark",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "lightup",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "neon",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fluorescent",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "illuminate",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "glowing",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "bright",
+                    "light",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "night",
+                    "glow",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "radiant",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "shiny",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "visibility",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "light",
+                    "emit",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "flashlight",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "glow",
+                    "stick",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luminous",
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "reflective",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "backlit",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luminous",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luminous",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luminous",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luminous",
+                    "calligraphy",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luminous",
+                    "drawing",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luminous",
+                    "writing",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "swiss",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "promotional",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "ds3",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "ds5",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "ds7",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "ds8",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "ds9",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "eco",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "personalized",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "custom",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "brand",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "logo",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "writing",
+                    "instrument"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "quality",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "luxury",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "design",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "refillable",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "sustainable",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "swiss",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "premium",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "corporate",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "business",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "prodir",
+                    "advertising",
+                    "pens"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "authentic",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "genuine",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "brand",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "official",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "real",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "verify",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "manufacturer",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "legitimate",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "certify",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "ballpoint",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "fountain",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "calligraphy",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "signature",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "luxury",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "designer",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "vintage",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "collectible",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "limited",
+                    "edition",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "pen",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "original",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "inkjoy",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "pilot",
+                    "g2",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "colorful",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fine",
+                    "point",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "retractable",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "metallic",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "glitter",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "smooth",
+                    "writing",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "quick",
+                    "dry",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "ballpoint",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "pen",
+                    "art"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "pen",
+                    "writing"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "pen",
+                    "drawing"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "pen",
+                    "coloring"
+                ]
+            },
+            {
+                "content": [
+                    "highquality",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "japanese",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "erasable",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "extra",
+                    "fine",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "neon",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "acidfree",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "nontoxic",
+                    "gel",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "mirror",
+                    "engrave",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "mirror",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "mirror",
+                    "engrave",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "engraved",
+                    "mirror",
+                    "finish",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "mirror",
+                    "pen",
+                    "engraving"
+                ]
+            },
+            {
+                "content": [
+                    "reflective",
+                    "engraved",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "mirror",
+                    "engrave",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "mirror",
+                    "surface",
+                    "engrave",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "customized",
+                    "mirror",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "engrave",
+                    "pen",
+                    "mirror",
+                    "finish"
+                ]
+            },
+            {
+                "content": [
+                    "mirror",
+                    "polish",
+                    "engrave",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "mirror",
+                    "effect",
+                    "engrave",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "gloss",
+                    "mirror",
+                    "engrave",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "mirror",
+                    "shine",
+                    "engraved",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "mirror",
+                    "engrave",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "mirror",
+                    "gloss",
+                    "engrave",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "engrave",
+                    "pen",
+                    "mirror",
+                    "effect"
+                ]
+            },
+            {
+                "content": [
+                    "mirrorlike",
+                    "engraved",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "shiny",
+                    "mirror",
+                    "engrave",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "mirror",
+                    "sheen",
+                    "engrave",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "fine",
+                    "point",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "ink",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "smooth",
+                    "writing",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "ink",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "ink",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "highquality",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "pen",
+                    "writing"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "pen",
+                    "drawing"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "pen",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "retractable",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "pen",
+                    "extra",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "quickdrye",
+                    "rollerball",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "pen",
+                    "comfort",
+                    "grip"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "pen",
+                    "lefthander"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "pen",
+                    "student"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "pen",
+                    "office",
+                    "use"
+                ]
+            },
+            {
+                "content": [
+                    "set",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "calligraphy",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "executive",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "pencil",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "diary",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "pen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "set",
+                    "drawing"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "set",
+                    "writing"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "set",
+                    "artist"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "set",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "set",
+                    "ink"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "set",
+                    "student"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "set",
+                    "professional"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "set",
+                    "office"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "set",
+                    "gifting"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "set",
+                    "calligrapher"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "set",
+                    "engineer"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "refil"
+                ]
+            },
+            {
+                "content": [
+                    "ink",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "ballpoint",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "fountain",
+                    "pen",
+                    "ink",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "rollerball",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "cross",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "montblanc",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "pilot",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "bic",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "waterman",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "lamy",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "ink",
+                    "cartridge",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "ink",
+                    "replacement"
+                ]
+            },
+            {
+                "content": [
+                    "refill",
+                    "pack",
+                    "pen"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "black",
+                    "red",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "fine",
+                    "point",
+                    "pen",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "broad",
+                    "point",
+                    "pen",
+                    "refill"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Pens_level_2.json"
+    }
+}

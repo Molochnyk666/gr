@@ -1,0 +1,7102 @@
+{
+    "Beauty products": {
+        "filter_words": [
+            {
+                "content": [
+                    "beauty",
+                    "product"
+                ]
+            },
+            {
+                "content": "makeup"
+            },
+            {
+                "content": "cosmetic"
+            },
+            {
+                "content": "skincare"
+            },
+            {
+                "content": "haircare"
+            },
+            {
+                "content": "perfume"
+            },
+            {
+                "content": "fragrance"
+            },
+            {
+                "content": "lipstick"
+            },
+            {
+                "content": "mascara"
+            },
+            {
+                "content": "eyeliner"
+            },
+            {
+                "content": "foundation"
+            },
+            {
+                "content": "concealer"
+            },
+            {
+                "content": "blush"
+            },
+            {
+                "content": "bronzer"
+            },
+            {
+                "content": "highlighter"
+            },
+            {
+                "content": "eyeshadow"
+            },
+            {
+                "content": [
+                    "makeup",
+                    "brush"
+                ]
+            },
+            {
+                "content": [
+                    "beauty",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "polish"
+                ]
+            },
+            {
+                "content": [
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beauty",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "hair",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "hair",
+                    "styling",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "face",
+                    "mask"
+                ]
+            },
+            {
+                "content": "serum"
+            },
+            {
+                "content": "moisturizer"
+            },
+            {
+                "content": "cleanser"
+            },
+            {
+                "content": "toner"
+            },
+            {
+                "content": "exfoliator"
+            },
+            {
+                "content": "sunscreen"
+            },
+            {
+                "content": [
+                    "bath",
+                    "body",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "beauty",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "beauty",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "vegan",
+                    "beauty",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "beauty",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "beauty",
+                    "supplement"
+                ]
+            },
+            {
+                "content": [
+                    "false",
+                    "eyelash"
+                ]
+            },
+            {
+                "content": [
+                    "eyebrow",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "lip",
+                    "care",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "antiaging",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "acne",
+                    "treatment"
+                ]
+            },
+            {
+                "content": "combshairbrush"
+            },
+            {
+                "content": "hairbrush"
+            },
+            {
+                "content": "comb"
+            },
+            {
+                "content": [
+                    "detangle",
+                    "brush"
+                ]
+            },
+            {
+                "content": [
+                    "paddle",
+                    "brush"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "brush"
+                ]
+            },
+            {
+                "content": [
+                    "hair",
+                    "care",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "hair",
+                    "detangler"
+                ]
+            },
+            {
+                "content": [
+                    "hairbrush",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "comb"
+                ]
+            },
+            {
+                "content": [
+                    "hair",
+                    "styling",
+                    "comb"
+                ]
+            },
+            {
+                "content": [
+                    "hairbrush",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "hairbrush",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "hairbrush",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "hairbrush"
+                ]
+            },
+            {
+                "content": [
+                    "salon",
+                    "hairbrush"
+                ]
+            },
+            {
+                "content": [
+                    "hairbrush",
+                    "thick",
+                    "hair"
+                ]
+            },
+            {
+                "content": [
+                    "hairbrush",
+                    "thin",
+                    "hair"
+                ]
+            },
+            {
+                "content": [
+                    "hairbrush",
+                    "curly",
+                    "hair"
+                ]
+            },
+            {
+                "content": [
+                    "hairbrush",
+                    "straight",
+                    "hair"
+                ]
+            },
+            {
+                "content": [
+                    "hairbrush",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "hairbrush",
+                    "comb",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "widetooth",
+                    "comb"
+                ]
+            },
+            {
+                "content": [
+                    "rat",
+                    "tail",
+                    "comb"
+                ]
+            },
+            {
+                "content": [
+                    "hair",
+                    "pick",
+                    "comb"
+                ]
+            },
+            {
+                "content": [
+                    "hairbrush",
+                    "cleaner"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "bristle",
+                    "hairbrush"
+                ]
+            },
+            {
+                "content": [
+                    "boar",
+                    "bristle",
+                    "hairbrush"
+                ]
+            },
+            {
+                "content": [
+                    "ionic",
+                    "hairbrush"
+                ]
+            },
+            {
+                "content": [
+                    "vented",
+                    "hairbrush"
+                ]
+            },
+            {
+                "content": "mirror"
+            },
+            {
+                "content": [
+                    "makeup",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "vanity",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "lighted",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "magnifying",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "handheld",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "wallmounted",
+                    "beauty",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "makeup",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "doublesided",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "beauty",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "makeup",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "mirror",
+                    "lights"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "beauty",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "vanity",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "makeup",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "illuminate",
+                    "cosmetic",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "beauty",
+                    "mirror",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "rotate",
+                    "makeup",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "definition",
+                    "beauty",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "manicure",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "care",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "clippers"
+                ]
+            },
+            {
+                "content": [
+                    "cuticle",
+                    "pusher"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "file"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "buffers"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "scissor"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "art",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "manicure",
+                    "kits"
+                ]
+            },
+            {
+                "content": [
+                    "pedicure",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "polish",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "grooming",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "cuticle",
+                    "nipper"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "brushes"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "care",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "manicure",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "art",
+                    "brush"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "dotting",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "stamping",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "gel",
+                    "nail",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "nail",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "polish",
+                    "remover",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "treatment",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "strengthen",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "hygiene",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "art",
+                    "sticker",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "polish",
+                    "organizer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "dryer",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "extension",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "glitter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "hygienic",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "antibacterial",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "sanitary",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "hypoallergenic",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "clean",
+                    "beauty",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "nontoxic",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "vegan",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "parabenfree",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "crueltyfree",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "glutenfree",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "lipstick",
+                    "natural",
+                    "ingredient"
+                ]
+            },
+            {
+                "content": [
+                    "lipstick",
+                    "essential",
+                    "oil"
+                ]
+            },
+            {
+                "content": [
+                    "lipstick",
+                    "vitamin",
+                    "e"
+                ]
+            },
+            {
+                "content": [
+                    "lipstick",
+                    "spf"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "lipstick"
+                ]
+            },
+            {
+                "content": [
+                    "lipstick",
+                    "sensitive",
+                    "skin"
+                ]
+            },
+            {
+                "content": [
+                    "lipstick",
+                    "hygienic",
+                    "applicator"
+                ]
+            },
+            {
+                "content": [
+                    "lipstick",
+                    "antibacterial",
+                    "property"
+                ]
+            },
+            {
+                "content": [
+                    "lipstick",
+                    "clean",
+                    "formula"
+                ]
+            },
+            {
+                "content": [
+                    "lipstick",
+                    "sterilize",
+                    "applicator"
+                ]
+            },
+            {
+                "content": [
+                    "lipstick",
+                    "hygienic",
+                    "packaging"
+                ]
+            },
+            {
+                "content": [
+                    "lipstick",
+                    "sealed",
+                    "packaging"
+                ]
+            },
+            {
+                "content": "massager"
+            },
+            {
+                "content": [
+                    "facial",
+                    "massager"
+                ]
+            },
+            {
+                "content": [
+                    "body",
+                    "massager"
+                ]
+            },
+            {
+                "content": [
+                    "electric",
+                    "massager"
+                ]
+            },
+            {
+                "content": [
+                    "handheld",
+                    "massager"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "oil"
+                ]
+            },
+            {
+                "content": [
+                    "foot",
+                    "massager"
+                ]
+            },
+            {
+                "content": [
+                    "scalp",
+                    "massager"
+                ]
+            },
+            {
+                "content": [
+                    "eye",
+                    "massager"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "massager"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "cream"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "roller"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "brush"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "lotion"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "gel"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "soap"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "wand"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "bar"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "serum"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "massage",
+                    "belt"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Beauty products_level_2.json"
+    },
+    "Eyeglasses": {
+        "filter_words": [
+            {
+                "content": "eyeglass"
+            },
+            {
+                "content": [
+                    "prescription",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "read",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": "sunglass"
+            },
+            {
+                "content": "eyewear"
+            },
+            {
+                "content": "spectacle"
+            },
+            {
+                "content": "frame"
+            },
+            {
+                "content": "lens"
+            },
+            {
+                "content": [
+                    "optical",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "bifocal",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "progressive",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "rimless",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "fullrim",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "halfrim",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "light",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "polarized",
+                    "sunglass"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "aviator",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "cateye",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "cleaner"
+                ]
+            },
+            {
+                "content": [
+                    "wood",
+                    "rim",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "wood",
+                    "frame",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wood",
+                    "rimmed",
+                    "eyewear"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "wooden",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "wood",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "wood",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "prescription",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "wood",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wood",
+                    "spectacle"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "sunglass"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "wood",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "wooden",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "wood",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "wood",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wood",
+                    "optical",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "wood",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wood",
+                    "rim",
+                    "reading",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wood",
+                    "grain",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "wood",
+                    "eyewear"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "spectacle",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "protective",
+                    "eyewear",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "eyeglas",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "sunglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "cleaning",
+                    "cloth"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "zipper"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "belt",
+                    "loop"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "car"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "multiple",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "large",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "small",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "reading",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "bifocal"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "sport",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "shockproof",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "eyeglass",
+                    "case"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Eyeglasses and Eyeglass cases_level_2.json"
+    },
+    "Health and hygiene products": {
+        "filter_words": [
+            {
+                "content": [
+                    "health",
+                    "hygiene",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "hand",
+                    "sanitizer"
+                ]
+            },
+            {
+                "content": [
+                    "face",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "personal",
+                    "hygiene",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "dental",
+                    "care",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "feminine",
+                    "hygiene",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "monitoring",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "personal",
+                    "care",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "hygiene",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "disposable",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "wellness",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "health",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "hygiene",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "supplement"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "skin",
+                    "care",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "hair",
+                    "care",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "body",
+                    "care",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "hygiene",
+                    "gadget"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "hygiene",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "personal",
+                    "protective",
+                    "equipment",
+                    "ppe"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "hygiene",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "hygiene",
+                    "essential"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "hygiene",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "hygiene",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "hygiene",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "hygiene",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "personal",
+                    "health",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "hygiene",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "hygiene",
+                    "brand"
+                ]
+            },
+            {
+                "content": "pillbox"
+            },
+            {
+                "content": [
+                    "medication",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pill",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "medicine",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "pill",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "pill",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "medication",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "weekly",
+                    "pillbox"
+                ]
+            },
+            {
+                "content": [
+                    "daily",
+                    "pill",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "monthly",
+                    "pill",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pill",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "medicine",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "pill",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "pillbox"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "pill",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "prescription",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "vitamin",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "pillbox",
+                    "alarm"
+                ]
+            },
+            {
+                "content": [
+                    "pillbox",
+                    "timer"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "pillbox"
+                ]
+            },
+            {
+                "content": [
+                    "multicompartment",
+                    "pillbox"
+                ]
+            },
+            {
+                "content": [
+                    "pillbox",
+                    "elderly"
+                ]
+            },
+            {
+                "content": [
+                    "pillbox",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "pillbox"
+                ]
+            },
+            {
+                "content": [
+                    "lockable",
+                    "pillbox"
+                ]
+            },
+            {
+                "content": [
+                    "aid",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "emergency",
+                    "medical",
+                    "supply"
+                ]
+            },
+            {
+                "content": "bandage"
+            },
+            {
+                "content": [
+                    "antiseptic",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "medical",
+                    "tape"
+                ]
+            },
+            {
+                "content": [
+                    "gauze",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "aid",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "survival",
+                    "kits"
+                ]
+            },
+            {
+                "content": [
+                    "trauma",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "burn",
+                    "dressing"
+                ]
+            },
+            {
+                "content": [
+                    "cpr",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "aid",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "pin"
+                ]
+            },
+            {
+                "content": "tweezer"
+            },
+            {
+                "content": "scissor"
+            },
+            {
+                "content": [
+                    "aid",
+                    "manual"
+                ]
+            },
+            {
+                "content": [
+                    "wound",
+                    "dressing"
+                ]
+            },
+            {
+                "content": [
+                    "pain",
+                    "relief",
+                    "medication"
+                ]
+            },
+            {
+                "content": [
+                    "adhesive",
+                    "plaster"
+                ]
+            },
+            {
+                "content": [
+                    "sterile",
+                    "eye",
+                    "dressing"
+                ]
+            },
+            {
+                "content": [
+                    "instant",
+                    "cold",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "aid",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "emergency",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "resuscitation",
+                    "device"
+                ]
+            },
+            {
+                "content": "tourniquet"
+            },
+            {
+                "content": "splint"
+            },
+            {
+                "content": [
+                    "aid",
+                    "refill",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "aid",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "aid",
+                    "kit"
+                ]
+            },
+            {
+                "content": "mask"
+            },
+            {
+                "content": [
+                    "protective",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "surgical",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "n95",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "disposable",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "medical",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "dust",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "respirator",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "antipollution",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "cloth",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "filter",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "hygiene",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "virus",
+                    "protection",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "allergy",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "air",
+                    "purify",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "personal",
+                    "protective",
+                    "equipment",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "health",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "antibacterial",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "antiviral",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "face",
+                    "covering"
+                ]
+            },
+            {
+                "content": [
+                    "breathable",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "skinfriendly",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "washable",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "3ply",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "kn95",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "ffp2",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "ffp3",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "pm5",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "face",
+                    "shield"
+                ]
+            },
+            {
+                "content": [
+                    "mask",
+                    "filter"
+                ]
+            },
+            {
+                "content": [
+                    "mask",
+                    "accessory"
+                ]
+            },
+            {
+                "content": "toothbrush"
+            },
+            {
+                "content": [
+                    "dental",
+                    "care"
+                ]
+            },
+            {
+                "content": [
+                    "oral",
+                    "hygiene"
+                ]
+            },
+            {
+                "content": [
+                    "electric",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "manual",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "oral",
+                    "care",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "adult",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "bristle",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "bristle",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "replacement",
+                    "head"
+                ]
+            },
+            {
+                "content": [
+                    "whiten",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "charcoal",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "brand"
+                ]
+            },
+            {
+                "content": [
+                    "multipack",
+                    "toothbrush"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "toothpaste",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "brace"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "sensitive",
+                    "gum"
+                ]
+            },
+            {
+                "content": [
+                    "toothbrush",
+                    "gum",
+                    "disease"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Health and hygiene products_level_2.json"
+    },
+    "Men's accessories": {
+        "filter_words": [
+            {
+                "content": [
+                    "man",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "belt"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "jewelry"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "sunglass"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "tie"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "sock"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "ring"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "necklace"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "tie",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "pocket",
+                    "square"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "leather",
+                    "good"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "grooming",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "tech",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "travel",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "luxury",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "fashion",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "sport",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "outdoor",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "business",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "casual",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "formal",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "cufflinkscuff",
+                    "link"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "cufflinks"
+                ]
+            },
+            {
+                "content": [
+                    "silver",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "wedding",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "engraved",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "formal",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "cufflinks"
+                ]
+            },
+            {
+                "content": [
+                    "cufflink",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "french",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "diamond",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "classic",
+                    "cufflinks"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "cufflink",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "dress",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "suit",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "shirt",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "set",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "fashion",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "jewelry",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "tie",
+                    "cufflink",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "wallet",
+                    "belt",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "watch",
+                    "bracelet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "grooming",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "dress",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "formal",
+                    "wear",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "sunglass",
+                    "watch",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "leather",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "travel",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "luxury",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "business",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "casual",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "designer",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "pocket",
+                    "square",
+                    "tie",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "sock",
+                    "tie",
+                    "set"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Men's accessories_level_2.json"
+    },
+    "Sewing sets": {
+        "filter_words": [
+            {
+                "content": [
+                    "sew",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "sew",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "needle",
+                    "thread",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "sewing",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "tailoring",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "sewing",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "stitching",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "sewing",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "embroidery",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "sew",
+                    "notion"
+                ]
+            },
+            {
+                "content": "thimble"
+            },
+            {
+                "content": [
+                    "sewing",
+                    "scissor"
+                ]
+            },
+            {
+                "content": [
+                    "thread",
+                    "spool"
+                ]
+            },
+            {
+                "content": [
+                    "sew",
+                    "needle"
+                ]
+            },
+            {
+                "content": [
+                    "sewing",
+                    "machine",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "measuring",
+                    "tape"
+                ]
+            },
+            {
+                "content": [
+                    "seam",
+                    "ripper"
+                ]
+            },
+            {
+                "content": [
+                    "fabric",
+                    "scissor"
+                ]
+            },
+            {
+                "content": [
+                    "pin",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "dressmaking",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "quilting",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "sewing",
+                    "storage"
+                ]
+            },
+            {
+                "content": "bobbins"
+            },
+            {
+                "content": [
+                    "sewing",
+                    "pattern"
+                ]
+            },
+            {
+                "content": [
+                    "tailor",
+                    "chalk"
+                ]
+            },
+            {
+                "content": [
+                    "sew",
+                    "thread"
+                ]
+            }
+        ]
+    },
+    "Shoe shine kit": {
+        "filter_words": [
+            {
+                "content": [
+                    "shoe",
+                    "shine",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "care",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "polishing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "shoe",
+                    "care"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "cleaning",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "maintenance",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "brush",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "polish",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "shine",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "conditioner",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "shine",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "shoe",
+                    "shine",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "shine",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "shine",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "shine",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "care",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "cleaning",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "polish",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "care",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "boot",
+                    "shine",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "clean",
+                    "polish"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "shine",
+                    "sponge"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "shine",
+                    "cloth"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "shine",
+                    "cream"
+                ]
+            },
+            {
+                "content": [
+                    "shoe",
+                    "wax",
+                    "kit"
+                ]
+            }
+        ]
+    },
+    "Smoking accessories": {
+        "filter_words": [
+            {
+                "content": [
+                    "smoking",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "pipe",
+                    "accessory"
+                ]
+            },
+            {
+                "content": "ashtray"
+            },
+            {
+                "content": [
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "cigarette",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "tobacco",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "cutter"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "humidors"
+                ]
+            },
+            {
+                "content": [
+                    "smoking",
+                    "pipe"
+                ]
+            },
+            {
+                "content": [
+                    "hookah",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "rolling",
+                    "papers"
+                ]
+            },
+            {
+                "content": [
+                    "tobacco",
+                    "grinder"
+                ]
+            },
+            {
+                "content": [
+                    "cigarette",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "pipe",
+                    "cleaner"
+                ]
+            },
+            {
+                "content": [
+                    "cigarette",
+                    "filter"
+                ]
+            },
+            {
+                "content": [
+                    "tobacco",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "case"
+                ]
+            },
+            {
+                "content": "hookah"
+            },
+            {
+                "content": [
+                    "ecigarette",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "vape",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "smoking",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "tobacco",
+                    "pipe"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "ashtrays"
+                ]
+            },
+            {
+                "content": [
+                    "pipe",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "cigarette",
+                    "roll",
+                    "machine"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "hygrometers"
+                ]
+            },
+            {
+                "content": [
+                    "pipe",
+                    "screen"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "punches"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "travel",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "humidification",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "humidity",
+                    "bead"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "accessory",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "draw",
+                    "enhancer"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "rest"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "scissors"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "smoking",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "cigar",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "cigar",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "mouthpiece"
+                ]
+            },
+            {
+                "content": "ashtray"
+            },
+            {
+                "content": [
+                    "cigar",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "cigarette",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "ashtray",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "ashtray",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "ashtray",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "ashtray",
+                    "pipe"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "ashtray",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "ashtray",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "smokeless",
+                    "ashtray"
+                ]
+            },
+            {
+                "content": [
+                    "ashtray",
+                    "holder"
+                ]
+            },
+            {
+                "content": "lighter"
+            },
+            {
+                "content": [
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "cigarette",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "smoke",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "torch",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "butane",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "electric",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "plasma",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "flameless",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "gas",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "bic",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "jet",
+                    "flame",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "pipe",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "cigar",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "dual",
+                    "arc",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "collectible",
+                    "lighter",
+                    "lighters"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "zippo"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "butane",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "outdoor",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "pocket",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "classic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "engrave",
+                    "lighter",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "military",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "flame",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "fluid"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "limited",
+                    "edition"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "harley",
+                    "davidson",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "replacement"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "lighter",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "custom",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "insert"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "windproof",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "ignition",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "electric",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "lighter",
+                    "lighter",
+                    "piezo",
+                    "ignition"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "spark",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "butane",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "bbq",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "ignition",
+                    "gas",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "highquality",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "torch",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "cigarette",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "kitchen",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "piezo",
+                    "camping",
+                    "lighter",
+                    "lighters"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "flame",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "reach",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "piezo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "disposable",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "bic",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "cheap",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "bulk",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "color",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "bbq",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "plastic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "cigarette",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "gas",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "butane",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "lighter",
+                    "light",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "lighter",
+                    "light",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "pocket",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "torch",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "electronic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "aluminum",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "brass",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "copper",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silver",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metallic",
+                    "finish",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "engrave",
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "metal",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "cigar",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "pipe",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "zippo",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "bic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "torch",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "pocket",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "butane",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "flint",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "gas",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "electric",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "usb",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicon",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicon",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "cover",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "case",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "sleeve",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "lighter",
+                    "lighter",
+                    "silicone",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "waterproof",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "light",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "lighter",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "silicone",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "encase",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "light",
+                    "protector"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "lighter",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "silicone",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "resistant",
+                    "silicone",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "light",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "light",
+                    "skin"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "lighter",
+                    "light",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "silicone",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "nonslip",
+                    "silicone",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "bic",
+                    "lighter",
+                    "lighter"
+                ]
+            },
+            {
+                "content": [
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cigarette",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bbq",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "grill",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "fireplace",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "collectible",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "butane",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "electric",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "zippo",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "gas",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "lighter",
+                    "lighter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "torch",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "engrave",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "lighter",
+                    "light",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "lighter",
+                    "light",
+                    "cigar",
+                    "cutter",
+                    "set"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Smoking accessories_level_2.json"
+    },
+    "Women's accessories": {
+        "filter_words": [
+            {
+                "content": [
+                    "woman",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "lady",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "female",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "jewelry"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "handbag"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "belt"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "sunglass"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "hair",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "earring"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "necklace"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "ring"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "brooch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "fashion",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "tote",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "clutch",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "satchel"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "crossbody",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "anklet"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "headband"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "hair",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "hair",
+                    "tie"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "bandana"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "shawl"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "pashminas"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "beret"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "beanie"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "fedora",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "panama",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "sun",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "visor"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "mitten"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "wristlet"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "eyewear",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "tech",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beauty",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "toiletry",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "cosmetic",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "makeup",
+                    "organizer",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "vanity",
+                    "cases"
+                ]
+            },
+            {
+                "content": [
+                    "makeup",
+                    "storage",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "travel",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "zipper",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "clutch",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "hang",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "rollup",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "genuine",
+                    "leather",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "toiletry",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "travel",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "leather",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "makeup",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "leather",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "faux",
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "leather",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "cosmetic",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "beauty",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "leather",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "leather",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "cosmetic",
+                    "organizer",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "leather",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "cosmetic",
+                    "storage",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "cotton",
+                    "cosmetic",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "canvas",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "travel",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "zipper",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "washable",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "cotton",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "drawstring",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "cotton",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "cotton",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "print",
+                    "cotton",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "plain",
+                    "cotton",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "cosmetic",
+                    "storage",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "line",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "seethrough",
+                    "cosmetic",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "pvc",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "toiletry",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "travel",
+                    "makeup",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "beauty",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "plastic",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "cosmetic",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "makeup",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "clear",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "cosmetic",
+                    "storage",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "zipper",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "cosmetic",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "cosmetic",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "makeup",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "cosmetic",
+                    "bag",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "transparent",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "transparent",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "set",
+                    "cosmetic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "makeup",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beauty",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "makeup",
+                    "pouch",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "toiletry",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vanity",
+                    "case",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "case",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "makeup",
+                    "organizer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "travel",
+                    "kit",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "skincare",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "brush",
+                    "holder",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "cosmetic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "bag",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "makeup",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cosmetic",
+                    "storage",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": "jewellery"
+            },
+            {
+                "content": [
+                    "woman",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": "necklace"
+            },
+            {
+                "content": "earring"
+            },
+            {
+                "content": "bracelet"
+            },
+            {
+                "content": "ring"
+            },
+            {
+                "content": "pendant"
+            },
+            {
+                "content": "brooch"
+            },
+            {
+                "content": "anklet"
+            },
+            {
+                "content": "charm"
+            },
+            {
+                "content": [
+                    "body",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "pearl",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "silver",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "diamond",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "gemstone",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "statement",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "fashion",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "costume",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "ethnic",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "bridal",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": [
+                    "jewellery",
+                    "set"
+                ]
+            },
+            {
+                "content": "cufflink"
+            },
+            {
+                "content": [
+                    "hair",
+                    "jewellery"
+                ]
+            },
+            {
+                "content": "watch"
+            },
+            {
+                "content": "locket"
+            },
+            {
+                "content": [
+                    "nose",
+                    "ring"
+                ]
+            },
+            {
+                "content": [
+                    "toe",
+                    "ring"
+                ]
+            },
+            {
+                "content": [
+                    "arm",
+                    "band"
+                ]
+            },
+            {
+                "content": [
+                    "waist",
+                    "chains"
+                ]
+            },
+            {
+                "content": [
+                    "jewellery",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "jewellery",
+                    "cleaning",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "kit",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "accessory",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "lady",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "fashion",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "jewelry",
+                    "set",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "makeup",
+                    "kit",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "hair",
+                    "accessory",
+                    "kit",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "skincare",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "nail",
+                    "art",
+                    "kit",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "travel",
+                    "accessory",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "grooming",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "perfume",
+                    "set",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "handbag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "watch",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "sunglass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "hat",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "belt",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "shoe",
+                    "care",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "fitness",
+                    "accessory",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "beauty",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "spa",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "hair",
+                    "styling",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "fashion",
+                    "accessory",
+                    "bundle"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "gift",
+                    "set"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Women's accessories_level_2.json"
+    },
+    "Wristwatch": {
+        "filter_words": [
+            {
+                "content": "wristwatch"
+            },
+            {
+                "content": [
+                    "luxury",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "analog",
+                    "watch"
+                ]
+            },
+            {
+                "content": "smartwatch"
+            },
+            {
+                "content": [
+                    "leather",
+                    "strap",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "chronograph",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "quartz",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "automatic",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "military",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "diving",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "pilot",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "swiss",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "fashion",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "silver",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "diamond",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "sapphire",
+                    "crystal",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "solarpowered",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "mechanical",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "skeleton",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "male",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "luxury",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "sport",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "digital",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "analog",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "leather",
+                    "strap",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "stainless",
+                    "steel",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "chronograph",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "automatic",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "quartz",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "waterproof",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "military",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "casual",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "dress",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "smartwatch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "fitness",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "designer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "vintage",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "gold",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "silver",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "black",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "white",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "blue",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "brown",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "skeleton",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "diamond",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "swiss",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "large",
+                    "dial",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "small",
+                    "dial",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "lady",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "female",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "girl",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "luxury",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "fashion",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "designer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "casual",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "sport",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "waterproof",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "digital",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "analog",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "smartwatch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "gold",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "silver",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "leather",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "stainless",
+                    "steel",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "diamond",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "vintage",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "minimalist",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "automatic",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "quartz",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "chronograph",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "dress",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "bracelet",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "rose",
+                    "gold",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "ceramic",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "skeleton",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "swiss",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "oversized",
+                    "watch"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Wristwatch_level_2.json"
+    }
+}

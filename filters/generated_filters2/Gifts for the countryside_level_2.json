@@ -1,0 +1,910 @@
+{
+    "Bird feeders": {
+        "filter_words": [
+            {
+                "content": [
+                    "bird",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "countryside",
+                    "bird",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "bird",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "bird",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "wildlife",
+                    "bird",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "bird",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "hanging",
+                    "bird",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "squirrel",
+                    "proof",
+                    "bird",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "bird",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "feeding",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "seed",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "feeder",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "nature",
+                    "lover",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "watching",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "feeder",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "bird",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "feeder",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "bird",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "feeder",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "feeder",
+                    "poles"
+                ]
+            }
+        ]
+    },
+    "Birdhouses": {
+        "filter_words": [
+            {
+                "content": "birdhouse"
+            },
+            {
+                "content": [
+                    "countryside",
+                    "birdhouse"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "birdhouse"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "birdhouse"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "birdhouse"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "birdhouse"
+                ]
+            },
+            {
+                "content": [
+                    "birdhouse",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "birdhouse"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "birdhouse"
+                ]
+            },
+            {
+                "content": [
+                    "birdhouse",
+                    "designs"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "watching",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "lover",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "shelter",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "wildlife",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "nature",
+                    "lover",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "feeding",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "birdhouse",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "birdhouse",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "birdhouse"
+                ]
+            },
+            {
+                "content": [
+                    "painted",
+                    "birdhouse"
+                ]
+            },
+            {
+                "content": [
+                    "birdhouse",
+                    "ornament"
+                ]
+            },
+            {
+                "content": [
+                    "birdhouse",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "birdhouse"
+                ]
+            },
+            {
+                "content": [
+                    "birdhouse",
+                    "crafting"
+                ]
+            },
+            {
+                "content": [
+                    "birdhouse",
+                    "art"
+                ]
+            }
+        ]
+    },
+    "Garden kits": {
+        "filter_words": [
+				{
+			"content":"microgreen"
+		},
+		{
+			"content":["microgreen", "grow"]
+		},
+		{
+			"content":["microgreen", "grow", "kit"]
+		},
+            {
+                "content": [
+                    "garden",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "countryside",
+                    "garden",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "gardening",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "plant",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "seed",
+                    "starter",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "herb",
+                    "garden",
+                    "kits"
+                ]
+            },
+            {
+                "content": [
+                    "vegetable",
+                    "garden",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "flower",
+                    "garden",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "garden",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "garden",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "decor",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "garden",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "garden",
+                    "kits"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "garden",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "starter",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "gift",
+                    "idea"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "care",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "gardening",
+                    "essential"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "tool",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "gift",
+                    "beginner"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "gift",
+                    "expert"
+                ]
+            }
+        ]
+    },
+    "Garden tools": {
+        "filter_words": [
+            {
+                "content": [
+                    "garden",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "countryside",
+                    "garden",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "rural",
+                    "gardening",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "gardening",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "maintenance",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "country",
+                    "garden",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "farming",
+                    "garden",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "horticulture",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "landscaping",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "implement"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "care",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "gardening",
+                    "essential"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "tool",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "garden",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "heavyduty",
+                    "garden",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "garden",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "tool",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "tool",
+                    "countryside"
+                ]
+            }
+        ]
+    },
+    "Hammocks": {
+        "filter_words": [
+            {
+                "content": "hammock"
+            },
+            {
+                "content": [
+                    "countryside",
+                    "hammocks"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "hammock"
+                ]
+            },
+            {
+                "content": [
+                    "rural",
+                    "hammock"
+                ]
+            },
+            {
+                "content": [
+                    "naturethemed",
+                    "hammocks"
+                ]
+            },
+            {
+                "content": [
+                    "hammock",
+                    "country",
+                    "living"
+                ]
+            },
+            {
+                "content": [
+                    "hammock",
+                    "rural",
+                    "area"
+                ]
+            },
+            {
+                "content": [
+                    "country",
+                    "style",
+                    "hammock"
+                ]
+            },
+            {
+                "content": [
+                    "hammock",
+                    "outdoor",
+                    "relaxation"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "hammocks"
+                ]
+            },
+            {
+                "content": [
+                    "hammock",
+                    "country",
+                    "home"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "hammock"
+                ]
+            },
+            {
+                "content": [
+                    "hammock",
+                    "farmhouse"
+                ]
+            },
+            {
+                "content": [
+                    "hammock",
+                    "country",
+                    "retreat"
+                ]
+            },
+            {
+                "content": [
+                    "hammock",
+                    "country",
+                    "lifestyle"
+                ]
+            },
+            {
+                "content": [
+                    "hammock",
+                    "country",
+                    "gift",
+                    "idea"
+                ]
+            },
+            {
+                "content": [
+                    "hammock",
+                    "countryside",
+                    "relaxation"
+                ]
+            },
+            {
+                "content": [
+                    "hammock",
+                    "country",
+                    "vacation"
+                ]
+            },
+            {
+                "content": [
+                    "hammock",
+                    "country",
+                    "picnic"
+                ]
+            },
+            {
+                "content": [
+                    "hammock",
+                    "country",
+                    "camping"
+                ]
+            },
+            {
+                "content": [
+                    "hammocks",
+                    "country",
+                    "adventure"
+                ]
+            }
+        ]
+    },
+    "Inflatable sofas": {
+        "filter_words": [
+            {
+                "content": [
+                    "inflatable",
+                    "sofa"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "sofas"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "inflatable",
+                    "furniture"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "couch"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "inflatable",
+                    "sofas"
+                ]
+            },
+            {
+                "content": [
+                    "camp",
+                    "inflatable",
+                    "sofas"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "lounger"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "air",
+                    "sofas"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "inflatable",
+                    "sofa"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "furniture",
+                    "countryside"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "sofa",
+                    "outdoor",
+                    "use"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "inflatable",
+                    "sofas"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "inflatable",
+                    "sofas"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "sofa",
+                    "picnic"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "sofa",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "sofa",
+                    "camping"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "sofa",
+                    "hike"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "sofa",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "sofa",
+                    "garden"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "sofa",
+                    "beach"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "sofas",
+                    "backyard"
+                ]
+            }
+        ]
+    }
+}

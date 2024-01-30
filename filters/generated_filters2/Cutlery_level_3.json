@@ -1,0 +1,639 @@
+{	"Cutlery sets":
+	{
+		"filter_words": [
+		{"content":"set"},
+		{"content":"set"},
+		{"content":"set"},
+		{"content":"set"},
+		{"content":"set"},
+		{"content":"set"}
+		]
+	},
+    "Forks": {
+        "filter_words": [
+            {
+                "content": "fork"
+            },
+            {
+                "content": [
+                    "dining",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "dessert",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "salad",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "likenew",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "silver",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "goldplated",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "disposable",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "fork",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "dinner",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "fish",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "fruit",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "cheese",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "cake",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "pastry",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "fork",
+                    "long",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "fork",
+                    "short",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "fork",
+                    "decorative",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "heavyduty",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "bbq",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "fork",
+                    "special",
+                    "occasion"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "wedding",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "birthday",
+                    "fork"
+                ]
+            },
+            {
+                "content": [
+                    "fork",
+                    "party"
+                ]
+            },
+            {
+                "content": [
+                    "fork",
+                    "event"
+                ]
+            },
+            {
+                "content": [
+                    "fork",
+                    "restaurant"
+                ]
+            },
+            {
+                "content": [
+                    "fork",
+                    "hotel"
+                ]
+            }
+        ]
+    },
+    "Knives": {
+        "filter_words": [
+            {
+                "content": "knife"
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "chef",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "steak",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "butterfly",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pare",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "bread",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "carve",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "utility",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "boning",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "fillet",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "cleav",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "santoku",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "cheese",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "sharpener"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "block"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "hunting",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "survival",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "tactical",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "blade"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "sheath"
+                ]
+            },
+            {
+                "content": [
+                    "damascus",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "japanese",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "knife",
+                    "kit"
+                ]
+            }
+        ]
+    },
+    "Spoons": {
+        "filter_words": [
+            {
+                "content": "spoon"
+            },
+            {
+                "content": [
+                    "soup",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "dessert",
+                    "spoon"
+                ]
+            },
+            {
+                "content": "teaspoon"
+            },
+            {
+                "content": [
+                    "serve",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "spoons"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "silver",
+                    "spoons"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "salad",
+                    "spoons"
+                ]
+            },
+            {
+                "content": [
+                    "slot",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "cream",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "spoons"
+                ]
+            },
+            {
+                "content": [
+                    "espresso",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "mix",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "measure",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "handle",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "flatware",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "rest"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "display",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "spoon",
+                    "storage"
+                ]
+            }
+        ]
+    }
+}

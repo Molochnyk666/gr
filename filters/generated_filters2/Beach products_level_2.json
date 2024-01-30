@@ -1,0 +1,1231 @@
+{
+    "Air mattresses": {
+        "filter_words": [
+            {
+                "content": [
+                    "air",
+                    "mattress"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "air",
+                    "mattress"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "air",
+                    "mattress"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "air",
+                    "bed"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "air",
+                    "mattress"
+                ]
+            },
+            {
+                "content": [
+                    "floating",
+                    "air",
+                    "mattress"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "air",
+                    "mattress"
+                ]
+            },
+            {
+                "content": [
+                    "air",
+                    "mattress",
+                    "beach"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "camping",
+                    "air",
+                    "mattress"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "sleep",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "air",
+                    "bed"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "inflatable",
+                    "bed"
+                ]
+            },
+            {
+                "content": [
+                    "air",
+                    "mattress",
+                    "swimming"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "float",
+                    "air",
+                    "mattress"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "lounger",
+                    "air",
+                    "mattress"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "vacation",
+                    "air",
+                    "mattress"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "air",
+                    "mattress",
+                    "beach"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "air",
+                    "mattress",
+                    "beach"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "travel",
+                    "air",
+                    "mattress"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "air",
+                    "mattress",
+                    "pump"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "air",
+                    "mattress",
+                    "kid"
+                ]
+            }
+        ]
+    },
+    "Beach bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "beach",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "tote",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "beach",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "canvas",
+                    "beach",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "straw",
+                    "beach",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "beach",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "cooler",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "mesh",
+                    "beach",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bag",
+                    "zipper"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bag",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bag",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "beach",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "beach",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "beach",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bag",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bag",
+                    "towel",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bag",
+                    "tote"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "shoulder",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "drawstring",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "sling",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "crossbody",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "handbag"
+                ]
+            }
+        ]
+    },
+    "Beach games": {
+        "filter_words": [
+		{
+			"content":  ["swimming", "board"]
+		},
+		            {
+                "content": ["beach", "tennis"]
+            },
+            {
+                "content": [
+                    "beach",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "games"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "sport",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "volleyball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "soccer",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "frisbee"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "paddle",
+                    "ball",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "badminton",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "cricket",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "football"
+                ]
+            },
+            {
+                "content": [
+                    "sand",
+                    "toys"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "kite"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bocce",
+                    "ball",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "tennis",
+                    "racket"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "beach",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "water",
+                    "gun"
+                ]
+            },
+            {
+                "content": [
+                    "sandcastle",
+                    "building",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "rugby",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "toss",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "cornhole",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "ring",
+                    "toss",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bowling",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "golf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "basketball"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "water",
+                    "balloon"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "flying",
+                    "disc"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "horseshoes",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "ladder",
+                    "toss",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "dart",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "sling",
+                    "ball",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "pool",
+                    "float",
+                    "toy"
+                ]
+            }
+        ]
+    },
+    "Beach mats and rugs": {
+        "filter_words": [
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "sandfree",
+                    "mats"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "beach",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "beach",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "beach",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "beach",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "carpet"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "straw",
+                    "beach",
+                    "mats"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "roll"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "shade"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "family"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "inflatable",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "backrest"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "cooler"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "canopy"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "headrest"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "cup",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "zipper"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "tote",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "pillow",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "mat",
+                    "builtin",
+                    "pillow"
+                ]
+            }
+        ]
+    },
+    "Beach sets": {
+        "filter_words": [
+            {
+                "content": [
+                    "beach",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "toy",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "game",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "volleyball",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bucket",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "sand",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "play",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "picnic",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "ball",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "badminton",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "beach",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bbq",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "tennis",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "frisbee",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "cricket",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "umbrella",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "chair",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "paddle",
+                    "ball",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "fishing",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "camping",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "dining",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bocce",
+                    "ball",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "cornhole",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "golf",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Beach umbrellas": {
+        "filter_words": [
+            {
+                "content": [
+                    "beach",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "sunshade",
+                    "umbrellas"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "beach",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "uv",
+                    "protection",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "windproof",
+                    "beach",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "parasol"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "canopy",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "umbrella",
+                    "sand",
+                    "anchor"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "umbrella",
+                    "tilt",
+                    "mechanism"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "beach",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "umbrella",
+                    "carry",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "umbrella",
+                    "table"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "umbrella",
+                    "fringe"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "umbrella",
+                    "drink",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "umbrella",
+                    "solar",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "umbrella",
+                    "panel"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "umbrella",
+                    "wind",
+                    "vent"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "umbrella",
+                    "adjustable",
+                    "height"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "umbrella",
+                    "base",
+                    "stand"
+                ]
+            }
+        ]
+    },
+    "Waterproof phone cases": {
+        "filter_words": [
+            {
+                "content": [
+                    "waterproof",
+                    "phone",
+                    "case"
+                ]
+            },
+            {
+                "content": "waterproof"
+            },
+            {
+                "content": [
+                    "phone",
+                    "case"
+                ]
+            },
+            {
+                "content": "protective"
+            },
+            {
+                "content": "smartphone"
+            },
+            {
+                "content": "waterresistant"
+            },
+            {
+                "content": "durable"
+            },
+            {
+                "content": [
+                    "beach",
+                    "accessory"
+                ]
+            },
+            {
+                "content": "outdoor"
+            },
+            {
+                "content": "seal"
+            },
+            {
+                "content": "underwater"
+            },
+            {
+                "content": [
+                    "phone",
+                    "protection"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "phone",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "phone",
+                    "bag"
+                ]
+            },
+            {
+                "content": "swimming"
+            },
+            {
+                "content": "snorkel"
+            },
+            {
+                "content": "diving"
+            },
+            {
+                "content": "sandproof"
+            },
+            {
+                "content": "shockproof"
+            },
+            {
+                "content": [
+                    "beach",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "phone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "phone",
+                    "sleeve"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "phone",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "phone",
+                    "wallet"
+                ]
+            }
+        ]
+    }
+}

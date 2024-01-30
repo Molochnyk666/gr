@@ -1,0 +1,192 @@
+{
+    "Gloves": {
+        "filter_words": [
+            {
+                "anti_word": [
+                    "touchscreen",
+                    "waterproof"
+                ],
+                "content": "glove"
+            }
+        ]
+    },
+    "Touchscreen gloves": {
+        "filter_words": [
+            {
+                "content": [
+                    "touchscreen",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "smartphone",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "compatible",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "tech",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "iphone",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "android",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touch",
+                    "sensitive",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "conductive",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "winter",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "cycling",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "running",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "ski",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "work",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "leather",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "texting",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "thermal",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "outdoor",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "sport",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "driving",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "knit",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "fleece",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "heat",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "waterproof",
+                    "glove"]
+            },
+            {
+                "content": [
+                    "touchscreen",
+                    "windproof",
+                    "glove"
+                ]
+            }
+        ]
+    },
+    "Waterproof gloves": {
+        "filter_words": [
+            {
+                "anti_word": "touchscreen",
+                "content": "waterproof"
+            }
+        ]
+    }
+}

@@ -1,0 +1,356 @@
+{	"Pocket and Foldable knives":{
+	"filter_words": [
+	{
+		"content":["fold", "knife"],
+		"anti_word":["multifunction","christmas","multitool"]
+	},
+	{
+		"content":"knife",
+		"anti_word":["multifunction","christmas","multitool"]
+	},
+	{
+		"content": ["pocket", "knife"],
+		"anti_word":["multifunction","christmas","multitool"]
+	},
+	{
+		"content": ["foldable", "pocket", "knife"],
+		"anti_word":["multifunction","christmas","multitool"]
+	},
+	{
+		"content": ["foldable","knife"],
+		"anti_word":["multifunction","christmas","multitool"]
+	}
+	]
+	},
+    "Cufflinkscuff links": {
+        "filter_words": [
+            {
+                "content": [
+                    "cufflinkscuff",
+                    "link"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "cufflinks"
+                ]
+            },
+            {
+                "content": [
+                    "silver",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "wedding",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "engraved",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "formal",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "cufflinks"
+                ]
+            },
+            {
+                "content": [
+                    "cufflink",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "jewelry"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "french",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "diamond",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "classic",
+                    "cufflinks"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "cufflink"
+                ]
+            },
+            {
+                "content": [
+                    "cufflink",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "dress",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "suit",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "shirt",
+                    "accessory"
+                ]
+            }
+        ]
+    },
+    "Sets for men": {
+        "filter_words": [
+            {
+                "content": [
+                    "set",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "fashion",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "jewelry",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "tie",
+                    "cufflink",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "wallet",
+                    "belt",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "watch",
+                    "bracelet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "grooming",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "dress",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "formal",
+                    "wear",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "sunglass",
+                    "watch",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "leather",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "travel",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "luxury",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "business",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "casual",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "designer",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "pocket",
+                    "square",
+                    "tie",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "sock",
+                    "tie",
+                    "set"
+                ]
+            }
+        ]
+    }
+}

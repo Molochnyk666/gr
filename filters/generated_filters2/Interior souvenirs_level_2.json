@@ -1,0 +1,1419 @@
+{	"Aroma diffusers":{
+	"filter_words":[{"content": ["aroma", "diffuser"]}]
+		},
+    "Home fragrances": {
+        "filter_words": [
+            {
+                "content": [
+                    "home",
+                    "fragrance"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "essential",
+                    "oil",
+                    "diffuser"
+                ]
+            },
+            {
+                "content": [
+                    "incense",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "fragrance",
+                    "oil"
+                ]
+            },
+            {
+                "content": [
+                    "aromatherapy",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "room",
+                    "spray"
+                ]
+            },
+            {
+                "content": [
+                    "reed",
+                    "diffuser"
+                ]
+            },
+            {
+                "content": "potpourri"
+            },
+            {
+                "content": [
+                    "scent",
+                    "wax",
+                    "melt"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "perfume"
+                ]
+            },
+            {
+                "content": [
+                    "fragrance",
+                    "lamps"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "sachet"
+                ]
+            },
+            {
+                "content": [
+                    "aroma",
+                    "burners"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "fragrance",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "drawer",
+                    "liner"
+                ]
+            },
+            {
+                "content": [
+                    "fragrance",
+                    "beads"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "fragrance",
+                    "mist"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "aroma",
+                    "bead"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "soap"
+                ]
+            },
+            {
+                "content": [
+                    "fragrance",
+                    "plugin"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "lotion"
+                ]
+            },
+            {
+                "content": [
+                    "fragrance",
+                    "diffuser",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "room",
+                    "freshener"
+                ]
+            }
+        ]
+    },
+    "Maps and globes": {
+        "filter_words": [
+            {
+                "content": [
+                    "map",
+                    "globe"
+                ]
+            },
+            {
+                "content": [
+                    "map",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "globe",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "theme",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "world",
+                    "map",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "globe",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "map",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "geographic",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "nautical",
+                    "globe",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "map",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "earth",
+                    "globe",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "map",
+                    "theme",
+                    "interior",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "globe",
+                    "theme",
+                    "interior",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "cartography",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "world",
+                    "explorer",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "map",
+                    "globe",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "geographic",
+                    "interior",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "map",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "world",
+                    "globe",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "map",
+                    "globe",
+                    "ornament"
+                ]
+            },
+            {
+                "content": [
+                    "navigation",
+                    "themed",
+                    "souvenir"
+                ]
+            }
+        ]
+    },
+    "Photo frames and photo albums": {
+        "filter_words": [
+            {
+                "content": [
+                    "photo",
+                    "frame",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "picture",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "wedding",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "family",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "collage",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "multi",
+                    "picture",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "scrapbook",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "hang",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "souvenir",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "souvenir",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "design",
+                    "photo",
+                    "frame"
+                ]
+            }
+        ]
+    },
+    "Plant growing kits": {
+        "filter_words": [
+            {
+                "content": [
+                    "plant",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "hydroponic",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "herb",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "gardening",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "allinone",
+                    "plant",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "seed",
+                    "starter",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "vegetable",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "flower",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "bonsai",
+                    "tree",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "succulent",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "mushroom",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "terrarium",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "greenhouse",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "plant",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "gardening",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "care",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "starter",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "propagation",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "planting",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "gardening",
+                    "tool"
+                ]
+            }
+        ]
+    },
+    "Plant pots": {
+        "filter_words": [
+            {
+                "content": [
+                    "plant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "planter"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "plant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "plant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "gardening"
+                ]
+            },
+            {
+                "content": [
+                    "flower",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "succulent",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "hang",
+                    "plant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "terracotta",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "greenery"
+                ]
+            },
+            {
+                "content": [
+                    "pottery",
+                    "plant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "houseplant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "herb",
+                    "pots"
+                ]
+            },
+            {
+                "content": [
+                    "bonsai",
+                    "pots"
+                ]
+            },
+            {
+                "content": [
+                    "selfwatering",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "plant",
+                    "pot",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "plant",
+                    "pottery"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "plant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "pottery"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "planting",
+                    "supply"
+                ]
+            }
+        ]
+    },
+    "Statues and figurines": {
+        "filter_words": [
+            {
+                "content": [
+                    "statue",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "statue",
+                    "souvenirs"
+                ]
+            },
+            {
+                "content": [
+                    "figurine",
+                    "souvenirs"
+                ]
+            },
+            {
+                "content": [
+                    "sculpture",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "miniature",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "decor",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "collectible",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "artistic",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "handcrafted",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "bronze",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "resin",
+                    "figurines"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "statues"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "souvenir",
+                    "sculpture"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "sculpture"
+                ]
+            },
+            {
+                "content": [
+                    "miniature",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "souvenir",
+                    "statues"
+                ]
+            },
+            {
+                "content": [
+                    "figurine",
+                    "collectibles"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "decor",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "decor",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "souvenir",
+                    "statuettes"
+                ]
+            }
+        ]
+    },
+    "Table-top fireplaces": {
+        "filter_words": [
+            {
+                "content": [
+                    "table",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "heating",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "bioethanol",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "fireplace",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "indoor",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "fire",
+                    "pit"
+                ]
+            },
+            {
+                "content": [
+                    "ventless",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "fireplace",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "tabletop",
+                    "fire",
+                    "feature"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "tabletop",
+                    "fireplace"
+                ]
+            }
+        ]
+    },
+    "Vases": {
+        "filter_words": [
+            {
+                "content": "vase"
+            },
+            {
+                "content": [
+                    "decorative",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "decor",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "flower",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "porcelain",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "floor",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "miniature",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "souvenir",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "artistic",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "painted",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "tall",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "short",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "geometric",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "abstract",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "oriental",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "terracotta",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "marble",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "silver",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "brass",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "vase",
+                    "home",
+                    "decoration"
+                ]
+            }
+        ]
+    }
+}

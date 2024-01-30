@@ -1,0 +1,2250 @@
+{
+    "Counters for bottles and glasses": {
+        "filter_words": [
+			{
+				"content": "coaster"
+			},
+            {
+                "content": [
+                    "bottle",
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "glass",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "glass",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "mount",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "mount",
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "glass",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "bar",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "bar",
+                    "glass",
+                    "holders"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "display",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "display",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "glass",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "bottle",
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "bottle",
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "liquor",
+                    "bottle",
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "stemware",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "hanging",
+                    "wine",
+                    "glass",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "cabinet",
+                    "wine",
+                    "glass",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "countertop",
+                    "wine",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "freestanding",
+                    "wine",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "glass",
+                    "caddy"
+                ]
+            }
+        ]
+    },
+    "Bottle stoppers": {
+        "filter_words": [
+            {
+                "content": [
+                    "bottle",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "bottle",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "preservation"
+                ]
+            },
+            {
+                "content": [
+                    "cork",
+                    "bottle",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "vacuum",
+                    "bottle",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "bottle",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "bottle",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "bottle",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "bottle",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "cap"
+                ],"anti_word":"wine"
+            },
+           
+            {
+                "content": [
+                    "beverage",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "bottle",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "plug"
+                ]
+            },
+            {
+                "content": [
+                    "bar",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "seal"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "cork"
+                ]
+            },
+
+            {
+                "content": [
+                    "personalized",
+                    "bottle",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "bottle",
+                    "stopper"
+                ]
+            }
+        ]
+    },
+    "Cocktail Accessories": {
+        "filter_words": [
+            {
+                "content": [
+                    "cocktail",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "shaker"
+                ]
+            },
+            {
+                "content": [
+                    "bar",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "strainer"
+                ]
+            },
+            {
+                "content": "jigger"
+            },
+            {
+                "content": "muddler"
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "pick"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "stirrer"
+                ]
+            },
+            {
+                "content": [
+                    "citrus",
+                    "juicer"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "napkin"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "recipe",
+                    "book"
+                ]
+            },
+            {
+                "content": [
+                    "bartender",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "mixing",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "garnish"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "ice",
+                    "mold"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "bitter"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "syrup"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "coaster"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "pourer"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "umbrella"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "toothpick"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "swizzle",
+                    "stick"
+                ]
+            }
+        ]
+    },
+    "Corkscrews": {
+        "filter_words": [
+            {
+                "content": "corkscrew"
+            },
+            {
+                "content": [
+                    "wine",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "key"
+                ]
+            },
+            {
+                "content": [
+                    "sommelier",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "waiter",
+                    "friend"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "bar",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "corkscrew"
+                ]
+            },
+            {
+                "content": [
+                    "lever",
+                    "corkscrew"
+                ]
+            },
+            {
+                "content": [
+                    "wing",
+                    "corkscrew"
+                ]
+            },
+            {
+                "content": [
+                    "electric",
+                    "wine",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "rabbit",
+                    "corkscrew"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "corkscrew"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "corkscrew"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "corkscrew"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "opener",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "corkscrew"
+                ]
+            }
+        ]
+    },
+    "glasses": {
+        "filter_words": [
+            {
+                "content": "glass"
+            },
+            {
+                "content": [
+                    "drink",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "shot",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "flute"
+                ]
+            },
+            {
+                "content": [
+                    "martini",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "highball",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "tumbler",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "carafe"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "wine",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "cocktail",
+                    "shaker"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "stemware"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "barware"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "drinkware"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "liquor",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "whiskey",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "coaster"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "bottle",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "wine",
+                    "aerator"
+                ]
+            }
+        ]
+    },
+    "Ice buckets": {
+        "filter_words": [
+            {
+                "content": [
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "bar",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "bucket",
+                    "tong"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "bucket",
+                    "party"
+                ]
+            },
+            {
+                "content": [
+                    "beverage",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "bucket",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "bucket",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "bucket",
+                    "bar",
+                    "cart"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "bucket",
+                    "cocktail"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "bucket",
+                    "beer"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "bucket",
+                    "whiskey"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "bucket",
+                    "home",
+                    "bar"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "ice",
+                    "buckets"
+                ]
+            }
+        ]
+    },
+    "Openers": {
+        "filter_words": [
+            {
+                "content": "opener"
+            },
+            {
+                "content": [
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "opener"
+                ]
+            },
+            {
+                "content": "corkscrew"
+            },
+            {
+                "content": [
+                    "beer",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "multifunction",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "electric",
+                    "wine",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "waiter",
+                    "corkscrew"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "mount",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "cap",
+                    "catchers"
+                ]
+            },
+            {
+                "content": [
+                    "bar",
+                    "blade"
+                ]
+            },
+            {
+                "content": [
+                    "poptop",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "twistoff",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "lever",
+                    "corkscrew"
+                ]
+            },
+            {
+                "content": [
+                    "winged",
+                    "corkscrew"
+                ]
+            },
+            {
+                "content": [
+                    "rabbit",
+                    "wine",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "bartender",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "bottle",
+                    "openers"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "automatic",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "magnetic",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "bottle",
+                    "opener"
+                ]
+            }
+        ]
+    },
+    "Vodka sets": {
+        "filter_words": [
+            {
+                "content": [
+                    "vodka",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "decanter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "serving",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "shot",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "vodka",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "tasting",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "bar",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "cocktail",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "mixer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "ice",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "pourer"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "chiller",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "carafe",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "coaster",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "jigger"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "shaker",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vodka",
+                    "stirrer"
+                ]
+            }
+        ]
+    },
+    "Whiskey stones": {
+        "filter_words": [
+									{
+				"content": ["cooling", "stone"]
+			},
+            {
+                "content": [
+                    "whiskey",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "stones"
+                ]
+            },
+            {
+                "content": [
+                    "chilling",
+                    "stones"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "rocks"
+                ]
+            },
+            {
+                "content": [
+                    "scotch",
+                    "stones"
+                ]
+            },
+            {
+                "content": [
+                    "bourbon",
+                    "stones"
+                ]
+            },
+            {
+                "content": [
+                    "drink",
+                    "cooling",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "stone",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "ice",
+                    "cube"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "cooling",
+                    "stones"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "ice",
+                    "stones"
+                ]
+            },
+            {
+                "content": [
+                    "soapstone",
+                    "whiskey",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "granite",
+                    "whiskey",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "stone",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "whiskey",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "chillers"
+                ]
+            },
+            {
+                "content": [
+                    "nondiluting",
+                    "whiskey",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "stone",
+                    "cube"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "sipping",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "stone",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "stone",
+                    "bar",
+                    "accessory"
+                ]
+            }
+        ]
+    },
+    "Whisky sets": {
+        "filter_words": [
+					{"content":"set",
+			"anti_word":"wine"},
+            {
+                "content": [
+                    "whisky",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "decanter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "tasting",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "barrel"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "flask",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "ice",
+                    "cube",
+                    "tray"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "pourer"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "aerator"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "coaster"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "carafe",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "tumbler",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "serving",
+                    "tray"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "snifter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "crystal",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "shot",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "mixer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "chilling",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "ice",
+                    "ball",
+                    "maker"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "age",
+                    "barrel"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "funnel"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "bottle",
+                    "stopper"
+                ]
+            }
+        ]
+    },
+    "Wine Accessories": {
+        "filter_words": [
+					{
+				"content": ["wine", "holder"]
+			},
+		            {
+                "content": [
+                    "wine",
+                    "accessory"
+                ]
+            },
+		{
+                "content": [
+                    "wine",
+                    "saver"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "sealer"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "corker"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "aerator"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "pourer"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "cooler"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "preserver"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "charm"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "tasting",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "thermometer"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "carrier"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "charm"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "coaster"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "sealer"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "foil",
+                    "cutter"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "cleaning",
+                    "brush"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "drying",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "label"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "coaster"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "cork"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "decanter"
+                ]
+            }
+        ]
+    },
+    "Wine sets": {
+        "filter_words": [
+			{"content":"set",
+			"anti_word":["whiskey","whisky"]},
+		            {
+                "content": [
+                    "wine",
+                    "stopper",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "opener",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "decanter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "tasting",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "tool",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "aerator",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "pourer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "stopper",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "serving",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "corkscrew",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "preservation",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "cooler",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bar",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "accessory",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "sommelier",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "enthusiast",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "opener",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "cheese",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "dine",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "connoisseur",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Wine tubes": {
+        "filter_words": [
+            {
+                "content": [
+                    "wine",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "bottle",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "preservation",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "aerator",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "pourer",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "decanter",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "storage",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "gift",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "sampling",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "tasting",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "travel",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "packaging",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "dispenser",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "chiller",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "cooler",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "serving",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "accessory",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "rack",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "holder",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "carrier",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "protector",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "vacuum",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "saver",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "transport",
+                    "tube"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "presentation",
+                    "tube"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "Accessories for children": {
+        "filter_words": [
+            {
+                "content": [
+                    "accessory",
+                    "child"
+                ]
+            }
+        ]
+    },
+    "Baby backpacks": {
+        "filter_words": [
+            {
+                "content": [
+                    "baby",
+                    "backpack"
+                ]
+            }
+        ]
+    },
+    "Board games": {
+        "filter_words": [
+					{
+				"content": "game"
+			},
+			{
+				"content": ["game", "tower"]
+			},
+            {
+                "content": [
+                    "board",
+                    "game"
+                ]
+            }
+        ]
+    },
+    "Clothes for children": {
+        "filter_words": [
+            {
+                "content": [
+                    "clothe",
+                    "child"
+                ]
+            }
+        ]
+    },
+    "Developmental games": {
+        "filter_words": [
+            {
+                "content": [
+                    "developmental",
+                    "game"
+                ]
+            }
+        ]
+    },
+    "Gift sets for children": {
+        "filter_words": [
+            {
+                "content": [
+                    "gift",
+                    "set",
+                    "child"
+                ]
+            }
+        ]
+    },
+    "Gifts for creativity": {
+        "filter_words": [
+            {
+                "content": [
+                    "gift",
+                    "creativity"
+                ]
+            }
+        ]
+    },
+    "Reflectors for children": {
+        "filter_words": [
+            {
+                "content": [
+                    "reflector",
+                    "child"
+                ]
+            }
+        ]
+    },
+    "Soft toys": {
+        "filter_words": [
+            {
+                "content": [
+                    "soft",
+                    "toy"
+                ]
+            }
+        ]
+    },
+    "Sweets for children": {
+        "filter_words": [
+            {
+                "content": [
+                    "sweet",
+                    "child"
+                ]
+            }
+        ]
+    },
+    "Toys for children": {
+        "filter_words": [
+            {
+                "content": [
+                    "toy",
+                    "child"
+                ]
+            }
+        ]
+    }
+}

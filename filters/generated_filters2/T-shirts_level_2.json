@@ -1,0 +1,2858 @@
+{
+    "Beige T-shirts": {
+        "filter_words": [			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "beige",
+                    "t",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "color",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "light",
+                    "brown",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "neutral",
+                    "color",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "sand",
+                    "color",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "tee"
+                ]
+            },
+            {
+                "content": "beige"
+            },
+            {
+                "content": [
+                    "beige",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "man",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "woman",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "beige",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "crew",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "solid",
+                    "beige",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "designer",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "slim",
+                    "fit",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "round",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "beige",
+                    "polo",
+                    "tshirt"
+                ]
+            }
+        ]
+    },
+    "Black T-shirts": {
+        "filter_words": [			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "black",
+                    "t",
+                    "-",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "tees"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "round",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "fitted",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "formal",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "designer",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "striped",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "polo",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "unisex",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "men",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "women",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "kids",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "band",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "sports",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "workout",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "logo",
+                    "tshirt"
+                ]
+            }
+        ]
+    },
+    "Blue T-shirts": {
+        "filter_words": [			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "blue",
+                    "t",
+                    "-",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "navy",
+                    "blue",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "sky",
+                    "blue",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "blue",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "blue",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "blue",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "blue",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "royal",
+                    "blue",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "light",
+                    "blue",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "dark",
+                    "blue",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "striped",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "polo",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "round",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "slim",
+                    "fit",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "formal",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "sports",
+                    "tshirt"
+                ]
+            }
+        ]
+    },
+    "Brown T-shirts": {
+        "filter_words": [			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "brown",
+                    "t",
+                    "-",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "chocolate",
+                    "color",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "dark",
+                    "brown",
+                    "tee"
+                ]
+            },
+            {
+                "content": [
+                    "light",
+                    "brown",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "brown",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "brown",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "brown",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "graphic",
+                    "tee"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "crew",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "polo",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "fit",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "formal",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "striped",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "solid",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "designer",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "vintage",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "sport",
+                    "tshirt"
+                ]
+            }
+        ]
+    },
+    "Burgundy T-shirts": {
+        "filter_words": [			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "burgundy",
+                    "t",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "maroon",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "dark",
+                    "red",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "red",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "bordeaux",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "burgundy",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "burgundy",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "crew",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "polo",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "formal",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "striped",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "slim",
+                    "fit",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "round",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "designer",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "brand",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "vintage",
+                    "tshirt"
+                ]
+            }
+        ]
+    },
+    "Green T-shirts": {
+        "filter_words": [			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "green",
+                    "t",
+                    "-",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "colored",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "environmentally",
+                    "friendly",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "material",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "striped",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "polo",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "crew",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "slim",
+                    "fit",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "unisex",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "women",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "men",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "kids",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "baby",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "linen",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "tiedye",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "band",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "sports",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "formal",
+                    "tshirt"
+                ]
+            }
+        ]
+    },
+    "Grey T-shirts": {
+        "filter_words": [			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "grey",
+                    "t",
+                    "-",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "charcoal",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "light",
+                    "grey",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "dark",
+                    "grey",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "heather",
+                    "grey",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "grey",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "grey",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "grey",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "crew",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "fitted",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "formal",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "sports",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "designer",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "vintage",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "striped",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "printed",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "pocket",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "band",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "logo",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "anime",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "movie",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "grey",
+                    "solid",
+                    "tshirt"
+                ]
+            }
+        ]
+    },
+    "Khaki T-shirts": {
+        "filter_words": [			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "khaki",
+                    "t",
+                    "-",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "color",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "khaki",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "khaki",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "khaki",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "green",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "military",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "crew",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "pocket",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "slim",
+                    "fit",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "polo",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "designer",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "vintage",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "stripe",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "camo",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "khaki",
+                    "brand",
+                    "tshirt"
+                ]
+            }
+        ]
+    },
+    "Orange T-shirts": {
+        "filter_words": [			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "orange",
+                    "t",
+                    "-",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "orange",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "orange",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "orange",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "orange",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "bright",
+                    "orange",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "dark",
+                    "orange",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "neon",
+                    "orange",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "striped",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "crew",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "polo",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "sports",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "slim",
+                    "fit",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "designer",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "band",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "orange",
+                    "vintage",
+                    "tshirt"
+                ]
+            }
+        ]
+    },
+    "Pink T-shirts": {
+        "filter_words": [			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "pink",
+                    "t",
+                    "-",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "pink",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "pink",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "pink",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "pink",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "hot",
+                    "pink",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "light",
+                    "pink",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "neon",
+                    "pink",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pastel",
+                    "pink",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "band",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "fitted",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "tiedye",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "striped",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "polo",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "designer",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "vintage",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pink",
+                    "tshirt",
+                    "breast",
+                    "cancer",
+                    "awareness"
+                ]
+            }
+        ]
+    },
+    "Purple T-shirts": {
+        "filter_words": [			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "purple",
+                    "t",
+                    "-",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "violet",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "lavender",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "purple",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "purple",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "purple",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "purple",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "polyester",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "crew",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "slim",
+                    "fit",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "tiedye",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "striped",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "band",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "sports",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "formal",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "purple",
+                    "designer",
+                    "tshirt"
+                ]
+            }
+        ]
+    },
+    "Red T-shirts": {
+        "filter_words": [			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "red",
+                    "t",
+                    "-",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "crimson",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "scarlet",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "ruby",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "cherry",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "striped",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "polo",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "crew",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "slim",
+                    "fit",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "band",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "vintage",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "sports",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "formal",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "solid",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "red",
+                    "unisex",
+                    "tshirt"
+                ]
+            }
+        ]
+    },
+    "White T-shirts": {
+        "filter_words": [
+					{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "white",
+                    "t",
+                    "-",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "tees"
+                ]
+            },
+            {
+                "content": [
+                    "plain",
+                    "white",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "crew",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "white",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "white",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "white",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "white",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "white",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "slim",
+                    "fit",
+                    "white",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "designer",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "formal",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "sports",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "striped",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "polo",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "tshirt",
+                    "dress"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "band",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "logo",
+                    "tshirt"
+                ]
+            }
+        ]
+    },
+    "Yellow T-shirts": {
+        "filter_words": [
+			{
+				"content": [
+					"t",
+                    "shirt"
+					]
+			},
+			{
+				"content":"tshirt"
+			},
+            {
+                "content": [
+                    "yellow",
+                    "t",
+                    "-",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "yellow",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "yellow",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "yellow",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "yellow",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "graphic",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "plain",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "cotton",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "polyester",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "vneck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "crew",
+                    "neck",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "long",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "short",
+                    "sleeve",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "oversized",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "fitted",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "casual",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "formal",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "sports",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "band",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "designer",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "print",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "bright",
+                    "yellow",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "pastel",
+                    "yellow",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "neon",
+                    "yellow",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "mustard",
+                    "yellow",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "lemon",
+                    "yellow",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "yellow",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "striped",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "solid",
+                    "tshirt"
+                ]
+            },
+            {
+                "content": [
+                    "yellow",
+                    "patterned",
+                    "tshirt"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,4141 @@
+{
+"Bags": [
+{
+	"content":["child","bag"]
+},
+{
+	"content":["key", "wallet"]
+},
+{
+"content":["bag", "hanger"]},
+{
+"content": [
+"drawstre",
+"bag"
+],
+"anti_word":[["cool", "bag"]]
+},
+{
+"content": [
+"bag",
+"football"
+]
+},
+{
+"content": "pouch",
+"anti_word": [
+["sunglass", "pouch"],
+["hard","disk"],
+"mobile",
+"bicycle",
+["safety", "vest"],
+"gift",
+"glass",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"laptop",
+"pouch"
+]
+},
+{
+"content": [
+"laptop",
+"backpack"
+]
+},
+{
+"content": "backpack",
+"anti_word": [
+"picnic",
+"child",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "bag",
+"anti_word": [
+["tea", "bag"],
+"cool",
+"beach",
+"gift",
+"cooler",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "suitcase"
+},
+{
+"content": "valise"
+},
+{
+"content": "briefcase"
+},
+{
+"content": "clutch"
+},
+{
+"content": "borsetka"
+},
+{
+"content": "wallet",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "purse",
+"anti_word": [
+"keyring",
+"keyre",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "luggage",
+"anti_word": "scale"
+},
+{
+"content": "trolley",
+"anti_word": [
+"keyre",
+"keyring",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "shopper"
+},
+{
+"content": "case",
+"anti_word": [
+["tablet", "case"],
+"pen",
+"pencil",
+"mobile",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"bag",
+"travel"
+]
+},
+{
+"content": [
+"bag",
+"sport"
+]
+},
+{
+"content": [
+"bag",
+"children\u0412\u0491s"
+]
+},
+{
+"content": [
+"mall",
+"shopper"
+]
+},
+{
+"content": [
+"card",
+"credit",
+"sleeve"
+]
+},
+{
+"content": [
+"card",
+"holder"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"dublin",
+"trolley"
+]
+},
+{
+"content": [
+"cards",
+"holder"
+]
+},
+{
+"content": [
+"set",
+"trolley"
+]
+},
+{
+"content": [
+"card",
+"case"
+]
+},
+{
+"content": [
+"belt",
+"pack"
+]
+},
+{
+"content": [
+"block",
+"card"
+]
+},
+{
+"content": [
+"cart",
+"protector"
+]
+}
+],
+"Car accessories": [
+{
+"content": [
+"car",
+"mobile",
+"holder"
+]
+},
+{
+"content": "car",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "icescraper"
+},
+{
+"content": [
+"boot",
+"car",
+"organiser"
+]
+},
+{
+"content": [
+"air",
+"car",
+"freshener"
+]
+},
+{
+"content": [
+"car",
+"sun",
+"visor"
+]
+},
+{
+"content": [
+"car",
+"organizer"
+]
+},
+{
+"content": [
+"holder",
+"phone"
+],
+"anti_word": [["box", "lunch"]]
+},
+{
+"content": [
+"car",
+"charger"
+]
+},
+{
+"content": [
+"charger",
+"wireless"
+]
+},
+{
+"content": [
+"foldable",
+"funnel"
+]
+},
+{
+"content": [
+"car",
+"sunshade"
+]
+},
+{
+"content": [
+"car",
+"multicharger"
+]
+},
+{
+"content": [
+"charger",
+"drive"
+]
+},
+{
+"content": [
+"ice",
+"scraper"
+]
+},
+{
+"content": [
+"park",
+"shop"
+]
+},
+{
+"content": [
+"sunshade",
+"truck"
+]
+},
+{
+"content": [
+"hammer",
+"safety"
+]
+},
+{
+"content": [
+"emergency",
+"hammer"
+]
+},
+{
+"content": [
+"alcohol",
+"tester"
+]
+}
+],
+"Clothes": [
+{
+	"content": "bathrobe"
+},
+{
+	"content": ["6", "panel"]
+},
+{
+"content": "t-shirt",
+"anti_word": "plush"
+},
+{
+"content": "shirt",
+"anti_word": [
+"plush",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "polo"
+},
+{
+"content": "hoodie",
+"anti_word": "plush"
+},
+{
+"content": "sweatshirts"
+},
+{
+"content": "jacket"
+},
+{
+"content": "windbreaker"
+},
+{
+"content": "cardigan"
+},
+{
+"content": "bandana"
+},
+{
+"content": "cap",
+"anti_word": ["bottle","pen",["cook", "cap"],]
+},
+{
+"content": "panama"
+},
+{
+"content": "handkerchief"
+},
+{
+"content": "stole"
+},
+{
+"content": "hat"
+},
+{
+"content": "scarf"
+},
+{
+"content": "mitten"
+},
+{
+"content": "glove",
+"anti_word": [
+"icescraper",
+"kitchen",
+"touchscreen"
+]
+},
+{
+"content": "shawl"
+},
+{
+"content": "vest",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "sweatshirt"
+},
+{
+"content": "fleece",
+"anti_word": "blanket"
+},
+{
+"content": "bodywarmer"
+},
+{
+"content": "trouser"
+},
+{
+"content": "parka"
+},
+{
+"content": "coat",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "smock"
+},
+{
+"content": "sweater",
+"anti_word": "plush"
+},
+{
+"content": "necktie"
+},
+{
+"content": "sock"
+},
+{
+"content": "poncho",
+"anti_word": [
+"bag",
+"keyring",
+"keyre",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "headwear"
+},
+{
+"content": "neck",
+"anti_word":[["neck", "cord"]]
+},
+{
+"content": "beanie"
+},
+{
+"content": "tie",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "headband"
+},
+{
+"content": [
+"long",
+"sleeve"
+]
+},
+{
+"content": [
+"baseball",
+"cap"
+]
+},
+{
+"content": [
+"glove",
+"screen",
+"touch"
+]
+},
+{
+"content": [
+"high",
+"vest",
+"visibility"
+]
+},
+{
+"content": [
+"man",
+"tank"
+]
+},
+{
+"content": [
+"sport",
+"tank"
+]
+},
+{
+"content": [
+"tank",
+"women"
+]
+},
+{
+"content": [
+"jumper",
+"neck"
+]
+},
+{
+"content": [
+"short",
+"sleeved"
+]
+},
+{
+"content": [
+"kid",
+"sweatshirt"
+]
+},
+{
+"content": [
+"trouser",
+"workwear"
+]
+},
+{
+"content": [
+"coat",
+"weight"
+]
+},
+{
+"content": [
+"smock",
+"workwear"
+]
+},
+{
+"content": [
+"softshell",
+"vest"
+]
+},
+{
+"content": [
+"pique",
+"polo"
+]
+},
+{
+"content": [
+"japanese",
+"string"
+]
+},
+{
+"content": [
+"cover",
+"neck"
+]
+},
+{
+"content": [
+"sun",
+"visor"
+]
+},
+{
+"content": [
+"cover",
+"face"
+]
+},
+{
+"content": [
+"face",
+"neck"
+]
+},
+{
+"content": [
+"gaiter",
+"neck"
+]
+},
+{
+"content": [
+"mask",
+"textile"
+]
+}
+],
+"Cookware and Kitchenware": [
+{
+	"content": ["cook", "cap"]
+},
+{
+	"content" : ["chalk", "mug"]
+},
+{"content":"chocolate"},
+{
+	"content":["stemless", "glass"]
+},
+{
+"content": [
+"stopper",
+"wine"
+]
+},
+{
+"content": "cutlery"
+},
+{
+"content": [
+"thermo",
+"mug"
+]
+},
+{
+"content": "mug"
+},
+{
+"content": "cup",
+"anti_word": "travel"
+},
+{
+"content": "pot"
+},
+{
+"content": "wineglass"
+},
+{
+"content": "glass",
+"anti_word": [
+["glass", "trophy"],
+["glass", "straw"],
+["stemless", "glass"],
+"block",
+"paperweight",
+"pouch",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "thermos"
+},
+{
+"anti_word": [
+"towel",
+"sport",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+],
+"content": "bottle"
+},
+{
+"content": [
+"water",
+"bottle"
+],
+"anti_word": "sport"
+},
+{
+"anti_word": "sport",
+"content": "shaker"
+},
+{
+"content": ["kitchen","glove"],
+"anti_word":["touchscreen","icescraper",["touch", "screen"],"screen"]
+},
+{
+"content": "platter"
+},
+{
+"content": "salad"
+},
+{
+"content": "maslenka"
+},
+{
+"content": "jug"
+},
+{
+"content": "pitcher"
+},
+{
+"content": "decanter"
+},
+{
+"content": "teapot"
+},
+{
+"content": "turk"
+},
+{
+"content": "menagerie"
+},
+{
+"content": "tray",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "juicer"
+},
+{
+"content": "spice"
+},
+{
+"content": "cheese"
+},
+{
+"content": "blender"
+},
+{
+"content": "spatula"
+},
+{
+"content": "coaster"
+},
+{
+"content": "apron"
+},
+{
+"content": "bake"
+},
+{
+"content": "kitchen"
+},
+{
+"content": "nutcracker"
+},
+{
+"content": "tumbler"
+},
+{
+"content": "bowl"
+},
+{
+"content": "jigger"
+},
+{
+"content": "chopstick"
+},
+{
+"content": "mortar"
+},
+{
+"content": "beer"
+},
+{
+"content": "wine",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "saucer"
+},
+{
+"content": "cook"
+},
+{
+"content": "lunchbox"
+},
+{
+"content": "container"
+},
+{
+"content": "jar"
+},
+{
+"content": "tealight"
+},
+{
+"content": "tea"
+},
+{
+"content": "cruet"
+},
+{
+"content": [
+"cocktail",
+"set"
+]
+},
+{
+"content": [
+"knife",
+"waiter\u0412\u0491s"
+]
+},
+{
+"content": [
+"box",
+"lunch"
+]
+},
+{
+"content": [
+"board",
+"serve"
+]
+},
+{
+"content": [
+"set",
+"tea"
+]
+},
+{
+"content": [
+"ceramic",
+"piece",
+"place"
+]
+},
+{
+"content": [
+"coffee",
+"set"
+]
+},
+{
+"content": [
+"salad",
+"utensil"
+]
+},
+{
+"content": [
+"bowl",
+"salad"
+]
+},
+{
+"content": [
+"box",
+"salad"
+]
+},
+{
+"content": [
+"box",
+"sugar"
+]
+},
+{
+"content": [
+"bowl",
+"sugar"
+]
+},
+{
+"content": [
+"box",
+"mint"
+]
+},
+{
+"content": [
+"bowl",
+"soup"
+]
+},
+{
+"content": [
+"bowl",
+"candy"
+]
+},
+{
+"content": [
+"bowl",
+"caviar"
+]
+},
+{
+"content": [
+"jug",
+"thermos"
+]
+},
+{
+"content": [
+"bottle",
+"decanter"
+]
+},
+{
+"content": [
+"filter",
+"tea"
+]
+},
+{
+"content": [
+"coffee",
+"pot"
+]
+},
+{
+"content": [
+"coffee",
+"maker"
+]
+},
+{
+"content": [
+"board",
+"chopping"
+]
+},
+{
+"content": [
+"salt",
+"shaker"
+]
+},
+{
+"content": [
+"mill",
+"pepper"
+]
+},
+{
+"content": [
+"grinder",
+"spice"
+]
+},
+{
+"content": [
+"board",
+"cheese"
+]
+},
+{
+"content": [
+"kitchen",
+"tong"
+]
+},
+{
+"content": [
+"kitchen",
+"thermometer"
+]
+},
+{
+"content": [
+"manicist",
+"vegetable"
+]
+},
+{
+"content": [
+"silicone",
+"spatula"
+]
+},
+{
+"content": [
+"container",
+"storage"
+]
+},
+{
+"content": [
+"apron",
+"kitchen"
+]
+},
+{
+"content": [
+"brush",
+"silicone"
+]
+},
+{
+"content": [
+"kitchen",
+"timer"
+]
+},
+{
+"content": [
+"kitchen",
+"scale"
+]
+},
+{
+"content": [
+"cloth",
+"table"
+]
+},
+{
+"content": [
+"runner",
+"table"
+]
+},
+{
+"content": [
+"kitchen",
+"knife"
+]
+},
+{
+"content": [
+"knife",
+"steel"
+]
+},
+{
+"content": [
+"flask",
+"vacuum"
+]
+},
+{
+"content": [
+"box",
+"peppermint"
+]
+},
+{
+"content": [
+"cup",
+"plastic"
+]
+},
+{
+"content": [
+"box",
+"cardboard",
+"cylindrical"
+]
+},
+{
+"content": [
+"iron",
+"pan"
+]
+},
+{
+"content": [
+"ceramic",
+"mug"
+]
+},
+{
+"content": [
+"carve",
+"knife"
+]
+},
+{
+"content": [
+"apple",
+"cutter"
+]
+},
+{
+"content": [
+"bamboo",
+"chopstick"
+]
+},
+{
+"content": [
+"container",
+"plastic"
+]
+},
+{
+"content": [
+"jar",
+"storage"
+]
+},
+{
+"content": [
+"mitt",
+"oven"
+]
+},
+{
+"content": [
+"board",
+"cut"
+]
+},
+{
+"content": [
+"pizza",
+"stone"
+]
+},
+{
+"content": [
+"infuser",
+"tea"
+]
+},
+{
+"content": [
+"remover",
+"seed"
+]
+},
+{
+"content": [
+"bamboo",
+"mortar"
+]
+},
+{
+"content": [
+"silicone",
+"straw"
+]
+},
+{
+"content": [
+"cork",
+"double",
+"stand"
+]
+},
+{
+"content": [
+"board",
+"cutting"
+]
+},
+{
+"content": [
+"block",
+"knife"
+]
+},
+{
+	"content":["glass", "straw"]
+},
+{
+"content": [
+"drinking",
+"straw"
+]
+},
+{
+"content": [
+"cook",
+"spoon"
+]
+},
+{
+"content": [
+"coffee",
+"holder"
+]
+},
+{
+"content": [
+"cream",
+"ice",
+"scoop"
+]
+},
+{
+"content": [
+"knife",
+"set"
+]
+}
+],
+"Electronics": [
+{
+	"content": ["tablet", "case"]
+},
+{
+"content": [
+"pocket",
+"phone",
+"stand"
+]
+},
+{
+"content": [
+"mobile",
+"case"
+]
+},
+{
+"content": "headphones"
+},
+{
+"content": "projector"
+},
+{
+"content": "quadrocopter"
+},
+{
+"content": "humidifier"
+},
+{
+"content": "camera",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "keyboard"
+},
+{
+"content": "cable",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "speaker",
+"anti_word": "umbrella"
+},
+{
+"content": "headphone",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "earphones"
+},
+{
+"content": "charger",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "powerbank"
+},
+{
+"content": "tablet"
+},
+{
+"content": "earbuds"
+},
+{
+"content": "usb",
+"anti_word": [
+"pen",
+"portfolio",
+"backpack",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "battery",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "earphone"
+},
+{
+"content": "monopod"
+},
+{
+"content": "selfie"
+},
+{
+"content": "electronic",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "wireless",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "mouse"
+},
+{
+"content": "laptop",
+"anti_word": [
+"bag",
+"backpack"
+]
+},
+{
+"content": "mousepad"
+},
+{
+"content": [
+"drive",
+"flash"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"audio",
+"speaker"
+],
+"anti_word": "umbrella"
+},
+{
+"content": [
+"glass",
+"reality",
+"virtual"
+]
+},
+{
+"content": [
+"gadget",
+"smart"
+]
+},
+{
+"anti_word": "car",
+"content": [
+"charger",
+"wireless"
+]
+},
+{
+"content": [
+"mouse",
+"optical"
+]
+},
+{
+"content": [
+"computer",
+"mouse"
+]
+},
+{
+"content": [
+"mouse",
+"pc"
+]
+},
+{
+"content": [
+"mouse",
+"pad"
+]
+},
+{
+"content": [
+"card",
+"reader"
+]
+},
+{
+"content": [
+"docking",
+"station"
+]
+},
+{
+"content": [
+"adapter"
+]
+},
+{
+"content": [
+"hub",
+"usb"
+]
+},
+{
+"content": [
+"drive",
+"hard"
+]
+},
+{
+"content": [
+"webcam"
+]
+},
+{
+"content": [
+"blocker",
+"camera"
+]
+},
+{
+"content": [
+"cable"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "stylus",
+"anti_word": [
+"pen",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"phone",
+"stand"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"laptop",
+"stand"
+]
+},
+{
+"content": [
+"glove",
+"touchscreen"
+]
+},
+{
+"content": [
+"glove",
+"screen",
+"touch"
+]
+},
+{
+"content": [
+"finder",
+"key"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"monopod",
+"selfie"
+]
+},
+{
+"content": [
+"speaker",
+"wireless"
+],
+"anti_word": "umbrella"
+},
+{
+"content": [
+"music",
+"output"
+]
+},
+{
+"content": [
+"headset",
+"reality",
+"virtual"
+]
+},
+{
+"content": [
+"reality",
+"virtual"
+]
+},
+{
+"content": [
+"bracelet",
+"smart"
+]
+},
+{
+"content": [
+"smart",
+"wristband"
+]
+},
+{
+"content": [
+"laser",
+"pen"
+]
+},
+{
+"content": [
+"bank",
+"power"
+],
+"anti_word": [
+"portfolio",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"memory",
+"stick"
+],
+"anti_word" : "portfolio"
+},
+{
+"content": [
+"holder",
+"mobile"
+],
+"anti_word": "car"
+},
+{
+"content": [
+"mobile",
+"phone"
+],
+"anti_word": "pocket"
+},
+{
+"content": [
+"flash",
+"usb"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"bluetooth",
+"headphone"
+]
+},
+{
+"anti_word": [
+"car",
+"car"
+],
+"content": [
+"holder",
+"smartphone"
+]
+},
+{
+"content": [
+"blocker",
+"webcam"
+]
+},
+{
+"content": [
+"device",
+"electronic"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"cover",
+"phone"
+]
+},
+{
+"content": [
+"mouse",
+"wireless"
+]
+},
+{
+"content": [
+"multifunction",
+"watch"
+]
+},
+{
+"content": [
+"charge",
+"wireless"
+]
+},
+{
+"content": [
+"holder",
+"phone"
+],
+"anti_word": [["box", "lunch"],"car"]
+}
+],
+"Gifts for Kids": [
+{
+"content": [
+"backpack",
+"child"
+]
+},
+{
+"content": "crayon"
+},
+{
+"content": "plush",
+"anti_word": [
+"towel",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "child",
+"anti_word": [
+"bag",
+"towel",
+"vest",
+"cap",
+"stress"
+]
+},
+{
+"content": "balloon"
+},
+{
+"content": "yoyo"
+},
+{
+"content": "chalk",
+"anti_word" : [["chalk", "mug"]]
+},
+{
+"content": [
+"custom",
+"game",
+"memory"
+]
+},
+{
+"content": [
+"duck",
+"rubber"
+]
+},
+{
+"content": [
+"fox",
+"plush"
+]
+},
+{
+"content": [
+"yo",
+"yo"
+]
+},
+{
+"content": [
+"plush",
+"sheep"
+]
+},
+{
+"content": [
+"hippo",
+"plush"
+]
+},
+{
+"content": [
+"bear",
+"teddy"
+]
+},
+{
+"content": [
+"box",
+"card",
+"laminate",
+"presentation"
+]
+},
+{
+"content": [
+"fidget",
+"toy"
+]
+},
+{
+"content": [
+"clapper",
+"hand"
+]
+},
+{
+"content": [
+"hopper",
+"truck"
+]
+},
+{
+"content": [
+"chalk",
+"street"
+]
+},
+{
+"content": [
+"blower",
+"bubble"
+]
+},
+{
+"content": [
+"book",
+"colour"
+]
+},
+{
+"content": [
+"game",
+"skill"
+]
+},
+{
+"content": [
+"baby",
+"box"
+]
+}
+],
+"Household products": [
+{
+	"content":["candle", "holder"]
+},
+{
+"content": [
+"tool",
+"set"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "candlestick"
+},
+{
+"content": "candle"
+},
+{
+"content": "vase"
+},
+{
+"content": "lamp"
+},
+{
+"content": "casket"
+},
+{
+"content": "fireplace"
+},
+{
+"content": "humidifier",
+"anti_word": [
+"fan",
+"cable",
+"led"
+]
+},
+{
+"content": "measure",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "jackknife"
+},
+{
+"content": "reflectivecollar"
+},
+{
+"content": "alarm",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "bath"
+},
+{
+"content": "hanger",
+"anti_word": [
+"ml",
+"500ml",
+"bag",
+"keyre",
+"plush",
+"lanyard",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "screwdriver",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "puff"
+},
+{
+"content": "sewing"
+},
+{
+"content": [
+"candle",
+"wax"
+]
+},
+{
+"content": [
+"frame",
+"photo"
+]
+},
+{
+"content": [
+"knife",
+"pocket"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"clock",
+"lcd"
+]
+},
+{
+"content": [
+"fold",
+"meter"
+]
+},
+{
+"content": [
+"clasp",
+"knife"
+]
+},
+{
+"content": [
+"laser",
+"meter"
+]
+},
+{
+"content": [
+"bath",
+"sponge"
+]
+},
+{
+"content": [
+"knife",
+"waiter"
+]
+},
+{
+"content": [
+"screwdriver",
+"set"
+]
+},
+{
+"content": [
+"multi",
+"tool"
+],
+"anti_word": [
+"phone",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"multifunctional",
+"tool"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"foldable",
+"knife"
+]
+},
+{
+"content": [
+"double",
+"frame",
+"led"
+]
+},
+{
+"content": [
+"lead",
+"pet"
+]
+},
+{
+"content": [
+"measure",
+"tape"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"box",
+"wedding"
+]
+},
+{
+"content": [
+"fever",
+"indicator"
+]
+},
+{
+"content": [
+"folding",
+"meter"
+]
+},
+{
+"content": [
+"kit",
+"sewing"
+]
+}
+],
+"Leisure Products": [
+{
+	"content":["beach", "umbrella"]
+},
+{
+"content": [
+"cooler",
+"bag"
+],"anti_word":[["lunch", "box"]]
+},
+{
+"content": [
+"picnic",
+"backpack"
+]
+},
+{
+"content": [
+"beach",
+"bag"
+]
+},
+{
+"content": [
+"cool",
+"bag"
+],"anti_word":[["lunch", "box"]]
+},
+{
+"content": "fan"
+},
+{
+"content": "binocular"
+},
+{
+"content": "warmer"
+},
+{
+"content": "compass",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "flask",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "chess"
+},
+{
+"content": "backgammon"
+},
+{
+"content": "puzzle",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "frisbee"
+},
+{
+"content": "beach",
+"anti_word": [
+"towel",
+"ball"
+]
+},
+{
+"anti_word": "bracelet",
+"content": "survival"
+},
+{
+"content": "earplug"
+},
+{
+"content": "tent"
+},
+{
+"content": "barbecue"
+},
+{
+"content": "grill"
+},
+{
+"content": "picnic",
+"anti_word": "blanket"
+},
+{
+"content": "sneaker"
+},
+{
+"content": "domino"
+},
+{
+"content": "telescope"
+},
+{
+"content": "camping"
+},
+{
+"content": "xylophone"
+},
+{
+"content": "slipper"
+},
+{
+"content": "travel",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"beach",
+"chair"
+]
+},
+{
+"content": [
+"ear",
+"plug"
+]
+},
+{
+"content": [
+"inflatable",
+"pillow"
+]
+},
+{
+"content": [
+"beach",
+"tennis"
+]
+},
+{
+"content": [
+"pillow",
+"travel"
+]
+},
+{
+"content": [
+"mug",
+"travel"
+]
+},
+{
+"content": [
+"holder",
+"passport"
+]
+},
+{
+"content": [
+"passport",
+"wallet"
+]
+},
+{
+"content": [
+"fan",
+"portable"
+]
+},
+{
+"content": [
+"fan",
+"pocket"
+]
+},
+{
+"content": [
+"eye",
+"mask"
+]
+},
+{
+"content": [
+"set",
+"travel"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"bottle",
+"hot",
+"water"
+]
+},
+{
+"content": [
+"heat",
+"pack"
+]
+},
+{
+"content": [
+"heat",
+"pad"
+]
+},
+{
+"content": [
+"flip",
+"flop"
+]
+},
+{
+"content": [
+"beach",
+"slipper"
+]
+},
+{
+"content": [
+"bag",
+"garment"
+]
+},
+{
+"content": [
+"lock",
+"number"
+]
+},
+{
+"content": [
+"binocular"
+]
+},
+{
+"content": [
+"luggage",
+"scale"
+]
+},
+{
+"content": [
+"bag",
+"sleep"
+]
+},
+{
+"content": [
+"container",
+"waterproof"
+]
+},
+{
+"content": [
+"basket",
+"picnic"
+]
+},
+{
+"content": [
+"game",
+"set"
+]
+},
+{
+"content": [
+"cooling",
+"pad"
+]
+},
+{
+"content": [
+"heating",
+"pad"
+]
+},
+{
+"content": [
+"reflector",
+"safety"
+]
+},
+{
+"content": [
+"game",
+"patience"
+]
+},
+{
+"content": [
+"basket",
+"shopping"
+]
+},
+{
+"content": [
+"golf",
+"tee"
+]
+},
+{
+"content": [
+"card",
+"playing"
+]
+},
+{
+"content": [
+"game",
+"memory"
+]
+},
+{
+"content": [
+"horn",
+"stadium"
+]
+},
+{
+"content": [
+"camping",
+"chair"
+]
+},
+{
+"content": [
+"disc",
+"flying"
+]
+},
+{
+"content": [
+"beach",
+"mat"
+]
+},
+{
+"content": [
+"cool",
+"mat",
+"universal"
+]
+},
+{
+"content": [
+"bird",
+"house"
+]
+},
+{
+"content": [
+"freezer",
+"pack"
+]
+},
+{
+"content": [
+"board",
+"dart"
+]
+},
+{
+"content": [
+"organizer",
+"travel"
+]
+},
+{
+"content": [
+"aluminum",
+"flask"
+]
+},
+{
+"content": [
+"game",
+"mikado"
+]
+}
+],
+"Office tools": [
+{
+	"content": "hourglass"
+},
+{
+	"content": ["conference", "folder"]
+},
+{
+	"content" : "journal"
+},
+{
+	"content":["pen", "case"]
+},
+{
+"content": [
+"glass",
+"block"
+]
+},
+{
+"content": "diary"
+},
+{
+"content": "weekly"
+},
+{
+"content": "note"
+},
+{
+"content": "cardholder",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "ruler",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "\u0420\u040e\u0420\u0453lip"
+},
+{
+"content": "sharpener"
+},
+{
+"content": "badge",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "calculator"
+},
+{
+"content": "clip",
+"anti_word": [
+"pen",
+"led",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "bookmark"
+},
+{
+"content": "calendar",
+"anti_word": "mousepad"
+},
+{
+"content": "paperweight"
+},
+{
+"content": "noteblock"
+},
+{
+"content": "notebook"
+},
+{
+"content": "notepad"
+},
+{
+"content": "portfolio"
+},
+{
+"content": "clipboard"
+},
+{
+"content": "cutter"
+},
+{
+"content": "stapler"
+},
+{
+"content": [
+"business",
+"card",
+"holder"
+]
+},
+{
+"content": "holder",
+"anti_word": [
+"candle",
+["candle", "holder"],
+"card",
+"phone",
+"bottle",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"knife",
+"stationary"
+]
+},
+{
+"content": [
+"box",
+"money"
+]
+},
+{
+"content": [
+"knife",
+"paper"
+]
+},
+{
+"content": [
+"clip",
+"paper"
+]
+},
+{
+"content": [
+"clip",
+"document"
+]
+},
+{
+"content": [
+"badge",
+"holder"
+]
+},
+{
+"content": [
+"bank",
+"piggy"
+]
+},
+{
+"content": [
+"clock",
+"table"
+]
+},
+{
+"content": [
+"station",
+"weather"
+]
+},
+{
+"content": [
+"case",
+"pencil"
+]
+},
+{
+"content": [
+"holder",
+"pencil"
+]
+},
+{
+"content": [
+"holder",
+"pen"
+]
+},
+{
+"content": [
+"paper",
+"weight"
+]
+},
+{
+"content": [
+"clock",
+"wall"
+]
+},
+{
+"content": [
+"paper",
+"sleeve"
+]
+},
+{
+"content": [
+"document",
+"folder"
+]
+},
+{
+"content": [
+"bubble",
+"envelope"
+]
+},
+{
+"content": [
+"cahier",
+"journal"
+]
+},
+{
+"content": [
+"conference",
+"portfolio"
+]
+},
+{
+"content": [
+"map",
+"scratch",
+"world"
+]
+},
+{
+"content": [
+"cutter",
+"knife"
+]
+},
+{
+"content": [
+"sand",
+"timer"
+]
+},
+{
+"content": [
+"global",
+"watch"
+]
+},
+{
+"content": [
+"holder",
+"ticket"
+]
+},
+{
+"content": [
+"knife",
+"retractable"
+]
+},
+{
+"content": [
+"bloc",
+"stylux"
+]
+},
+{
+"content": [
+"letter",
+"opener"
+]
+},
+{
+"content": [
+"memo",
+"pad"
+]
+},
+{
+"content": [
+"map",
+"world"
+]
+},
+{
+"content": [
+"document",
+"holder"
+]
+}
+],
+"Package": [
+{
+"content": [
+"gift",
+"pouch"
+]
+},
+{
+"content": [
+"gift",
+"wrap"
+]
+},
+{
+"content": [
+"gift",
+"package"
+]
+},
+{
+"content": [
+"box",
+"gift"
+],
+"anti_word": [
+["stemless", "glass"],
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"bag",
+"gift"
+],
+"anti_word":[["stemless", "glass"]]
+},
+{
+"content": [
+"bottle",
+"package"
+]
+},
+{
+"content": [
+"box",
+"custom"
+]
+},
+{
+"content": [
+"carton",
+"wine"
+]
+}
+],
+"Personal accessories": [
+{
+	"content": ["jewellery", "box"]
+},
+{
+	"content":["sunglass", "pouch"]
+},
+{
+	"content": ["sunscreen", "lotion"]
+},
+{
+"content": [
+"bottle",
+"holder"
+]
+},
+{
+"content": "comb"
+},
+{
+"content": "mirror",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "massager"
+},
+{
+"content": "wristwatch"
+},
+{
+"content": "glass",
+"anti_word": [
+["glass", "trophy"],
+["glass", "straw"],
+"ml",
+["stemless", "glass"],
+"bottle",
+"cup",
+"mug",
+"block",
+"paperweight",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "light",
+"anti_word": [
+["bicycle", "light"],
+"hat",
+"led",
+"umbrella",
+"shirt",
+"vest",
+"jacket",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "cufflink"
+},
+{
+"content": "toothbrush"
+},
+{
+"content": "hook",
+"anti_word": [
+"lanyard",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "eyewear"
+},
+{
+"content": "brush",
+"anti_word": [
+"cap",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "sunglass",
+"anti_word":[["sunglass", "pouch"]]
+},
+{
+"content": "manicure"
+},
+{
+"content": "gas"
+},
+{
+"content": "makeup"
+},
+{
+"content": "sunscreen",
+"anti_word": [["sunscreen", "lotion"]]
+},
+{
+"content": "lipstick"
+},
+{
+"content": "ashtray"
+},
+{
+"content": "pillbox",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "hairbrush"
+},
+{
+"content": [
+"balm",
+"lip"
+]
+},
+{
+"content": [
+"box",
+"pill"
+]
+},
+{
+"content": [
+"aid",
+"kit"
+]
+},
+{
+"content": [
+"cosmetic",
+"pouch"
+]
+},
+{
+"content": [
+"sheet",
+"soap"
+]
+},
+{
+"content": [
+"spray",
+"sunscreen"
+]
+},
+{
+"content": [
+"face",
+"mask"
+]
+},
+{
+"content": [
+"leave",
+"soap"
+]
+},
+{
+"content": [
+"cleaning",
+"hand",
+"spray"
+]
+},
+{
+"content": [
+"glass",
+"nail"
+]
+},
+{
+"content": [
+"individual",
+"spray",
+"water"
+]
+},
+{
+"content": [
+"file",
+"mini",
+"nail"
+]
+},
+{
+"content": [
+"file",
+"nail"
+],
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"guard",
+"pocket"
+]
+},
+{
+"content": [
+"box",
+"pillow"
+]
+}
+],
+"Promo souvenirs": [
+{
+	"content": ["glass", "trophy"]
+},
+{
+	"content": ["cool", "towel"]
+},
+{
+"content": "blanket",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"picnic",
+"blanket"
+]
+},
+{
+"content": [
+"key",
+"chain"
+]
+},
+{
+"content": "plaid"
+},
+{
+"anti_word": "beach",
+"content": "pillow"
+},
+{
+"content": "towel"
+},
+{
+"content": "antistress"
+},
+{
+"content": "keyre"
+},
+{
+"content": "keyring"
+},
+{
+"content": "flashlight"
+},
+{
+"anti_word": [
+"smart",
+"fitness",
+"sport"
+],
+"content": "bracelet"
+},
+{
+"content": "wristband"
+},
+{
+"content": "rubber",
+"anti_word":"sharpener"
+},
+{
+"content": "lanyard"
+},
+{
+"content": "postcard"
+},
+{
+"content": "keychain"
+},
+{
+"content": "trophy"
+},
+{
+"content": "magnet"
+},
+{
+"content": "rosary"
+},
+{
+"content": "torch"
+},
+{
+"content": "cushion"
+},
+{
+"content": "banner"
+},
+{
+"content": "promotion"
+},
+{
+"content": "promotional"
+},
+{
+"content": "stress"
+},
+{
+"content": "trophee"
+},
+{
+"content": [
+"bath",
+"rug"
+]
+},
+{
+"content": [
+"anti",
+"stress"
+]
+},
+{
+"content": [
+"bath",
+"mat"
+]
+},
+{
+"content": [
+"band",
+"silicone"
+]
+},
+{
+"content": [
+"board",
+"display"
+]
+},
+{
+"content": [
+"cube",
+"pad"
+]
+},
+{
+"content": [
+"light",
+"stick"
+]
+},
+{
+"content": [
+"event",
+"wristband"
+]
+},
+{
+"content": [
+"key",
+"ring"
+]
+},
+{
+"content": [
+"banner",
+"stand"
+]
+},
+{
+"content": [
+"memo",
+"sticker"
+]
+},
+{
+"content": [
+"silicone",
+"wristband"
+]
+},
+{
+"content": [
+"emergency",
+"torch"
+]
+},
+{
+"content": [
+"bracelet",
+"dostoievski"
+]
+},
+{
+"content": [
+"pin",
+"tag"
+]
+},
+{
+"content": [
+"sticker",
+"vinyl"
+]
+},
+{
+"content": [
+"metal",
+"pin"
+]
+},
+{
+"content": [
+"fridge",
+"magnet"
+]
+},
+{
+"content": [
+"holder",
+"picture"
+]
+},
+{
+"content": [
+"led",
+"torch"
+]
+},
+{
+"content": [
+"event",
+"hand"
+]
+},
+{
+"content": [
+"band",
+"flexible",
+"snap"
+]
+}
+],
+"Sport": [
+{
+	"content": "sportmixer"
+},
+{
+	"content": "shaker"
+},
+{
+	"content": ["bicycle", "light"]
+},
+{
+"content": [
+"ball",
+"beach"
+]
+},
+{
+"content": "sport",
+"anti_word": [
+"towel",
+"light",
+"bag",
+"backpack",
+"vest",
+"shirt"
+]
+},
+{
+"anti_word": [
+"pen",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+],
+"content": "ball"
+},
+{
+"content": "expander"
+},
+{
+"content": "whistle",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "bike",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"anti_word": "towel",
+"content": "fitness"
+},
+{
+"content": "pedometer"
+},
+{
+"content": "bicycle",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "yoga"
+},
+{
+"content": "pilates"
+},
+{
+"content": "rope",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "volleyball"
+},
+{
+"content": "saddle"
+},
+{
+"content": "football",
+"anti_word": [
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": [
+"rope",
+"skip"
+]
+},
+{
+"content": [
+"game'",
+"sport"
+]
+},
+{
+"content": [
+"bottle",
+"sport"
+]
+},
+{
+"content": [
+"protein",
+"shaker"
+]
+},
+{
+"content": [
+"expander",
+"fitness"
+]
+},
+{
+"content": [
+"band",
+"exercise"
+]
+},
+{
+"content": [
+"dice",
+"fitness"
+]
+},
+{
+"content": [
+"fitness",
+"strap"
+]
+},
+{
+"content": [
+"jump",
+"rope"
+]
+},
+{
+"content": [
+"mat",
+"yoga"
+]
+},
+{
+"content": [
+"arm",
+"reflective",
+"strap"
+]
+},
+{
+"content": [
+"bell",
+"bike"
+]
+},
+{
+"content": [
+"reflective",
+"sticker"
+]
+},
+{
+"content": [
+"exercizer",
+"hand"
+]
+},
+{
+"content": [
+"cover",
+"saddle"
+]
+}
+],
+"Umbrellas": [
+{
+"content": "umbrella",
+"anti_word": "beach"
+},
+{
+"content": "raincoat"
+},
+{
+"content": [
+"automatic",
+"umbrella"
+]
+}
+],
+"VIP gifts": [],
+"Writing utensils": [
+{
+"content": [
+"ball",
+"pen"
+],
+"anti_word": [
+["torch", "led"],
+"case",
+"notebook",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"anti_word": [
+"case",
+"laser",
+"lipstick",
+"notebook",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+],
+"content": "pen"
+
+},
+{
+"content": "pencil",
+"anti_word": ["sharpener","notebook"]
+},
+{
+"content": "marker"
+},
+{
+"content": "highlighter"
+},
+{
+"content": "ballpoint",
+"anti_word": ["notebook","diary"]
+},
+{
+"content": "refill",
+"anti_word": [
+"diary",
+"keyre",
+"keyring",
+[
+"key",
+"ring"
+],
+[
+"key",
+"chain"
+],
+"keychain"
+]
+},
+{
+"content": "roller"
+},
+{
+"content": [
+"ballpoint",
+"pen"
+],
+"anti_word": "notebook"
+},
+{
+"content": [
+"metal",
+"roller"
+]
+},
+{
+"content": [
+"pen",
+"refill"
+]
+},
+{
+"content": [
+"pencils",
+"set"
+]
+}
+]
+}

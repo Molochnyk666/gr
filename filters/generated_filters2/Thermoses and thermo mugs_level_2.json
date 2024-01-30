@@ -1,0 +1,410 @@
+{
+    "Thermo mugs and thermo glasses": {
+        "filter_words": [
+		{
+			"content":["insulated", "tumbler"]
+		},
+		{
+			"content": ["thermo", "mug"]
+		},
+					{
+				"content": "thermostat"
+			},
+			{
+				"content": "tumbler" 
+			},
+			{
+                "content":"glass"
+            },
+		    {
+                "content":"mug"
+            },
+            {
+                "content": [
+                    "thermo",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "thermo",
+                    "mug",
+                    "thermo",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "thermo",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "thermo",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "thermo",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "vacuum",
+                    "insulate",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "thermo",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "thermo",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "drinking",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "thermo",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "resistant",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "vacuum",
+                    "insulate",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "thermo",
+                    "tea",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "thermo",
+                    "coffee",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "thermo",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "hot",
+                    "beverage",
+                    "thermo",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "cold",
+                    "beverage",
+                    "thermo",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "thermo",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "thermo",
+                    "glass"
+                ]
+            }
+        ]
+    },
+    "Thermoses": {
+        "filter_words": [
+			{
+			"content" : ["smart","bottle"]
+		},
+            {
+                "content": "thermos"
+            },
+            {
+                "content": [
+                    "insulated",
+                    "thermo"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "vacuum",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "hot",
+                    "beverage",
+                    "thermo"
+                ]
+            },
+            {
+                "content": [
+                    "cold",
+                    "beverage",
+                    "thermo"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "thermo"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "food",
+                    "thermo"
+                ]
+            },
+            {
+                "content": [
+                    "soup",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "leakproof",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "cup"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "coffee"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "tea"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "brand",
+                    "products"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "thermo"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "quality",
+                    "thermo"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "sport"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "work"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "school"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "picnic"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "spoon"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "hot",
+                    "food"
+                ]
+            },
+            {
+                "content": [
+                    "thermo",
+                    "cold",
+                    "drink"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "temperature",
+                    "display"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "insulated",
+                    "cover"
+                ]
+            }
+        ]
+    }
+}

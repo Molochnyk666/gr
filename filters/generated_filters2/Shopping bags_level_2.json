@@ -1,0 +1,1414 @@
+{
+    "Eco shopping bags": {
+        "filter_words": [
+			{
+				"content": "rpet"
+			},
+			{
+				"content": "recycle"
+			},
+			{
+				"content": "recycle"
+			},
+			{
+				"content": ["recycle", "textile"]
+			},
+				            {
+                "content": "biodegradable"
+            },
+		            {
+                "content": [
+                    "biodegradable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "eco",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "biodegradable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "cotton",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "material",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "environmentally",
+                    "friendly",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "fiber",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "hemp",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "jute",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "canva",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waste",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "plasticfree",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "eco",
+                    "tote",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "fair",
+                    "trade",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "compostable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "washable",
+                    "shopping",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Folding shopper bags": {
+        "filter_words": [
+		{"content":"fold"},
+			{"content":"foldable"},
+		   {
+                "content": [
+                    "foldable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "shopper",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "fold",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "grocery",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "shopper",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "fold",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "foldable",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldup",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "fold",
+                    "shopper",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "tote",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "shopping",
+                    "sack"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "canvas",
+                    "shopper",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "nylon",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "polyester",
+                    "shopper",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "cotton",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "jute",
+                    "shopper",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "plastic",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "recycle",
+                    "material",
+                    "shopper",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "waterproof",
+                    "shopping",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Laminated shopping bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "laminate",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "laminate",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "laminate",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "laminate",
+                    "grocery",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "laminate",
+                    "tote",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "laminate",
+                    "nonwoven",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "laminate",
+                    "polypropylene",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "laminate",
+                    "fabric",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "laminate",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "laminate",
+                    "paper",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "laminate",
+                    "jute",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "laminate",
+                    "cotton",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "laminate",
+                    "canvas",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "laminate",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "laminate",
+                    "shopping",
+                    "bag",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "laminate",
+                    "shopping",
+                    "bag",
+                    "wholesale"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "laminate",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "laminate",
+                    "shopping",
+                    "bag",
+                    "logo"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "laminate",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "laminate",
+                    "shopping",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Non-woven shopping bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "non",
+                    "-",
+                    "woven",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "nonwoven",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "nonwoven",
+                    "tote",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "nonwoven",
+                    "grocery",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "nonwoven",
+                    "fabric",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "environmentfriendly",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "nonwoven",
+                    "promotional",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "nonwoven",
+                    "carry",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "washable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "nonwoven",
+                    "retail",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "nonwoven",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "nonwoven",
+                    "polypropylene",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "nonwoven",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "nonwoven",
+                    "shopping",
+                    "bag",
+                    "bulk"
+                ]
+            }
+        ]
+    },
+    "Polyester shopping bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "polyester",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "polyester",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "polyester",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "grocery",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "polyester",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "polyester",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "polyester",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "washable",
+                    "polyester",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "tote",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "polyester",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "shopping",
+                    "bag",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "shopping",
+                    "bag",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "polyester",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "print",
+                    "polyester",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "drawstring",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "polyester",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "polyester",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "polyester",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "shopping",
+                    "bag",
+                    "logo"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "fabric",
+                    "shopping",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Shopper bag sets": {
+        "filter_words": [
+            {
+                "content": [
+                    "shopper",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "shopping",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "shopper",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "canvas",
+                    "shopper",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "shopping",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "shopper",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "grocery",
+                    "shopper",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "tote",
+                    "shopper",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "shopping",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "shopper",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "washable",
+                    "shopping",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "multipack",
+                    "shopper",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "shopping",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "shopper",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "shopping",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "shopper",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "shopping",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pattern",
+                    "shopper",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "colorful",
+                    "shopping",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "shopper",
+                    "bag",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Trolley bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "wheel",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "roll",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "shopping",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "grocery",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "shopping",
+                    "cart",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "trolley",
+                    "duffle",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "trolley",
+                    "suitcase",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "trolley",
+                    "backpack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "trolley",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Utility bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "utility",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "utility",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "multipurpose",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "grocery",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "heavyduty",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "utility",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "shopping",
+                    "bag"
+                ]
+            },
+
+            {
+                "content": [
+                    "tote",
+                    "utility",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "canvas",
+                    "utility",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "shopping",
+                    "bag",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "grocery",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "shop",
+                    "bag",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "washable",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "utility",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "nylon",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "utility",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "zipper",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "grocery",
+                    "bag",
+                    "reinforce"
+                ]
+            }
+        ]
+    },
+    "White shopping bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "white",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "paper",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "plastic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "reusable",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "tote",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "grocery",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "retail",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "ecofriendly",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "cotton",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "canvas",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "jute",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "designer",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "drawstring",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "fabric",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "white",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "white",
+                    "shopping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "shopping",
+                    "bag",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "shopping",
+                    "bag",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "shopping",
+                    "bag",
+                    "logo"
+                ]
+            }
+        ]
+    }
+}

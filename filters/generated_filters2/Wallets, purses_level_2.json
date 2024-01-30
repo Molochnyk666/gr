@@ -1,0 +1,1720 @@
+{
+    "Credit cards and card holders": {
+        "filter_words": [
+					{
+				"content": ["card", "case"]
+			},
+            {
+                "content": [
+                    "credit",
+                    "card",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "credit",
+                    "card",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "holder",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "credit",
+                    "card",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "holder",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "credit",
+                    "card",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "block",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "slim",
+                    "credit",
+                    "card",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "credit",
+                    "card",
+                    "organizer",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "credit",
+                    "card",
+                    "holder",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "credit",
+                    "card",
+                    "holder",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "card",
+                    "holder",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "bifold",
+                    "credit",
+                    "card",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "trifold",
+                    "credit",
+                    "card",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "zipper",
+                    "credit",
+                    "card",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "credit",
+                    "card",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "credit",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "case",
+                    "credit",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "credit",
+                    "card",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "credit",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "credit",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "credit",
+                    "card",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "credit",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "multislot",
+                    "card",
+                    "holder",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "secure",
+                    "credit",
+                    "card",
+                    "wallet"
+                ]
+            }
+        ]
+    },
+    "Key cases and coin boxes": {
+        "filter_words": [
+			{
+				"content": ["key", "wallet"]
+			},
+		   {
+                "content": [
+                    "coin",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "case"
+                ]
+            },
+            {
+                "anti_word": "ring",
+                "content": [
+                    "key",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "case",
+                    "coin",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "case",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "coin",
+                    "box",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "holder",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "coin",
+                    "storage",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "coin",
+                    "holder",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "organizer",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "coin",
+                    "pocket",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "slot",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "coin",
+                    "compartment",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "pouch",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "coin",
+                    "purse",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "key",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "coin",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "coin",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "zip",
+                    "coin",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "multikey",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "coin",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "key",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "coin",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "case",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "coin",
+                    "box",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "key",
+                    "holder",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "coin",
+                    "collection",
+                    "wallet"
+                ]
+            }
+        ]
+    },
+    "Money clips": {
+        "filter_words": [
+            {
+                "content": [
+                    "money",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "clip",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "slim",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "magnetic",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "bifold",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "trifold",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "money",
+                    "clip",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "clip",
+                    "card",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "clip",
+                    "wallet",
+                    "combo"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "clip",
+                    "wallet",
+                    "coin",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "money",
+                    "clip",
+                    "wallet",
+                    "id",
+                    "window"
+                ]
+            }
+        ]
+    },
+    "Neck wallets": {
+        "filter_words": [
+            {
+                "content": [
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "passport",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "security",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "hide",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "wallet",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "wallet",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "zippered",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "multipocket",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "wallet",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "breathable",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "comfortable",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "wallet",
+                    "traveling"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "wallet",
+                    "outdoor",
+                    "activity"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "neck",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "wallet",
+                    "id",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "wallet",
+                    "credit",
+                    "card",
+                    "slot"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "wallet",
+                    "phone",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "wallet",
+                    "key",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "wallet",
+                    "earphone",
+                    "hole"
+                ]
+            }
+        ]
+    },
+    "Piquadro purse": {
+        "filter_words": [
+            {
+                "content": [
+                    "piquadro",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "leather",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "woman",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "man",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "designer",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "italian",
+                    "piquadro",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "luxury",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "brand",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "highend",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "stylish",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "compact",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "fashion",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "genuine",
+                    "leather",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "handcrafted",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "rfid",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "bifold",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "ziparound",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "coin",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "piquadro",
+                    "card",
+                    "holder",
+                    "wallet"
+                ]
+            }
+        ]
+    },
+    "Portmanteau": {
+        "filter_words": [
+            {
+                "content": "portmanteau"
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "purses"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "portmanteau",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "portmanteau",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "portmanteau",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "portmanteau",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "travel",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "clutch",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "portmanteau",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "coin",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "bifold",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "crossbody",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "card",
+                    "holder",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "satchel",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "money",
+                    "clip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "tote",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "zip",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "hobo",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "slim",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "portmanteau",
+                    "shoulder",
+                    "purse"
+                ]
+            }
+        ]
+    },
+    "Purses": {
+        "filter_words": [
+            {
+                "content": "purse",
+				"anti_word": "coin"
+            },
+            {
+                "content": [
+                    "woman",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "clutch",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "crossbody",
+                    "purse"
+                ]
+            },
+            {
+                "content": "handbag"
+            },
+            {
+                "content": [
+                    "shoulder",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "tote",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "satchel",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "hobo",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "evening",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "fashion",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "zipper",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "canva",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "bucket",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "quilted",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "chain",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "bead",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "embroider",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "fringe",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "metallic",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "animal",
+                    "print",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "vegan",
+                    "leather",
+                    "purse"
+                ]
+            }
+        ]
+    },
+    "Sets with purses": {
+        "filter_words": [
+            {
+                "content": [
+                    "set",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "purse",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "match",
+                    "wallet",
+                    "purse",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "coordinate",
+                    "purse",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "handbag",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "purse",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "purse",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "purse",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "clutch",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "crossbody",
+                    "purse",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "tote",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "purse",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "fashion",
+                    "purse",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vegan",
+                    "leather",
+                    "purse",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "purse",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "satchel",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "hobo",
+                    "bag",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "shoulder",
+                    "bag",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "evening",
+                    "bag",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "purse",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "block",
+                    "purse",
+                    "wallet",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Wallet with rfid security": {
+        "filter_words": [
+            {
+                "content": [
+                    "wallet",
+                    "rfid",
+                    "security"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "secure",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "rfid",
+                    "protection"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "block",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "antitheft",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "safe",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "security",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "shield",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "protection",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "block",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "antirfid",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "secure",
+                    "wallet",
+                    "rfid"
+                ]
+            },
+            {
+                "content": [
+                    "rfidproof",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "guard",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "rfid",
+                    "defense"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "resistant",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "secure",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "purse",
+                    "rfid",
+                    "blocking"
+                ]
+            },
+            {
+                "content": [
+                    "antiskimming",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfidprotected",
+                    "wallet"
+                ]
+            }
+        ]
+    },
+    "Wallets": {
+        "filter_words": [
+            {
+                "content": "wallet"
+            },
+            {
+                "content": [
+                    "leather",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "slim",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "bifold",
+                    "wallets"
+                ]
+            },
+            {
+                "content": [
+                    "trifold",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "coin",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "holder",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "zipper",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "vegan",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "money",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "id",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "key",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "chain"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "phone",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "passport",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "checkbook",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "photo",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "multiple",
+                    "card",
+                    "slot"
+                ]
+            },
+            {
+                "content": [
+                    "wallet",
+                    "zip",
+                    "coin",
+                    "compartment"
+                ]
+            }
+        ]
+    }
+}

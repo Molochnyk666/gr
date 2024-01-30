@@ -1,0 +1,2035 @@
+{
+    "Beer glasses": {
+        "filter_words": [
+            {
+                "content": [
+                    "beer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "pint",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "stein"
+                ]
+            },
+            {
+                "content": [
+                    "craft",
+                    "beer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "ale",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "lager",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "stout",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "tasting",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "goblet"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "beer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "german",
+                    "beer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "belgian",
+                    "beer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "english",
+                    "pub",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "pilsner",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "snifter",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "tulip",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "glassware"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "beer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "flight",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "etch",
+                    "beer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "beer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "beer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "unbreakable",
+                    "beer",
+                    "glass"
+                ]
+            }
+        ]
+    },
+    "Champagne glasses": {
+        "filter_words": [{
+		"content":["champagne", "glass"]},
+            {
+                "content": [
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "flute"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "saucer"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wedding",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "toast",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "stemless",
+                    "champagne",
+                    "flute"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "rim",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "champagne",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "coupe",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "bridesmaid",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "engrave",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "champagne",
+                    "flute"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "stemware"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "tall",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "color",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "hand",
+                    "paint",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "lead",
+                    "free",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "dishwasher",
+                    "safe",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "oversize",
+                    "champagne",
+                    "glass"
+                ]
+            }
+        ]
+    },
+    "Cocktail glasses": {
+        "filter_words": [
+            {
+                "content": [
+                    "cocktail",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "margarita",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "highball",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "lowball",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "old",
+                    "fashioned",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "coupe",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "shot",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "cocktail",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "stemless",
+                    "cocktail",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "cocktail",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "tiki",
+                    "cocktail",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "hurricane",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "brandy",
+                    "snifters"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "flute"
+                ]
+            },
+            {
+                "content": [
+                    "mojito",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "cosmopolitan",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "pina",
+                    "colada",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "daiquiri",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "barware",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "mixology",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "drinking",
+                    "glass"
+                ]
+            }
+        ]
+    },
+    "Collapsible glasses": {
+        "filter_words": [
+            {
+                "content": [
+                    "collapsible",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "eyewear"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "retractable",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "reading",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "miniature",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "sunglass"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "spectacle"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "prescription",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "space",
+                    "saving",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "bifocal"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "safety",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "designer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "sport",
+                    "glass"
+                ]
+            }
+        ]
+    },
+    "Double-walled glasses": {
+        "filter_words": [
+            {
+                "content": [
+                    "double",
+                    "walled",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "layered",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "resistant",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "walled",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "walled",
+                    "tea",
+                    "cup"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "walled",
+                    "glass",
+                    "tumbler"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "walled",
+                    "glassware"
+                ]
+            },
+            {
+                "content": [
+                    "borosilicate",
+                    "double",
+                    "walled",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "walled",
+                    "drinking",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "walled",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "beer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "walled",
+                    "cocktail",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "walled",
+                    "espresso",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "latte",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "hand",
+                    "blow",
+                    "double",
+                    "wall",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "walled",
+                    "glass",
+                    "cup"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "walled",
+                    "glass",
+                    "mug"
+                ]
+            }
+        ]
+    },
+    "Faceted glasses": {
+        "filter_words": [
+            {
+                "content": [
+                    "faceted",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "faceted",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "drinking",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "crystal",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "glassware"
+                ]
+            },
+            {
+                "content": [
+                    "retro",
+                    "facete",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "cocktail",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "glass",
+                    "tumbler"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "beer",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "whiskey",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "glass",
+                    "cup"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "glass",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "cut",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "glass",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "glass",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "glass",
+                    "drinkware"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "glass",
+                    "barware"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "glass",
+                    "stemware"
+                ]
+            }
+        ]
+    },
+    "Liqueur glasses": {
+        "filter_words": [
+            {
+                "content": [
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "cordial",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "shot",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "tall",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "stem",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "italian",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "liqueur",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "color",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "etch",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "set",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "traditional",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "liqueur",
+                    "tasting",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "liqueur",
+                    "glass",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "liqueur",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "brandy",
+                    "liqueur",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "rum",
+                    "liqueur",
+                    "glass"
+                ]
+            }
+        ]
+    },
+    "Martini glasses": {
+        "filter_words": [
+            {
+                "content": [
+                    "martini",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "glass"
+                ]
+            },
+            {
+                "content": "stemware"
+            },
+            {
+                "content": "barware"
+            },
+            {
+                "content": [
+                    "crystal",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "martini",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "oversize",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "martini",
+                    "glassware"
+                ]
+            },
+            {
+                "content": [
+                    "stem",
+                    "martini",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "stemless",
+                    "martini",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "cosmopolitan",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "classic",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "hand",
+                    "blow",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "etch",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "color",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "copper",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "rim",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "martini",
+                    "serving",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "fancy",
+                    "martini",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "dishwasher",
+                    "safe",
+                    "martini",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "martini",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "martini",
+                    "glass"
+                ]
+            }
+        ]
+    },
+    "Sets with glasses": {
+        "filter_words": [
+            {
+                "content": [
+                    "set",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "glassware",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "drink",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "flute",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "martini",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "shot",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "tumbler",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "highball",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "stemless",
+                    "wine",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "mug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "cup",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "colored",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "hand",
+                    "blow",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "set",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "bar",
+                    "glassware",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "pitcher",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "decanter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "dessert",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Tumblers with lid": {
+        "filter_words": [
+			{
+				"content":"lid"
+			},
+			{
+				"content":"grip"
+			},
+			{
+				"content": "tumbler"
+			},
+			            {
+                "content": [
+                    "tumbler",
+                    "grip"
+                ]
+            },
+            {
+                "content": [
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "lidded",
+                    "tumbler"
+                ]
+            },
+            {
+                "content": [
+                    "drink",
+                    "glass",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "cover",
+                    "tumbler"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "leak",
+                    "proof",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "dishwasher",
+                    "safe",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "bpa",
+                    "free",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "coffee",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "tumbler",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "tumbler",
+                    "lid"
+                ]
+            }
+        ]
+    },
+    "Whisky glasses": {
+        "filter_words": [
+            {
+                "content": [
+                    "whisky",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "scotch",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "bourbon",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "whisky",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "tumbler"
+                ]
+            },
+            {
+                "content": [
+                    "old",
+                    "fashioned",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "glencairn",
+                    "whisky",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "sipping",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "neat",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "whisky",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "whisky",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "decanter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "rock",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "snifter",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "tasting",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "whisky",
+                    "shot",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "irish",
+                    "whisky",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "japanese",
+                    "whisky",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "whisky",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "whisky",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "engrave",
+                    "whisky",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "base",
+                    "whisky",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "twist",
+                    "whisky",
+                    "glass"
+                ]
+            }
+        ]
+    },
+    "Wine glasses": {
+        "filter_words": [
+            {
+                "content": [
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": "stemware"
+            },
+            {
+                "content": [
+                    "red",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "bordeaux",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "burgundy",
+                    "glasses"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "flute"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "tasting",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "goblet"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "charm"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "hand",
+                    "paint",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "dishwasher",
+                    "safe",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "unbreakable",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "cleaning",
+                    "brush"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "glass",
+                    "gift",
+                    "set"
+                ]
+            }
+        ]
+    }
+}

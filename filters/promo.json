@@ -1,0 +1,153 @@
+{
+    "Antistress": [
+        {
+            "content": [
+                "anti",
+                "stress"
+            ]
+        },
+        {
+            "content": "rosary"
+        }
+    ],
+    "Flashlight": [
+        {
+            "content": [
+                "led",
+                "torch"
+            ]
+        },
+        {
+            "content": [
+                "emergency",
+                "torch"
+            ]
+        },
+        {
+            "content": [
+                "light",
+                "stick"
+            ]
+        },
+        {
+            "content": "torch"
+        },
+        {
+            "content": "latern"
+        },
+        {
+            "content": "flashlight"
+        }
+    ],
+    "Icons": [
+        {
+            "content": "tag"
+        },
+        {
+            "content": "pin"
+        },
+        {
+            "content": [
+                "pin",
+                "tag"
+            ]
+        },
+        {
+            "content": "stress"
+        },
+        {
+        }
+    ],
+    "Key-rings": [
+        {
+            "content": [
+                "key",
+                "ring"
+            ]
+        },
+        {
+            "content": "keyre"
+        },
+        {
+            "content": "keyring"
+        },
+        {
+            "content": "keychain"
+        }
+    ],
+    "Lanyard": [
+        {
+            "content": "lanyard"
+        }
+    ],
+    "Magnets": [
+        {
+            "content": [
+                "fridge",
+                "magnet"
+            ]
+        },
+        {
+            "content": "magnet"
+        }
+    ],
+    "Silicone bracelets": [
+        {
+            "content": [
+                "band",
+                "flexible",
+                "snap"
+            ]
+        },
+        {
+            "content": [
+                "event",
+                "hand"
+            ]
+        },
+        {
+            "content": [
+                "bracelet",
+                "dostoievski"
+            ]
+        },
+        {
+            "content": [
+                "silicone",
+                "wristband"
+            ]
+        },
+        {
+            "content": [
+                "event",
+                "wristband"
+            ]
+        },
+        {
+            "content": [
+                "band",
+                "silicone"
+            ]
+        },
+        {
+            "content": "bracelet"
+        },
+        {
+            "content": "wristband"
+        }
+    ],
+    "Trophy": [
+        {
+            "content": "trophee"
+        },
+        {
+            "content": "trophy"
+        },
+        {
+            "content": [
+                "glass",
+                "trophy"
+            ]
+        }
+    ]
+}

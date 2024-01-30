@@ -1,0 +1,864 @@
+{
+    "Boxes with window": {
+        "filter_words": [
+					{
+				"content": "window"
+			},
+						{
+				"content": "window"
+			},
+						{
+				"content": "window"
+			},
+						{
+				"content": "window"
+			},
+			{
+				"content": "window"
+			},
+            {
+                "content": [
+                    "box",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "window",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "seethrough",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "display",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "clear",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "peekaboo",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "view",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "transparent",
+                    "lid",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "pvc",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "visible",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "showcase",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "presentation",
+                    "gift",
+                    "box",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "clear",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "windowed",
+                    "packaging",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "transparent",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "peekthrough",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "clear",
+                    "window",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "glass",
+                    "window"
+                ]
+            }
+        ]
+    },
+    "Cardboard gift boxes": {
+        "filter_words": [
+			{
+				"content":  ["cardboard", "box"]
+			},
+			{
+				"content": ["paperboard", "box"]
+			},
+					{
+				"content": "paperboard"
+			},
+			{
+				"content": "paperboard"
+			},
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "cardboard",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "rectangular",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "cardboard",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "jewelry",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "christmas",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "birthday",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "box",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "bulk",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "cardboard",
+                    "gift",
+                    "box",
+                    "wholesale"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "flat",
+                    "pack",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "cardboard",
+                    "gift",
+                    "box"
+                ]
+            }
+        ]
+    },
+    "Kraft boxes": {
+        "filter_words": [
+		{
+				"content" : "kraft"
+			},
+			{
+				"content" : "kraft"
+			},
+			{
+				"content" : "kraft"
+			},
+			{
+				"content" : "kraft"
+			},
+            {
+                "content": [
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "jewelry",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "paper",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "bakery",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "packaging",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "favor",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "cardboard",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "box",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "gable",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "pillow",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "window",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "kraft",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "kraft",
+                    "box",
+                    "shipping"
+                ]
+            }
+        ]
+    },
+    "Shubers": {
+        "filter_words": [
+            {
+                "content": [
+                    "paper",
+                    "sleeve"
+                ]
+            },
+            {
+                "content": [
+                    "paper",
+                    "sleeve"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "paper",
+                    "sleeve"
+                ]
+            },
+            {
+                "content": "shubers"
+            },
+            {
+                "content": [
+                    "shubers",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shuber",
+                    "theme",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "special",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shuber",
+                    "brand",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "luxury",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "customize",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "premium",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "holiday",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "birthday",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "anniversary",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "celebration",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "personalized",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "corporate",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "gourmet",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "chocolate",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "candy",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "sweet",
+                    "treat",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "gift",
+                    "box",
+                    "special",
+                    "occasion"
+                ]
+            },
+            {
+                "content": [
+                    "shuber",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "shubers",
+                    "gift",
+                    "boxes",
+                    "kid"
+                ]
+            }
+        ]
+    },
+    "Tape boxes": {
+        "filter_words": [
+					{
+				"content": "ribbon"
+			},
+						{
+				"content": "ribbon"
+			},
+						{
+				"content": "ribbon"
+			},
+						{
+				"content": "ribbon"
+			},
+						{
+				"content": "ribbon"
+			},
+			
+			{
+				"content": "ribbon"
+			},
+            {
+                "content": [
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "adhesive",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "package",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "tape",
+                    "dispenser",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "washi",
+                    "tape",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "seal",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "tape"
+                ]
+            },
+            {
+                "content": [
+                    "tapetheme",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "box",
+                    "sealing",
+                    "tape"
+                ]
+            },
+            {
+                "content": [
+                    "tape",
+                    "roll",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "duct",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "craft",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "tape",
+                    "roll"
+                ]
+            },
+            {
+                "content": [
+                    "tape",
+                    "storage",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "tape",
+                    "closure"
+                ]
+            },
+            {
+                "content": [
+                    "tape",
+                    "collection",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "mask",
+                    "tape",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "scotch",
+                    "tape",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "tape",
+                    "box",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "gift",
+                    "box",
+                    "tape",
+                    "dispenser"
+                ]
+            }
+        ]
+    }
+}

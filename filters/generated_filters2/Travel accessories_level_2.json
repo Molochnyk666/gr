@@ -1,0 +1,736 @@
+{
+    "Compasses": {
+        "filter_words": [
+            {
+                "content": "compass"
+            },
+            {
+                "content": [
+                    "navigation",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "military",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "survival",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "orienteering",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "marine",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "compass",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "compass",
+                    "map",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "compass",
+                    "led",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "multifunction",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "compass",
+                    "clinometer"
+                ]
+            },
+            {
+                "content": [
+                    "compass",
+                    "mirror"
+                ]
+            },
+            {
+                "content": [
+                    "brass",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "compass",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "compass",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "compass",
+                    "necklace"
+                ]
+            },
+            {
+                "content": [
+                    "compass",
+                    "carabiner"
+                ]
+            },
+            {
+                "content": [
+                    "compass",
+                    "thermometer",
+                    "combo"
+                ]
+            }
+        ]
+    },
+    "Flasks": {
+        "filter_words": [
+			{
+				"content":["travel", "bottle"]
+			},
+            {
+                "content": "flask"
+            },
+            {
+                "content": [
+                    "travel",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "vacuum",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "leakproof",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "travel",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "hot",
+                    "drink"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "cold",
+                    "drink"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "cup"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "straw"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "backpacking"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "road",
+                    "trip"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "picnic"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "beach",
+                    "trip"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "winter",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "summer",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "coffee"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "tea"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "soup"
+                ]
+            },
+            {
+                "content": [
+                    "flask",
+                    "water"
+                ]
+            }
+        ]
+    },
+    "Sleeping bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "sleep",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "camp",
+                    "sleep",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "hike",
+                    "sleep",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "single",
+                    "sleep",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "winter",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "summer",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "season",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "mummy",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "rectangular",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "sleep",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "adult",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "bag",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "bag",
+                    "backpacking"
+                ]
+            },
+            {
+                "content": [
+                    "ultralight",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "bag",
+                    "cold",
+                    "weather"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "sleeping",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Tents": {
+        "filter_words": [
+            {
+                "content": "tent"
+            },
+            {
+                "content": [
+                    "camping",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "backpacking",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "family",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "popup",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "dome",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "ultralight",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "4season",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "2person",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "instant",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "survival",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "canopy",
+                    "tent"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "poles"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "stake"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "footprint"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "repair",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "tarp"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "rainfly"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "heater"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "air",
+                    "conditioner"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "hammock"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "mattress"
+                ]
+            },
+            {
+                "content": [
+                    "tent",
+                    "pegs"
+                ]
+            }
+        ]
+    }
+}

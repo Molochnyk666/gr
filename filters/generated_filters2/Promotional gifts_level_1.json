@@ -1,0 +1,1853 @@
+{
+    "Anti-stress": {
+        "filter_words": [
+			{
+                "content": "antistress"
+            },
+            {
+                "content": [
+                    "anti",
+                    "-",
+                    "stress"
+                ]
+            },
+            {
+                "content": [
+                    "stress",
+                    "relief",
+                    "promotional",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "antistress",
+                    "promotional",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "stress",
+                    "ball",
+                    "promotional",
+                    "item"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "fidget",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "stress",
+                    "reliever"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "anxiety",
+                    "relief",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "branded",
+                    "stress",
+                    "relief",
+                    "item"
+                ]
+            },
+            {
+                "content": [
+                    "antistress",
+                    "corporate",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "relaxation",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "customized",
+                    "stress",
+                    "relief",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "mental",
+                    "health",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "antistress",
+                    "promotional",
+                    "merchandise"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "stress",
+                    "management",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "antistress",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "wellness",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "antistress",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "mindfulness",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "stressreduce",
+                    "promotional",
+                    "item"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "calming",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "relaxation",
+                    "product"
+                ]
+            }
+        ]
+    },
+    "Awards": {
+        "filter_words": [
+		{"content": "trophée"},
+		{"content": ["roundglass", "trophée"]},
+						{
+				"content": "stele"
+			},
+			{
+				"content": ["glory", "stele"]
+			},
+			{
+                "content": "trophy"
+            },
+            {
+                "content": "award"
+            },
+            {
+                "content": [
+                    "custom",
+                    "awards"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "trophy"
+                ]
+            },
+            {
+                "content": [
+                    "engraved",
+                    "medal"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "plaque"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "award"
+                ]
+            },
+            {
+                "content": [
+                    "recognition",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "award",
+                    "certificate"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "prize"
+                ]
+            },
+            {
+                "content": [
+                    "customized",
+                    "ribbon"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "award",
+                    "pin"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "achievement",
+                    "awards"
+                ]
+            },
+            {
+                "content": [
+                    "employee",
+                    "recognition",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "glass",
+                    "awards"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "crystal",
+                    "trophy"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "award",
+                    "statuette"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "award",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "winner",
+                    "medallion"
+                ]
+            },
+            {
+                "content": [
+                    "customized",
+                    "award",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "recognition",
+                    "badge"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "award",
+                    "accessory"
+                ]
+            }
+        ]
+    },
+    "Keychains": {
+        "filter_words": [
+						            {
+                "content": ["key","ring"]
+            },
+				            {
+                "content": "keyre"
+            },
+		            {
+                "content": "keyring"
+            },
+            {
+                "content": "keychain"
+            },
+            {
+                "content": [
+                    "promotional",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "logo",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "advertising",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "marketing",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "giveaway"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "freebie"
+                ]
+            },
+            {
+                "content": [
+                    "event",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "trade",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "company",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "swag"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "merchandise"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "product",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "promo"
+                ]
+            },
+            {
+                "content": [
+                    "bulk",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "promotional",
+                    "item"
+                ]
+            },
+            {
+                "content": [
+                    "customized",
+                    "keychain",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "branding"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "keyring"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "charm"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "charm",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "genuine",
+                    "leather",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "tassel",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "leather",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "leather",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "animal",
+                    "charm",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "leather",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "heart",
+                    "charm",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "key",
+                    "fob"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "key",
+                    "ring"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "key",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "leather",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "car",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "leather",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "keychain",
+                    "charm"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "keychain",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "leather",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "emboss",
+                    "leather",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "keychain",
+                    "gift"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Keychains_level_2.json"
+    },
+    "Lanyards": {
+        "filter_words": [
+            {
+                "content": "lanyard"
+            },
+            {
+                "content": [
+                    "custom",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "logo",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "event",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "trade",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "conference",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "company",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "marketing",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "advertising",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "id",
+                    "badge",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "lanyard"
+                ]
+            },
+            {
+                "content": [
+                    "lanyard",
+                    "promotional",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "lanyard",
+                    "giveaway"
+                ]
+            },
+            {
+                "content": [
+                    "lanyard",
+                    "swag"
+                ]
+            },
+            {
+                "content": [
+                    "lanyard",
+                    "merchandise"
+                ]
+            },
+            {
+                "content": [
+                    "lanyard",
+                    "gift"
+                ]
+            }
+        ]
+    },
+    "Magnets": {
+        "filter_words": [
+            {
+                "content": "magnet",
+				"anti_word":"antistress"
+            },
+            {
+                "content": [
+                    "promotional",
+                    "magnet",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "magnet",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "magnet",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "logo",
+                    "magnet",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "magnet"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "magnet",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "magnet",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "advertising",
+                    "magnet"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "fridge",
+                    "magnet"
+                ]
+            },
+            {
+                "content": [
+                    "magnetic",
+                    "promotional",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "customized",
+                    "magnetic",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "magnetic",
+                    "badge"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "magnetic",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "magnetic",
+                    "bookmark"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "magnetic",
+                    "picture",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "magnetic",
+                    "business",
+                    "card"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "magnetic",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "magnetic",
+                    "puzzle"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "magnetic",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "magnetic",
+                    "notepad"
+                ]
+            }
+        ]
+    },
+    "pin tags": {
+        "filter_words": [
+            {
+                "content": [
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "badge",
+                    "pin"
+                ]
+            },
+            {
+                "content": [
+                    "logo",
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "lapel",
+                    "pin"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "enamel",
+                    "pin"
+                ]
+            },
+            {
+                "content": [
+                    "marketing",
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "company",
+                    "brand",
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "customized",
+                    "badge",
+                    "pin"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "pin",
+                    "badge"
+                ]
+            },
+            {
+                "content": [
+                    "advertising",
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "event",
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "trade",
+                    "pin",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "metal",
+                    "pin"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "button",
+                    "pin"
+                ]
+            }
+        ]
+    },
+    "Postcard": {
+        "filter_words": [
+            {
+                "content": "postcard"
+            },
+            {
+                "content": [
+                    "promotional",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "marketing",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "advertising",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "logo",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "card",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "postcard",
+                    "giveaway"
+                ]
+            },
+            {
+                "content": [
+                    "event",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "trade",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "direct",
+                    "mail",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "print",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "postcard",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "stationery"
+                ]
+            },
+            {
+                "content": [
+                    "bulk",
+                    "postcard"
+                ]
+            },
+            {
+                "content": [
+                    "customizable",
+                    "postcard",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "postcard",
+                    "swag"
+                ]
+            }
+        ]
+    },
+    "Silicone bracelets": {
+        "filter_words": [
+            {
+                "content": [
+                    "silicone",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "silicone",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "silicone",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "silicone",
+                    "band"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "bracelet",
+                    "advertising"
+                ]
+            },
+            {
+                "content": [
+                    "logo",
+                    "print",
+                    "silicone",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "silicone",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "event",
+                    "silicone",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "bracelet",
+                    "giveaway"
+                ]
+            },
+            {
+                "content": [
+                    "bulk",
+                    "order",
+                    "silicone",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "silicone",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "silicone",
+                    "band"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "bracelet",
+                    "marketing"
+                ]
+            },
+            {
+                "content": [
+                    "trade",
+                    "silicone",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "fundraise",
+                    "silicone",
+                    "bracelet"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "bracelet",
+                    "company",
+                    "logo"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "rubber",
+                    "wristband"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "bracelet",
+                    "brand",
+                    "promotion"
+                ]
+            },
+            {
+                "content": [
+                    "customized",
+                    "silicone",
+                    "band",
+                    "event"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "bracelet",
+                    "corporate",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "event",
+                    "silicone",
+                    "bracelet"
+                ]
+            }
+        ]
+    },
+    "Torches": {
+        "filter_words": [
+			{
+				"content": "led"
+			},
+			{
+				"content": ["led", "light"]
+			},
+            {
+                "content": "torch"
+            },
+            {
+                "content": [
+                    "promotional",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "customized",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "logo",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "flashlight"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "flashlight"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "flashlight"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "camping",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "outdoor",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "torch",
+                    "keychain"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "mini",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "rechargeable",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "solar",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "torch",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "torch",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "torch",
+                    "pen"
+                ]
+            },
+            {
+                "content": "headlamp"
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "running",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "battery",
+                    "operate",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "lumen",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "tactical",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "red",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "night",
+                    "vision"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "adjustable",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "fishing"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "hunting"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "reading"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "cycling"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "climb"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "caving"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "mining"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "mechanic"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "emergency"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "multiple",
+                    "mode"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "zoom",
+                    "function"
+                ]
+            },
+            {
+                "content": [
+                    "headlamp",
+                    "motion",
+                    "sensor"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "rechargeable",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "solar",
+                    "powered",
+                    "headlamp"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "flashlight"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "lumen",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "tactical",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "power",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "handheld",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "head",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "lantern",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "spotlight",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "torch",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "ultra",
+                    "bright",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "emergency",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "diving",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "military",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "torch",
+                    "bulb"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "torch",
+                    "battery"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "led",
+                    "torch"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "torch",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "solar",
+                    "led",
+                    "torch"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Torches_level_2.json"
+    }
+}

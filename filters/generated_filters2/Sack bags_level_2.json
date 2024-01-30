@@ -1,0 +1,327 @@
+{
+    "Baggy backpacks": {
+        "filter_words": [
+            {
+                "content": [
+                    "baggy",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "sack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "slouchy",
+                    "sack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "roomy",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "spacious",
+                    "sack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "big",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "loose",
+                    "sack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "voluminous",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "extra",
+                    "large",
+                    "sack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "expansive",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "bulky",
+                    "sack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "capacious",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "generous",
+                    "sized",
+                    "sack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "gigantic",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "unstructured",
+                    "sack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ample",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "enormous",
+                    "sack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "wide",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "lax",
+                    "sack",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Drawstring bags": {
+        "filter_words": [
+						{
+					"content": "drawstre"
+				},
+					{
+				"content":["drawstre", "bag"]
+				},
+            {
+                "content": [
+                    "drawstring",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "sack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "pull",
+                    "string",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cinch",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "sack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "canvas",
+                    "drawstring",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "nylon",
+                    "drawstring",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "sack",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "pouch",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "tote",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "storage",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "laundry",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "shoe",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "drawstring",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "gift",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "beach",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "duffle",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "bag",
+                    "logo"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "drawstring",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "drawstring",
+                    "bag",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "drawstring",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "drawstring",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "drawstring",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "drawstring",
+                    "bag"
+                ]
+            }
+        ]
+    }
+}

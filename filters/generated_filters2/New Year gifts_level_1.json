@@ -1,0 +1,2377 @@
+{
+    "Christmas decorations": {
+        "filter_words": [
+			{
+				"content": ["paper","christmas"]
+			},
+			{
+				"content": ["paper", "xmas"]
+			},
+			{
+				"content": ["paper", "xmas", "ornament"]
+			},
+			{
+				"content" : ["xmas", "decoration"]
+			},
+		   {
+                "content": [
+                    "new",
+                    "year",
+                    "decoration"
+                ]
+            },
+			{
+				"content": ["christmas", "stocking"]
+			},
+			{
+				"content": ["logger", "suspension"]
+			},
+			{
+				"content": ["desk", "decoration"]
+			},
+			{
+				"content": ["decorate", "house"]
+			},
+            {
+                "content": [
+                    "christmas",
+                    "hanger"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "decoration"
+                ],
+				"anti_word": "tree"
+            },
+            {
+                "content": [
+                    "christmastheme",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "christmas",
+                    "decoration"
+                ],
+				"anti_word": "tree"
+            },
+            {
+                "content": [
+                    "christmas",
+                    "ornament",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "decor",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "light",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "christmas",
+                    "wreath"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "bauble",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "christmas",
+                    "motif"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "stocking",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "holiday",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "garland",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "christmas",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "christmasthemed",
+                    "party",
+                    "supply",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "christmas",
+                    "theme"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "candle",
+                    "holder",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "christmas",
+                    "table",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "wall",
+                    "decor",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "christmasthemed",
+                    "gift",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Christmas garlands": {
+        "filter_words": [
+				{"content": "garland"},
+		{"content": "garland"},
+		{"content": "garland"},
+		{"content": "garland"},
+		{"content": "garland"},
+            {
+                "content": [
+                    "christmas",
+                    "garland"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "garland",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "garland",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "garland",
+                    "new",
+                    "year",
+                    "presents"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "christmas",
+                    "garland",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "christmas",
+                    "garland"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "theme",
+                    "garland",
+                    "gift",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "celebration",
+                    "christmas",
+                    "garland",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "garland",
+                    "inspire",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "feature",
+                    "christmas",
+                    "garland"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "garland",
+                    "decorative",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "presents",
+                    "christmas",
+                    "garland",
+                    "theme"
+                ]
+            },
+            {
+                "content": [
+                    "garland",
+                    "style",
+                    "new",
+                    "year",
+                    "christmas",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "garland",
+                    "ornament",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "gift",
+                    "christmas",
+                    "garland"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "garland",
+                    "accessory",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "idea",
+                    "christmas",
+                    "garland"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "new",
+                    "year",
+                    "gift",
+                    "christmas",
+                    "garland",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "garland",
+                    "theme",
+                    "new",
+                    "year",
+                    "present"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "christmas",
+                    "garland",
+                    "style"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "garland",
+                    "decor",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            }
+        ]
+    },
+    "Christmas tree balls": {
+        "filter_words": [
+		{"content": ["christmas", "ornament"]},
+		    {
+                "content": [
+                    "christmas",
+                    "tree",
+                    "decoration"
+                ]
+            },
+		    {
+                "content": [
+                    "tree",
+                    "decoration"
+                ]
+            },
+			{
+				"content": ["christmas", "tree", "decoration"]
+			},
+			{
+				"content":  ["tree", "toy"]
+			},
+			{
+				"content" : ["christmas", "tree", "ornament"]
+			},
+            {
+                "content": [
+                    "christmas",
+                    "ball"
+                ],
+				"anti_word":[["attractive", "candle"]]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "tree",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "bauble"
+                ]
+            },
+            {
+                "content": [
+                    "xmas",
+                    "tree",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "tree",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "tree",
+                    "ornament"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "tree",
+                    "ball",
+                    "ornament"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "baubles"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "xmas",
+                    "tree",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "christmas",
+                    "ornament"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "tree",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "christmas",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "tree",
+                    "hanging",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "bauble"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "tree",
+                    "sphere",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "tree",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "xmas",
+                    "baubles"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "baubles"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "tree",
+                    "adornment"
+                ]
+            }
+        ]
+    },
+    "Corporate gifts for New Year": {
+        "filter_words": [
+            {
+                "content": [
+                    "corporate",
+                    "gift",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "holiday",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "client"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "employee"
+                ]
+            },
+            {
+                "content": [
+                    "customized",
+                    "corporate",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "corporate",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "brand",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "gift",
+                    "basket",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "business",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "new",
+                    "year",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "highend",
+                    "corporate",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "new",
+                    "year",
+                    "gift",
+                    "idea"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "corporate",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "corporate",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "corporate",
+                    "new",
+                    "year",
+                    "gift",
+                    "executive"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "company",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            }
+        ]
+    },
+    "New Year calendars": {
+        "filter_words": [
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "calendar"
+                ],
+				"anti_word" : "decanter"
+            },
+            {
+                "content": "calendar",
+				"anti_word" : "decanter"
+            },
+            {
+                "content": [
+                    "wall",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "yearly",
+                    "planner"
+                ]
+            },
+            {
+                "content": [
+                    "calendar",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "photo",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "new",
+                    "year",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "calendar",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "inspirational",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "theme",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "family",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "countdown",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "resolution",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "calendar",
+                    "poster"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "calendar",
+                    "magnet"
+                ]
+            }
+        ]
+    },
+    "New Year candles": {
+        "filter_words": [
+			{"content": "candle"},
+			{"content": ["attractive", "candle"]},
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "candle",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "gift",
+                    "set",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "celebration",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "candle",
+                    "new",
+                    "year"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "theme",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "countdown",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "party",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "candle",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "candlelight"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "candle",
+                    "arrangement"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "candle",
+                    "centerpiece"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "candle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "sparkle",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "flameless",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "wax",
+                    "candle"
+                ]
+            }
+        ]
+    },
+    "New Year dishes": {
+        "filter_words": [
+					{
+				"content": "sweatshirt"
+			},
+			{
+				"content": ["t","shirt"]
+			},
+			{
+				"content": "cup"
+			},
+			{
+				"content": "bottle"
+			},
+			{
+				"content": "tray"
+			},
+			{
+				"content": ["serve", "tray"]
+			},
+			{
+				"content": "mug"
+			},
+			{
+				"content": "plate"
+			},
+			{
+				"content": ["snack", "plate"]
+			},
+			{
+				"content": ["christmas", "snack", "plate"]
+			},
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "dish"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "dinnerware"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "cooking",
+                    "utensil"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "recipe",
+                    "book"
+                ]
+            },
+            {
+                "content": [
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "table",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "serving",
+                    "platter"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "snack"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "cookware",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "dinner",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "baking",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "cocktail",
+                    "mixer"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "spice",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "food",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "cutlery",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "dessert",
+                    "mold"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "wine",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "cheese",
+                    "board"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "napkin",
+                    "ring"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "tablecloth"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "cooking",
+                    "apron"
+                ]
+            }
+        ]
+    },
+    "New Year figurines": {
+        "filter_words": [
+		{"content": "figure"},
+		{"content": "figure"},
+		{"content": "figure"},
+		{"content": ["solar", "figure"]},
+		{"content": ["christmas", "tree", "pines"]},
+		{"content": ["christmas", "tree"],"anti_word":["ornament","ball"]},
+		{"content": ["artificial", "christmas", "tree"]},
+            {
+                "content": [
+                    "christmas",
+                    "gnome"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "figurines"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "ornament"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "miniature"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "sculpture"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "figurines"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "day",
+                    "figurines"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "celebration",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "theme",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "collectible",
+                    "figurines"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "decorative",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "ceramic",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "glass",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "resin",
+                    "figurines"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "crystal",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "party",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "decoration",
+                    "figurine"
+                ]
+            }
+        ]
+    },
+    "New Year flash drives": {
+        "filter_words": [
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "theme",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "usb",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "celebration",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "new",
+                    "year",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "flash",
+                    "drive",
+                    "new",
+                    "year",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "day",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "flash",
+                    "drive",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "memory",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "new",
+                    "year",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "countdown",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "flash",
+                    "drive",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "resolution",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "party",
+                    "usb",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "limited",
+                    "edition",
+                    "new",
+                    "year",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "flash",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "celebration",
+                    "usb",
+                    "stick"
+                ]
+            }
+        ]
+    },
+    "New Year Merch": {
+        "filter_words": [
+		{"content": ["key","ring"]},
+		{"content": "keyre"},
+		{"content": ["christmas", "keyring"]},
+		{"content": "stress"},
+		{"content": ["stress", "ball"]},
+		{"content": "case"},
+		{"content": ["christmas", "bag"]},
+		{"content":  "plush"},
+		{"content": ["christmas", "card"]},
+		{"content": "magnet"},
+		{"content": ["teddy", "bear"]},
+		{"content": ["mobile", "holder"]},
+		{"content": ["christmas", "pendant"]},
+		{"content": "pen"},
+		{"content": "blanket"},
+		{"content": "ruler"},
+		{"content": "beanie"},
+		{"content":"cloth"},
+		{
+			"content": "hat"
+		},
+		{
+			"content" : ["christmas", "sock"]
+		},
+		{
+			"content": ["ball", "pen"]
+		},
+		{
+			"content": "pencil"
+		},
+		{
+			"content": ["christmas", "scarf"]
+		},
+		{
+		"content" : "decanter"},
+			{
+				"content" : ["hat", "santa"]
+			},
+			{
+				"content" : "antistress"
+			},
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "merch"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "merchandise"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "celebration",
+                    "item"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "party",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "basket"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "theme",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "favor"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "countdown",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "celebration",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "balloon"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "confetti"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "champagne",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "countdown",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "gift",
+                    "idea"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "celebration",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "prop"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "game"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "invitation"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "New Year sets": {
+        "filter_words": [
+					{
+				"content": "set",
+				"anti_word": "ball"
+			},
+						{
+				"content": "set",
+				"anti_word": "ball"
+			},
+			{
+				"content": "set",
+				"anti_word": "ball"
+			},
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "celebration",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "party",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "decor",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "theme",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "festive",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "box",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift",
+                    "basket",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "countdown",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "champagne",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "fireworks",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "celebration",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "decoration",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "countdown",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "celebration",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "party",
+                    "favor",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "eve",
+                    "balloon",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "New Year VIP-gifts": {
+        "filter_words": [
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "vip",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "exclusive",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "exclusive",
+                    "vip",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "highend",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "new",
+                    "year",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "new",
+                    "year",
+                    "gift",
+                    "basket"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "new",
+                    "year",
+                    "gift",
+                    "idea"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "new",
+                    "year",
+                    "celebration",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "elite",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "upscale",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "new",
+                    "year",
+                    "party",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "new",
+                    "year",
+                    "eve",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "highquality",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "new",
+                    "year",
+                    "gift",
+                    "package"
+                ]
+            },
+            {
+                "content": [
+                    "exclusive",
+                    "new",
+                    "year",
+                    "gift",
+                    "hamper"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "new",
+                    "year",
+                    "gift",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "new",
+                    "year",
+                    "day",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "new",
+                    "year",
+                    "eve",
+                    "gift"
+                ]
+            }
+        ]
+    },
+    "Symbol of 2023": {
+        "filter_words": [
+            {
+                "content": "symbol"
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "year",
+                    "water",
+                    "rabbit",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "chinese",
+                    "zodiac",
+                    "rabbit",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "symbol",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "rabbit",
+                    "theme",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "water",
+                    "rabbit",
+                    "symbol",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "zodiac",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "chinese",
+                    "new",
+                    "year",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "rabbit",
+                    "symbol",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "year",
+                    "rabbit",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "rabbit",
+                    "theme",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "water",
+                    "rabbit",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "new",
+                    "year",
+                    "rabbit",
+                    "gift"
+                ]
+            },
+            {
+                "content": [
+                    "year",
+                    "rabbit",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "rabbit",
+                    "gift",
+                    "new",
+                    "year"
+                ]
+            }
+        ]
+    }
+}

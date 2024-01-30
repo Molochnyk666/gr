@@ -1,0 +1,2586 @@
+{
+    "Binoculars": {
+        "filter_words": [
+            {
+                "content": "binocular"
+            },
+            {
+                "content": [
+                    "travel",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "power",
+                    "binocular"
+                ]
+            },
+            {
+                "content": "telescope"
+            },
+            {
+                "content": [
+                    "night",
+                    "vision",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "watching",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "safari",
+                    "binoculars"
+                ]
+            },
+            {
+                "content": [
+                    "zoom",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "binocular",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "binocular",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "binoculars"
+                ]
+            },
+            {
+                "content": [
+                    "binocular",
+                    "compass"
+                ]
+            },
+            {
+                "content": [
+                    "hunting",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "marine",
+                    "binoculars"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "binocular",
+                    "camera"
+                ]
+            },
+            {
+                "content": [
+                    "military",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "astronomy",
+                    "binoculars"
+                ]
+            },
+            {
+                "content": [
+                    "binocular",
+                    "rangefinder"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "definition",
+                    "binocular"
+                ]
+            },
+            {
+                "content": [
+                    "binoculars",
+                    "sports",
+                    "events"
+                ]
+            }
+        ]
+    },
+    "Clothes covers": {
+        "filter_words": [
+            {
+                "content": [
+                    "clothe",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "garment",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "clothe",
+                    "cover",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "suit",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "dress",
+                    "cover",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "clothe",
+                    "protector"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "clothe",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "clothing",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "clothe",
+                    "cover",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "dustproof",
+                    "garment",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "clothe",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "suit",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "clothe",
+                    "cover",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "dress",
+                    "protector"
+                ]
+            },
+            {
+                "content": [
+                    "clothe",
+                    "cover",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "travel",
+                    "garment",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "clothe",
+                    "cover",
+                    "luggage"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "clothe",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "clothe",
+                    "cover",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "clothe",
+                    "cover",
+                    "packing"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "clothe",
+                    "cover",
+                    "travel"
+                ]
+            }
+        ]
+    },
+    "Code locks": {
+        "filter_words": [
+            {
+                "content": [
+                    "code",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "code",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "code",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "combination",
+                    "lock",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "tsa",
+                    "approve",
+                    "code",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "security",
+                    "code",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "suitcase",
+                    "code",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "code",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "bag",
+                    "code",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "code",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "safety",
+                    "code",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "code",
+                    "lock",
+                    "travel",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "code",
+                    "lock",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "padlock",
+                    "code"
+                ]
+            },
+            {
+                "content": [
+                    "code",
+                    "lock",
+                    "luggage",
+                    "security"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "gear",
+                    "code",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "code",
+                    "lock",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "travel",
+                    "code",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "combination",
+                    "padlock"
+                ]
+            },
+            {
+                "content": [
+                    "code",
+                    "lock",
+                    "backpacking"
+                ]
+            },
+            {
+                "content": [
+                    "secure",
+                    "travel",
+                    "code",
+                    "lock"
+                ]
+            }
+        ]
+    },
+    "Earplugs": {
+        "filter_words": [
+            {
+                "content": "earplug"
+            },
+            {
+                "content": [
+                    "travel",
+                    "earplug"
+                ]
+            },
+            {
+                "content": [
+                    "noise",
+                    "cancel",
+                    "earplug"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "earplug"
+                ]
+            },
+            {
+                "content": [
+                    "ear",
+                    "protection",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "flight",
+                    "earplug"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "earplug"
+                ]
+            },
+            {
+                "content": [
+                    "comfortable",
+                    "earplug",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "earplug",
+                    "airplane"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "fidelity",
+                    "earplug"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "earplug"
+                ]
+            },
+            {
+                "content": [
+                    "earplug",
+                    "sleep"
+                ]
+            },
+            {
+                "content": [
+                    "earplug",
+                    "noise",
+                    "reduction"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "accessory",
+                    "earplug"
+                ]
+            },
+            {
+                "content": [
+                    "earplug",
+                    "long",
+                    "flight"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "foam",
+                    "earplug"
+                ]
+            },
+            {
+                "content": [
+                    "earplug",
+                    "snoring"
+                ]
+            },
+            {
+                "content": [
+                    "pressure",
+                    "reduce",
+                    "earplug"
+                ]
+            },
+            {
+                "content": [
+                    "earplug",
+                    "travel",
+                    "comfort"
+                ]
+            },
+            {
+                "content": [
+                    "earplug",
+                    "backpacking"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "travel",
+                    "earplug"
+                ]
+            }
+        ]
+    },
+    "Fans": {
+        "filter_words": [
+            {
+                "content": "fan"
+            },
+            {
+                "content": [
+                    "portable",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "battery",
+                    "operate",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "handheld",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "personal",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "fan",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "fans"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "size",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "cooling",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "air",
+                    "conditioner",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "clipon",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "solar",
+                    "power",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "fan",
+                    "mist"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "fan",
+                    "power",
+                    "bank"
+                ]
+            }
+        ]
+    },
+    "Footwear,  shale and flip-flops.": {
+        "filter_words": [
+					{
+				"content": "clogs"
+			},{
+		"content":"sneaker"
+		},
+            {
+                "content": [
+                    "footwear",
+                    " ",
+                    "shale",
+                    "flip",
+                    "flop"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "footwear"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "trekking",
+                    "boot"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "comfortable",
+                    "travel",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "travel",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "sandal"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "flipflop"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "flipflop"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "footwear"
+                ]
+            },
+            {
+                "content": [
+                    "walking",
+                    "shoe",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "shoe",
+                    "man",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "slipresistant",
+                    "travel",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "breathable",
+                    "travel",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "shale",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "travel",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "slipper"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "shoe",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "flipflop",
+                    "backpacking"
+                ]
+            },
+            {
+                "content": [
+                    "travelfriendly",
+                    "footwear"
+                ]
+            }
+        ]
+    },
+    "Inflatable cushions": {
+        "filter_words": [
+            {
+                "content": [
+                    "inflatable",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "travel",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "air",
+                    "cushion",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "air",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "neck",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "inflatable",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "inflatable",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "size",
+                    "inflatable",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "seat",
+                    "cushion",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "backrest",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "lumbar",
+                    "support",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "travel",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "ergonomic",
+                    "inflatable",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "inflatable",
+                    "travel",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "footrest",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "travel",
+                    "comfort",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "travel",
+                    "rest",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "travel",
+                    "sleep",
+                    "aid"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "travel",
+                    "bedding"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "travel",
+                    "support",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "inflatable",
+                    "travel",
+                    "relaxation",
+                    "product"
+                ]
+            }
+        ]
+    },
+    "Luggage scales": {
+        "filter_words": [
+            {
+                "content": [
+                    "luggage",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "luggage",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "handheld",
+                    "luggage",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "suitcase",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "baggage",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "weight",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "luggage",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "luggage",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "electronic",
+                    "luggage",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "weigh",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "precision",
+                    "luggage",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "luggage",
+                    "scale"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "measurement",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "weight",
+                    "checker"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "weight",
+                    "scale"
+                ]
+            }
+        ]
+    },
+    "Luggage straps": {
+        "filter_words": [
+            {
+                "content": [
+                    "luggage",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "bag",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "suitcase",
+                    "belt"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "luggage",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "cross",
+                    "luggage",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "tsa",
+                    "approve",
+                    "luggage",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "strap",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "luggage",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "bungee",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "strap",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "elastic",
+                    "luggage",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "strap",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "colorful",
+                    "luggage",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "strap",
+                    "buckle"
+                ]
+            },
+            {
+                "content": [
+                    "nonslip",
+                    "luggage",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "luggage",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "strap",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "luggage",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "strap",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "strap",
+                    "handle"
+                ]
+            }
+        ]
+    },
+    "Luggage tags": {
+        "filter_words": [
+            {
+                "content": [
+                    "luggage",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "baggage",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "suitcase",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "luggage",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "luggage",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "luggage",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "identification",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "luggage",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "luggage",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "tag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cute",
+                    "luggage",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "funny",
+                    "luggage",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "luggage",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "bag",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "label",
+                    "tag"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "tag",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "tag",
+                    "strap"
+                ]
+            }
+        ]
+    },
+    "Passport covers": {
+        "filter_words": [
+            {
+                "content": [
+                    "passport",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "passport",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "passport",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "passport",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "passport",
+                    "wallet"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "block",
+                    "passport",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "passport",
+                    "covers"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "passport",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "passport",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "passport",
+                    "protectors"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "passport",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "passport",
+                    "sleeves"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "document",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "passport",
+                    "cover",
+                    "card",
+                    "slot"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "passport",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "passport",
+                    "holder",
+                    "man",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "vegan",
+                    "leather",
+                    "passport",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "passport",
+                    "cover",
+                    "zipper"
+                ]
+            },
+            {
+                "content": [
+                    "embroider",
+                    "passport",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "passport",
+                    "cover",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Pocket fans": {
+        "filter_words": [
+            {
+                "content": [
+                    "pocket",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "fans"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "handheld",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "battery",
+                    "operate",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "travel",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "personal",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "size",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "handheld",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "cooling",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "electric",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "size",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "air",
+                    "conditioner"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "pocket",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "hand",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "cooling",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "pocket",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "portable",
+                    "fan"
+                ]
+            },
+            {
+                "content": [
+                    "handheld",
+                    "electric",
+                    "fan"
+                ]
+            }
+        ]
+    },
+    "Sleep masks": {
+        "filter_words": [
+            {
+                "content": [
+                    "sleep",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "sleep",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "eye",
+                    "mask",
+                    "sleep"
+                ]
+            },
+            {
+                "content": [
+                    "comfortable",
+                    "sleep",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "eye",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "sleep",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "long",
+                    "flight"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "ear",
+                    "plug"
+                ]
+            },
+            {
+                "content": [
+                    "contour",
+                    "sleep",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "sleep",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "man",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "silk",
+                    "sleep",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "memory",
+                    "foam",
+                    "sleep",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "insomnia"
+                ]
+            },
+            {
+                "content": [
+                    "noise",
+                    "cancel",
+                    "sleep",
+                    "mask"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "light",
+                    "sleeper"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "night",
+                    "shift",
+                    "worker"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "jet",
+                    "lag"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "camping"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "backpacking"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "road",
+                    "trip"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "train",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "sleep",
+                    "mask",
+                    "airplane",
+                    "travel"
+                ]
+            }
+        ]
+    },
+    "Travel kits": {
+        "filter_words": [
+		    {
+                "content": [
+                    "travel",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "travel",
+                    "essential"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "travel",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "size",
+                    "toiletry"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "travel",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "hygiene",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "convenience",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "survival",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "aid",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "grooming",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "cosmetic",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "packing",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "comfort",
+                    "kits"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "health",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "safety",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "skincare",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "shaving",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "dental",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "sleep",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "emergency",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "makeup",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "utility",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "essential",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "personal",
+                    "care",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "refreshment",
+                    "kit"
+                ]
+            }
+        ]
+    },
+    "Travel mugs": {
+        "filter_words": [
+            {
+                "content": [
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "coffee",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "leak",
+                    "proof",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "tea",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "mug",
+                    "lid"
+                ]
+            },
+            {
+                "content": [
+                    "vacuum",
+                    "insulate",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "bpa",
+                    "free",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "dishwasher",
+                    "safe",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "mug",
+                    "hot",
+                    "drink"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "mug",
+                    "cold",
+                    "drink"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "mug",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "nonslip",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "easy",
+                    "clean",
+                    "travel",
+                    "mug"
+                ]
+            }
+        ]
+    },
+    "Warmers": {
+        "filter_words": [
+		{"content":["heating", "pad"]},
+            {
+                "content": "warmer"
+            },
+            {
+                "content": [
+                    "hand",
+                    "warmer"
+                ]
+            },
+            {
+                "content": [
+                    "foot",
+                    "warmer"
+                ]
+            },
+            {
+                "content": [
+                    "body",
+                    "warmer"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "travel",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "glove"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "sock"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "clothing"
+                ]
+            },
+            {
+                "content": [
+                    "insulated",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "heater"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "car",
+                    "seat",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "heated",
+                    "travel",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "underwear"
+                ]
+            },
+            {
+                "content": [
+                    "heated",
+                    "jacket"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "sleeping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "travel",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "travel",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "insulated",
+                    "travel",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "travel",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "travel",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "warmer"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "warmer"
+                ]
+            },
+            {
+                "content": [
+                    "insulated",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "heat",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "travel",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "travel",
+                    "pack"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,820 @@
+{
+    "Organiser bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "packing",
+                    "cube"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "storage",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "accessory",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "bag",
+                    "organiser",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "toiletry",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "cosmetic",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "electronic",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "shoe",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "laundry",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "underwear",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "document",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "travel",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "travel",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "travel",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "travel",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "hang",
+                    "travel",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "multipocket",
+                    "travel",
+                    "organiser",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "travel",
+                    "organiser",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Portlets": {
+        "filter_words": [
+            {
+                "content": "portlet"
+            },
+            {
+                "content": [
+                    "portlet",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "bag",
+                    "portlet"
+                ]
+            },
+            {
+                "content": [
+                    "luggage",
+                    "portlet"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "carryon",
+                    "bags"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "backpacks"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "gear",
+                    "portlet"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "duffel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "hand",
+                    "luggage"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "rolling",
+                    "suitcases"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "travel",
+                    "tote"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "weekender",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "overnight",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "travel",
+                    "satchels"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "travel",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "luggage",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "travel",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "travel",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "portlet",
+                    "travel",
+                    "bag",
+                    "organizer"
+                ]
+            }
+        ]
+    },
+    "Suitcases": {
+        "filter_words": [
+            {
+                "content": "suitcase"
+            },
+            {
+                "content": "luggage"
+            },
+            {
+                "content": [
+                    "travel",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "hardshell",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "softshell",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "rolling",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "spinner",
+                    "suitcases"
+                ]
+            },
+            {
+                "content": [
+                    "carryon",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "check",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "expandable",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "hardside",
+                    "luggage"
+                ]
+            },
+            {
+                "content": [
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "wheeled",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "medium",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "suitcase",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "luggage"
+                ]
+            },
+            {
+                "content": [
+                    "cabin",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "suitcase",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "suitcase",
+                    "compartment"
+                ]
+            },
+            {
+                "content": [
+                    "suitcase",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "suitcase",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "suitcase",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "suitcase",
+                    "international",
+                    "travel"
+                ]
+            },
+            {
+                "content": [
+                    "suitcase",
+                    "business",
+                    "travel"
+                ]
+            }
+        ]
+    },
+    "Water-repellent bags": {
+        "filter_words": [
+			{"content": "waterproof"},
+            {
+                "content": [
+                    "water",
+                    "repellent",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterresistant",
+                    "luggage"
+                ]
+            },
+            {
+                "content": [
+                    "rainproof",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "waterrepellent",
+                    "duffle",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "weatherproof",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterresistant",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "hiking",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "waterrepellent",
+                    "carryon",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "travel",
+                    "tote"
+                ]
+            },
+            {
+                "content": [
+                    "waterresistant",
+                    "travel",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "weatherresistant",
+                    "luggage",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "camping",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterrepellent",
+                    "travel",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "waterresistant",
+                    "travel",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "luggage",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterrepellent",
+                    "travel",
+                    "pack"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "outdoor",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "waterresistant",
+                    "travel",
+                    "satchel"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "adventure",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterrepellent",
+                    "travel",
+                    "products"
+                ]
+            }
+        ]
+    },
+    "Wheelie bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "wheelie",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "wheelie",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "rolling",
+                    "luggage"
+                ]
+            },
+            {
+                "content": [
+                    "wheel",
+                    "duffle",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "trolley",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "spinner",
+                    "luggage"
+                ]
+            },
+            {
+                "content": [
+                    "wheeled",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "roll",
+                    "suitcase"
+                ]
+            },
+            {
+                "content": [
+                    "carryon",
+                    "wheel"
+                ]
+            },
+            {
+                "content": [
+                    "rolling",
+                    "briefcase"
+                ]
+            },
+            {
+                "content": [
+                    "4wheel",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "2wheel",
+                    "travel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "wheelie",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "shell",
+                    "wheelie",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "shell",
+                    "wheelie",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "wheelie",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "wheelie",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "expandable",
+                    "wheelie",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "rolling",
+                    "luggage"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "wheelie",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "wheelie",
+                    "bags"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "wheelie",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "adventure",
+                    "wheelie",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "wheelie",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "wheelie",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "budget",
+                    "wheelie",
+                    "bag"
+                ]
+            }
+        ]
+    }
+}

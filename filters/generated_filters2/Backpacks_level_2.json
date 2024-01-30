@@ -1,0 +1,2319 @@
+{
+    "Baby backpacks": {
+        "filter_words": [
+            {
+                "content": [
+                    "baby",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "diaper",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "carrier",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "hiking",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "changing",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "baby",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "bottle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "mom"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "dad"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "stroller",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "baby",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "multiple",
+                    "compartment"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "toy",
+                    "loop"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "wipe",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "laptop",
+                    "compartment"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "usb",
+                    "charging",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "safety",
+                    "harness"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "detachable",
+                    "cool",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "adjustable",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "breathable",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "easy",
+                    "access",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "pacifier",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "insulated",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "backpack",
+                    "large",
+                    "capacity"
+                ]
+            }
+        ]
+    },
+    "Backpacks made of eco-friendly materials": {
+        "filter_words": [
+					{
+				"content": ["recycle","backpack"]
+			},
+			{
+				"content": "recycle"
+			},
+			{
+				"content":"rpet"
+			},
+						{
+				"content":"rpet"
+			},
+						{
+				"content":"rpet"
+			},
+						{
+				"content":"rpet"
+			},
+						{
+				"content":"rpet"
+			},
+			{
+				"content":"rpet"
+			},
+			{
+				"content":"rpet"
+			},
+            {
+                "content": [
+                    "backpack",
+                    "eco",
+                    "-",
+                    "friendly",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "sustainable",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "green",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "recycle",
+                    "material",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "biodegradable",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "material",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "environmentally",
+                    "friendly",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "fiber",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "vegan",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "ethical",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "waste",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "hemp",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "cork",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "recyclable",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "plantbased",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "fair",
+                    "trade",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "nontoxic",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "plasticfree",
+                    "backpack"
+                ]
+            }
+        ]
+    },
+    "Backpacks on wheels": {
+        "filter_words": [
+            {
+                "content": [
+                    "backpack",
+                    "wheel"
+                ]
+            },
+            {
+                "content": [
+                    "rolling",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "wheeled",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "roller"
+                ]
+            },
+            {
+                "content": [
+                    "trolley",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "roller",
+                    "bag",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "wheeled",
+                    "rucksack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "wheel",
+                    "trolley"
+                ]
+            },
+            {
+                "content": [
+                    "roll",
+                    "luggage",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "backpack",
+                    "wheel"
+                ]
+            },
+            {
+                "content": [
+                    "wheeled",
+                    "school",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "retractable",
+                    "wheel"
+                ]
+            },
+            {
+                "content": [
+                    "roll",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "wheel",
+                    "hiking",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "spinner",
+                    "backpacks"
+                ]
+            },
+            {
+                "content": [
+                    "mobile",
+                    "office",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "carryon",
+                    "backpack",
+                    "wheel"
+                ]
+            },
+            {
+                "content": [
+                    "wheeled",
+                    "duffle",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "convertible",
+                    "roll",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "telescoping",
+                    "handle"
+                ]
+            }
+        ]
+    },
+    "Backpacks with anti-vore function": {
+        "filter_words": [
+            {
+                "content": [
+                    "backpack",
+                    "anti",
+                    "-",
+                    "vore",
+                    "function"
+                ]
+            },
+            {
+                "content": [
+                    "antitheft",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "secure",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "lockable",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "antivore",
+                    "function"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "antipickpocket",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "hide",
+                    "compartment"
+                ]
+            },
+            {
+                "content": [
+                    "slashproof",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "rfid",
+                    "block",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "tamperproof",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "security",
+                    "feature"
+                ]
+            },
+            {
+                "content": [
+                    "highsecurity",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "antivore",
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "antivore",
+                    "technology"
+                ]
+            },
+            {
+                "content": [
+                    "theftresistant",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "lockable",
+                    "zipper"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "antitheft",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "antivore",
+                    "school",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "protective",
+                    "layer"
+                ]
+            },
+            {
+                "content": [
+                    "antivore",
+                    "outdoor",
+                    "backpack"
+                ]
+            }
+        ]
+    },
+    "Backpacks with USB connection": {
+        "filter_words": [
+            {
+                "content": [
+                    "backpack",
+                    "usb",
+                    "connection"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "charging",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "usb",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "tech",
+                    "backpack",
+                    "usb"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "backpack",
+                    "usb",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "backpack",
+                    "usb",
+                    "charging",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "backpack",
+                    "usb"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "connect",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "builtin",
+                    "usb",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "interface",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "external",
+                    "usb",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "plugin",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "usb",
+                    "charging",
+                    "interface"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "compatible",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "backpack",
+                    "usb",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "backpack",
+                    "usb",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "antitheft",
+                    "backpack",
+                    "usb",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "integrated",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "usb",
+                    "charging",
+                    "slot"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "enable",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "usb",
+                    "charging",
+                    "feature"
+                ]
+            }
+        ]
+    },
+    "Denim backpacks": {
+        "filter_words": [
+            {
+                "content": [
+                    "denim",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "jean",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "school",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "denim",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "mini",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "rucksack"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "drawstring",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "fashion",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "hiking",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "backpack",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "backpack",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "backpack",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "denim",
+                    "backpacks"
+                ]
+            },
+            {
+                "content": [
+                    "distressed",
+                    "denim",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "backpack",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "backpack",
+                    "leather",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "backpack",
+                    "zipper"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "backpack",
+                    "patch"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "denim",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "light",
+                    "blue",
+                    "denim",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "dark",
+                    "blue",
+                    "denim",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "backpack",
+                    "embroidery"
+                ]
+            },
+            {
+                "content": [
+                    "denim",
+                    "backpack",
+                    "stud"
+                ]
+            }
+        ]
+    },
+    "Folding backpacks": {
+        "filter_words": [
+		   {
+                "content": "fold" },
+            {
+                "content": [
+                    "fold",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "foldup",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "fold",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "fold",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "packable",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "compressible",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "retractable",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "spacesaving",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "fold",
+                    "feature"
+                ]
+            },
+            {
+                "content": [
+                    "foldin",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "easytofold",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "hike",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "camping",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "daypack"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "rucksack"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "outdoor",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "travel",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Laptop backpacks": {
+        "filter_words": [
+		    {
+                "content": [
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "tech",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "laptop",
+                    "compartment"
+                ]
+            },
+            {
+                "content": [
+                    "business",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "college",
+                    "backpack",
+                    "laptop",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "antitheft",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "gaming",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "backpack",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "backpack",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "backpack",
+                    "student"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "backpack",
+                    "usb",
+                    "charge",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "backpack",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "pad",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "backpack",
+                    "multiple",
+                    "compartment"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "canvas",
+                    "laptop",
+                    "backpack"
+                ]
+            }
+        ]
+    },
+    "Leather backpacks": {
+        "filter_words": [
+            {
+                "content": [
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "genuine",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "faux",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "rucksacks"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "school",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "brown",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "hiking",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "drawstring",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "backpack",
+                    "purse"
+                ]
+            },
+            {
+                "content": [
+                    "italian",
+                    "leather",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "satchel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "convertible",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "backpack",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "backpack",
+                    "zipper"
+                ]
+            }
+        ]
+    },
+    "Polyester backpacks": {
+        "filter_words": [
+            {
+                "content": [
+                    "polyester",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "polyester",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "polyester",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "polyester",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "school",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "laptop",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "hike",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "backpack",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "backpack",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "backpack",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "camping",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "outdoor",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "drawstring",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "backpack",
+                    "multiple",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "backpack",
+                    "adjustable",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "highquality",
+                    "polyester",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "backpack",
+                    "padded",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "backpack",
+                    "water",
+                    "bottle",
+                    "holder"
+                ]
+            }
+        ]
+    },
+    "Sets with backpacks": {
+        "filter_words": [
+            {
+                "content": [
+                    "set",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "match",
+                    "backpack",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "combo",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "lunchbox",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "pencil",
+                    "case",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "school",
+                    "backpack",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "backpack",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "backpack",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "water",
+                    "bottle",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "wallet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "backpack",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "teen",
+                    "backpack",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "suitcase",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "backpack",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "toiletry",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "gym",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "duffle",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "sleeping",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "hydration",
+                    "pack",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Shoulder backpacks": {
+        "filter_words": [
+            {
+                "content": [
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "single",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "sling",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "crossbody",
+                    "backpacks"
+                ]
+            },
+            {
+                "content": [
+                    "strap",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "shoulder",
+                    "strap",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "diagonal",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "convertible",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "dual",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "pad",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "canvas",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "hike",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "tactical",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "military",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "cycle",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "shoulder",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "shoulder",
+                    "backpack"
+                ]
+            }
+        ]
+    },
+    "Sports backpacks": {
+        "filter_words": [
+            {
+                "content": [
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "athletic",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "running",
+                    "backpacks"
+                ]
+            },
+            {
+                "content": [
+                    "cycling",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "basketball",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "soccer",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "tennis",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "skiing",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "climb",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "swim",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "training",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "adventure",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "multipurpose",
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "sport",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "sports",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "backpack",
+                    "shoe",
+                    "compartment"
+                ]
+            }
+        ]
+    },
+    "Travel backpacks": {
+        "filter_words": [
+            {
+                "content": [
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "trek",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "adventure",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "multiday",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "rain",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "hydration",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "laptop",
+                    "compartment"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "antitheft",
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "carryon",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "convertible",
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "multiple",
+                    "compartment"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "padded",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "ergonomic",
+                    "travel",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "ventilated"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "adjustable",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "lockable",
+                    "zipper"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "reflective",
+                    "element"
+                ]
+            },
+            {
+                "content": [
+                    "backpack",
+                    "builtin",
+                    "usb",
+                    "charger"
+                ]
+            }
+        ]
+    }
+}

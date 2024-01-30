@@ -1,0 +1,1280 @@
+{
+    "Bluetooth headphones": {
+        "filter_words": [
+            {
+                "content": [
+                    "bluetooth",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "earbud"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "earphone"
+                ]
+            },
+            {
+                "content": [
+                    "noise",
+                    "cancel",
+                    "bluetooth",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "headset"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "bluetooth",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "bluetooth",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "overear",
+                    "bluetooth",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "inear",
+                    "bluetooth",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "gaming",
+                    "headset"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "headphone",
+                    "mic"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "headphone",
+                    "running"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "headphone",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "headphone",
+                    "tv"
+                ]
+            },
+            {
+                "content": [
+                    "highend",
+                    "bluetooth",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "stereo",
+                    "headset"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "headphone",
+                    "music"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "battery",
+                    "life",
+                    "bluetooth",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "bluetooth",
+                    "headphone"
+                ]
+            }
+        ]
+    },
+    "Folding headphones": {
+        "filter_words": [
+            {
+                "content": [
+                    "fold",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "foldup",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "earphone"
+                ]
+            },
+            {
+                "content": [
+                    "retractable",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "fold",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "foldin",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "foldable",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "wireless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "bluetooth",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "noise",
+                    "cancel",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "overear",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "onear",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "gaming",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "studio",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "dj",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "sport",
+                    "headphone"
+                ]
+            }
+        ]
+    },
+    "Headphone accessories": {
+        "filter_words": [
+            {
+                "content": [
+                    "headphone",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "ear",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "amplifier"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "extension",
+                    "cord"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "splitter"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "cleaning",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "hook"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "headphone",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "battery",
+                    "replacement"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "storage",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "jack",
+                    "converter"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "volume",
+                    "control"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "headphone",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "noisecancelle",
+                    "headphone",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "repair"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "ear",
+                    "tip"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "carrying",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "cord",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "gaming",
+                    "headphone",
+                    "accessory"
+                ]
+            }
+        ]
+    },
+    "Headphones": {
+        "filter_words": [
+            {
+                "content": "headphone",
+				"anti_word": "wireless"
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "noise",
+                    "cancel",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "mic"
+                ]
+            },
+            {
+                "content": [
+                    "overear",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "inear",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "gaming",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "studio",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "bass",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "dj",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "splitter"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "amplifier"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "extension",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "ear",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "surround",
+                    "sound",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "jack"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "audiophile",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "earbud"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "repair",
+                    "kit"
+                ]
+            }
+        ]
+    },
+    "Headphones in a case": {
+        "filter_words": [
+            {
+                "content": [
+                    "headphone",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "protective",
+                    "case",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "earphone",
+                    "carrying",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "case",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "headset",
+                    "storage",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "headphone",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "headphone",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "headphone",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "case",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "shockproof",
+                    "headphone",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "headphone",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "pouch"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "case",
+                    "carabiner"
+                ]
+            },
+            {
+                "content": [
+                    "universal",
+                    "headphone",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "case",
+                    "inner",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "headphone",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "headphone",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "case",
+                    "zipper"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "case",
+                    "specific",
+                    "brand",
+                    "model",
+                    "e.g.",
+                    "beats",
+                    "bose",
+                    "sony"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "case",
+                    "handle"
+                ]
+            }
+        ]
+    },
+    "Sets with headphones": {
+        "filter_words": [
+            {
+                "content": [
+                    "set",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "audio",
+                    "set",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "music",
+                    "set",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "gaming",
+                    "set",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "dj",
+                    "set",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "studio",
+                    "set",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "microphone",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "headphone",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "headphone",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "noisecancelle",
+                    "headphone",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "surround",
+                    "sound",
+                    "headphone",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "speaker",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "headphone",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "amplifier",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "bundle",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "audio",
+                    "interface",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "mixer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "sound",
+                    "card",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "audio",
+                    "equipment",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "highend",
+                    "headphone",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Wired headphones": {
+        "filter_words": [
+            {
+                "content": [
+                    "wire",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "cord",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "audio",
+                    "headphone",
+                    "wire"
+                ]
+            },
+            {
+                "content": [
+                    "overear",
+                    "wired",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "inear",
+                    "wired",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "gaming",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "headphone",
+                    "mic"
+                ]
+            },
+            {
+                "content": [
+                    "noise",
+                    "cancel",
+                    "wire",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "stereo",
+                    "wired",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "headphone",
+                    "music"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "headphone",
+                    "phone"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "headphone",
+                    "pc"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "headphone",
+                    "tv"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "bass",
+                    "wire",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "headphone",
+                    "volume",
+                    "control"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "headphone",
+                    "mm",
+                    "jack"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "wired",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "dj",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "headphone",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "headphone",
+                    "adult"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "sport",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "headphone",
+                    "running"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "headphone",
+                    "gym"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "headphone",
+                    "travel"
+                ]
+            }
+        ]
+    },
+    "Wireless headphones": {
+        "filter_words": [
+            {
+                "content": [
+                    "wireless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "earbud"
+                ]
+            },
+            {
+                "content": [
+                    "cordless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "overear",
+                    "wireless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "inear",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "noise",
+                    "cancel",
+                    "wireless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "wireless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "gaming",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "true",
+                    "wireless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "headset"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "stereo",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "headphone",
+                    "mic"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "wireless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "headphone",
+                    "tv"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "battery",
+                    "life",
+                    "wireless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "quality",
+                    "sound",
+                    "wireless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "wireless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "comfortable",
+                    "wireless",
+                    "headphone"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "headphone",
+                    "running"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "headphone",
+                    "kid"
+                ]
+            }
+        ]
+    }
+}

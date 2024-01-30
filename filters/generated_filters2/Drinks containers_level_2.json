@@ -1,0 +1,1036 @@
+{
+    "Beverage dispensers": {
+        "filter_words": [
+            {
+                "content": [
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "drink",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "insulated",
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "cold",
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "hot",
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "commercial",
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "party",
+                    "drink",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "drink",
+                    "dispenser",
+                    "spigot"
+                ]
+            },
+            {
+                "content": [
+                    "drink",
+                    "dispenser",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "mason",
+                    "jar",
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "water",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "juice",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "coffee",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "tea",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "cocktail",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "soda",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "infuse",
+                    "water",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "lemonade",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "tea",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "drink",
+                    "dispenser",
+                    "tap"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "beverage",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "beverage",
+                    "dispenser"
+                ]
+            }
+        ]
+    },
+    "Decanters for drinks": {
+        "filter_words": [
+            {
+                "content": [
+                    "decanter",
+                    "drink"
+                ]
+            },
+            {
+                "content": "decanter"
+            },
+            {
+                "content": [
+                    "drink",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "decanter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "liquor",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "brandy",
+                    "decanters"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "decanter",
+                    "alcohol"
+                ]
+            },
+            {
+                "content": [
+                    "decanter",
+                    "spirit"
+                ]
+            },
+            {
+                "content": [
+                    "decanter",
+                    "cocktail"
+                ]
+            },
+            {
+                "content": [
+                    "decanter",
+                    "stopper"
+                ]
+            },
+            {
+                "content": [
+                    "handblown",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "decanter",
+                    "aerator"
+                ]
+            },
+            {
+                "content": [
+                    "leadfree",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "decanter",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "decanter",
+                    "bar"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "decanter",
+                    "home",
+                    "bar"
+                ]
+            },
+            {
+                "content": [
+                    "decanter",
+                    "serve",
+                    "drink"
+                ]
+            },
+            {
+                "content": [
+                    "decanter",
+                    "party"
+                ]
+            }
+        ]
+    },
+    "Faceted decanter": {
+        "filter_words": [
+			{
+				"content": "carafe"
+			},
+            {
+                "content": [
+                    "faceted",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "faceted",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "whiskey",
+                    "facete",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "liquor",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "geometric",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "glassware"
+                ]
+            },
+            {
+                "content": [
+                    "cut",
+                    "glass",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "diamond",
+                    "cut",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "faceted",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "decanter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "facete",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "faceted",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "barware"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "drinkware"
+                ]
+            },
+            {
+                "content": [
+                    "hand",
+                    "cut",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "crystal",
+                    "carafe"
+                ]
+            },
+            {
+                "content": [
+                    "faceted",
+                    "beverage",
+                    "decanter"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "faceted",
+                    "decanter"
+                ]
+            }
+        ]
+    },
+    "Jugs": {
+        "filter_words": [
+            {
+                "content": "jug"
+            },
+            {
+                "content": [
+                    "beverage",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "water",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "milk",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "juice",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "coffee",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "tea",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "pitcher",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "wine",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "beer",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "drink",
+                    "dispenser",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "leakproof",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "easy",
+                    "pour",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "dishwasher",
+                    "safe",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "bpa",
+                    "free",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "refillable",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "jug"
+                ]
+            }
+        ]
+    },
+    "Thermos jugs": {
+        "filter_words": [
+            {
+                "content": [
+                    "thermos",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "thermo",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "drink",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "vacuum",
+                    "flask"
+                ]
+            },
+            {
+                "content": [
+                    "hot",
+                    "beverage",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "cold",
+                    "beverage",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "coffee",
+                    "carafe"
+                ]
+            },
+            {
+                "content": [
+                    "thermo",
+                    "travel",
+                    "mug"
+                ]
+            },
+            {
+                "content": [
+                    "double",
+                    "wall",
+                    "thermo"
+                ]
+            },
+            {
+                "content": [
+                    "leak",
+                    "proof",
+                    "thermo",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "thermos"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "thermo",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "tea",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "coffee",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "thermo",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "thermo",
+                    "jug"
+                ]
+            },
+            {
+                "content": [
+                    "thermo",
+                    "jug",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "thermos",
+                    "jug",
+                    "cup"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "thermos",
+                    "jug"
+                ]
+            }
+        ]
+    },
+    "Water bottles": {
+        "filter_words": [
+            {
+                "content": [
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "water",
+                    "bottle",
+                    "filter"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bpa",
+                    "free",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "infuser",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "hike",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "leakproof",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "plastic",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "hydration",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "water",
+                    "bottle",
+                    "straw"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "water",
+                    "bottle",
+                    "handle"
+                ]
+            }
+        ]
+    }
+}

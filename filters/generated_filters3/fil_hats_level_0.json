@@ -1,0 +1,844 @@
+{
+    "Hat and scarves ": {
+        "filter_words": [
+            {
+                "content": [
+                    "hat",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "match",
+                    "hat",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "winter",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "knit",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "beanie",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cashmere",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "scarf",
+                    "combo"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "scarf",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "neck",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "infinity",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "scarf",
+                    "set",
+                    "sale"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "hat",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": "hat"
+            },
+            {
+                "content": [
+                    "baseball",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "fedora",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "beanie",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "trilby",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "bucket",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "straw",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "sun",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "cowboy",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "panama",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "winter",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "knit",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "felt",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "beret",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "flat",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "snapback",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "trucker",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "fishing",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "golf",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "'",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "band"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "pin"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "size"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "style"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "brand"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "trend"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "color"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "shape"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "care"
+                ]
+            },
+            {
+                "content": [
+                    "vogue",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "fashionable",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "trendy",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "stylish",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "vogue",
+                    "headwear"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "fashion",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "vogue",
+                    "magazine",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "runway",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "celebrity",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "vogue",
+                    "inspire",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "chic",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "vogue",
+                    "hat",
+                    "trend"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "vogue",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "vogue",
+                    "woman",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "vogue",
+                    "man",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "vogue",
+                    "hat",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "vogue",
+                    "hat",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "vogue",
+                    "fashion",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "earphone"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "music",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "audio",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "headphone",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "earphone",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "sound",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "earphone",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "beanie",
+                    "hat",
+                    "earphone"
+                ]
+            },
+            {
+                "content": [
+                    "tech",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "audio",
+                    "beanie",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "build",
+                    "headphone",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "hat",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "music",
+                    "beanie",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "beanie",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "winter",
+                    "hat",
+                    "earphone"
+                ]
+            },
+            {
+                "content": [
+                    "knit",
+                    "hat",
+                    "earphone"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "hat",
+                    "earphone"
+                ]
+            },
+            {
+                "content": [
+                    "running",
+                    "hat",
+                    "earphone"
+                ]
+            },
+            {
+                "content": "scarf"
+            },
+            {
+                "content": [
+                    "woman",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "silk",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "cashmere",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "infinity",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "winter",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "pashmina",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "knit",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "fashion",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "scarf",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "neck",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "head",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "bandana",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "print",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "scarf",
+                    "sale"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "scarf",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "scarf",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "summer",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "fall",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "spring",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "scarf",
+                    "pattern"
+                ]
+            },
+            {
+                "content": [
+                    "scarf",
+                    "fringe"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters3\\Hat and scarves _level_1.json"
+    }
+}

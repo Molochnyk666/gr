@@ -1,0 +1,355 @@
+{
+	"Bathrobes":{"filter_words":[{"content": "bathrobe"}]},
+    "Bath hats": {
+        "filter_words": [
+            {
+                "content": [
+                    "bath",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "sauna",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "shower",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "bath",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "bathing",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "hair",
+                    "protection",
+                    "hat",
+                    "bath"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "spa",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "headwear"
+                ]
+            },
+            {
+                "content": [
+                    "bathing",
+                    "headgear"
+                ]
+            },
+            {
+                "content": [
+                    "hair",
+                    "cover",
+                    "shower"
+                ]
+            },
+            {
+                "content": [
+                    "bathing",
+                    "head",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "shower",
+                    "cap"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "bath",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "bath",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "hat",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "hat",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "bath",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "hat",
+                    "baby"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "bath",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "bath",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "hat",
+                    "pattern"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "bath",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "comfortable",
+                    "bath",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "bath",
+                    "hat"
+                ]
+            }
+        ]
+    },
+    "Bath sets": {
+        "filter_words": [
+            {
+                "content": [
+                    "bath",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bathroom",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "essential",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "bath",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "spa",
+                    "bath",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "body",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "product",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "collection",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "sauna",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "spa",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "accessory",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "shower",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "care",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "spa",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "body",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "sauna",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "complete",
+                    "bath",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "beauty",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "body",
+                    "care",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "sauna",
+                    "essential"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "body",
+                    "product",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "sauna",
+                    "kit"
+                ]
+            }
+        ]
+    }
+}

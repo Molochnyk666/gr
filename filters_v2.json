@@ -1,0 +1,2985 @@
+{
+    "Bags": [
+		{
+			"content":["drawstre", "bag"]
+		},
+		{
+			"content": ["bag", "football"]
+		},
+		{
+			"content":"pouch",
+			"anti_word" : ["gift","glass"]
+		},
+		{
+			"content":["laptop", "pouch"]
+		},
+		{
+			"content":["laptop", "backpack"]
+		},
+        {
+            "content": "backpack",
+			"anti_word": ["picnic","child"]
+        },
+        {
+            "content": "bag",
+			"anti_word": ["cool","beach","gift","cooler"]
+        },
+        {
+            "content": "suitcase"
+        },
+        {
+            "content": "valise"
+        },
+        {
+            "content": "briefcase"
+        },
+        {
+            "content": "clutch"
+        },
+        {
+            "content": "borsetka"
+        },
+        {
+            "content": "wallet"
+        },
+        {
+            "content": "purse",
+			"anti_word": ["keyring","keyre"]
+        },
+        {
+            "content": "luggage",
+			"anti_word": "scale"
+        },
+        {
+            "content": "trolley",
+			"anti_word": ["keyre","keyring"]
+        },
+        {
+            "content": "shopper"
+        },
+        {
+            "content": "case",
+			"anti_word":[
+			"pencil",
+			"mobile"
+			]
+        },
+        {
+            "content": [
+                "bag",
+                "travel"
+            ]
+        },
+        {
+            "content": [
+                "bag",
+                "sport"
+            ]
+        },
+        {
+            "content": [
+                "bag",
+                "children´s"
+            ]
+        },
+        {
+            "content": [
+                "mall",
+                "shopper"
+            ]
+        },
+        {
+            "content": [
+                "card",
+                "credit",
+                "sleeve"
+            ]
+        },
+        {
+            "content": [
+                "card",
+                "holder"
+            ]
+        },
+        {
+            "content": [
+                "dublin",
+                "trolley"
+            ]
+        },
+        {
+            "content": [
+                "cards",
+                "holder"
+            ]
+        },
+        {
+            "content": [
+                "set",
+                "trolley"
+            ]
+        },
+        {
+            "content": [
+                "card",
+                "case"
+            ]
+        },
+        {
+            "content": [
+                "belt",
+                "pack"
+            ]
+        },
+        {
+            "content": [
+                "block",
+                "card"
+            ]
+        },
+        {
+            "content": [
+                "cart",
+                "protector"
+            ]
+        }
+    ],
+    "Car accessories": [
+		{
+			"content":["car", "mobile", "holder"]
+		},
+        {
+            "content": "car"
+        },
+        {
+            "content": "icescraper"
+        },
+        {
+            "content": [
+                "boot",
+                "car",
+                "organiser"
+            ]
+        },
+        {
+            "content": [
+                "air",
+                "car",
+                "freshener"
+            ]
+        },
+        {
+            "content": [
+                "car",
+                "sun",
+                "visor"
+            ]
+        },
+        {
+            "content": [
+                "car",
+                "organizer"
+            ]
+        },
+        {
+            "content": [
+                "holder",
+                "phone"
+            ]
+        },
+        {
+            "content": [
+                "car",
+                "charger"
+            ]
+        },
+        {
+            "content": [
+                "charger",
+                "wireless"
+            ]
+        },
+        {
+            "content": [
+                "foldable",
+                "funnel"
+            ]
+        },
+        {
+            "content": [
+                "car",
+                "sunshade"
+            ]
+        },
+        {
+            "content": [
+                "car",
+                "multicharger"
+            ]
+        },
+        {
+            "content": [
+                "charger",
+                "drive"
+            ]
+        },
+        {
+            "content": [
+                "ice",
+                "scraper"
+            ]
+        },
+        {
+            "content": [
+                "park",
+                "shop"
+            ]
+        },
+        {
+            "content": [
+                "sunshade",
+                "truck"
+            ]
+        },
+        {
+            "content": [
+                "hammer",
+                "safety"
+            ]
+        },
+        {
+            "content": [
+                "emergency",
+                "hammer"
+            ]
+        },
+        {
+            "content": [
+                "alcohol",
+                "tester"
+            ]
+        }
+    ],
+    "Clothes": [
+        {
+            "content": "t-shirt",
+			"anti_word":"plush"
+        },
+        {
+            "content": "shirt",
+			"anti_word":"plush"
+        },
+        {
+            "content": "polo"
+        },
+        {
+            "content": "hoodie",
+			"anti_word":"plush"
+        },
+        {
+            "content": "sweatshirts"
+        },
+        {
+            "content": "jacket"
+        },
+        {
+            "content": "windbreaker"
+        },
+        {
+            "content": "cardigan"
+        },
+        {
+            "content": "bandana"
+        },
+        {
+            "content": "cap",
+			"anti_word": "bottle"
+        },
+        {
+            "content": "panama"
+        },
+        {
+            "content": "handkerchief"
+        },
+        {
+            "content": "stole"
+        },
+        {
+            "content": "hat"
+        },
+        {
+            "content": "scarf"
+        },
+        {
+            "content": "mitten"
+        },
+        {
+            "content": "glove",
+			"anti_word": ["kitchen","touchscreen"]
+        },
+        {
+            "content": "shawl"
+        },
+        {
+            "content": "vest"
+        },
+        {
+            "content": "sweatshirt"
+        },
+        {
+            "content": "fleece",
+			"anti_word": "blanket"
+        },
+        {
+            "content": "bodywarmer"
+        },
+        {
+            "content": "trouser"
+        },
+        {
+            "content": "parka"
+        },
+        {
+            "content": "coat"
+        },
+        {
+            "content": "smock"
+        },
+        {
+            "content": "sweater",
+			"anti_word": "plush"
+        },
+        {
+            "content": "necktie"
+        },
+        {
+            "content": "sock"
+        },
+        {
+            "content": "poncho",
+			"anti_word": ["bag","keyring","keyre"]
+        },
+        {
+            "content": "headwear"
+        },
+        {
+            "content": "neck"
+        },
+        {
+            "content": "beanie"
+        },
+        {
+            "content": "tie"
+        },
+        {
+            "content": "headband"
+        },
+        {
+            "content": [
+                "long",
+                "sleeve"
+            ]
+        },
+        {
+            "content": [
+                "baseball",
+                "cap"
+            ]
+        },
+        {
+            "content": [
+                "glove",
+                "screen",
+                "touch"
+            ]
+        },
+        {
+            "content": [
+                "high",
+                "vest",
+                "visibility"
+            ]
+        },
+        {
+            "content": [
+                "man",
+                "tank"
+            ]
+        },
+        {
+            "content": [
+                "sport",
+                "tank"
+            ]
+        },
+        {
+            "content": [
+                "tank",
+                "women"
+            ]
+        },
+        {
+            "content": [
+                "jumper",
+                "neck"
+            ]
+        },
+        {
+            "content": [
+                "short",
+                "sleeved"
+            ]
+        },
+        {
+            "content": [
+                "kid",
+                "sweatshirt"
+            ]
+        },
+        {
+            "content": [
+                "trouser",
+                "workwear"
+            ]
+        },
+        {
+            "content": [
+                "coat",
+                "weight"
+            ]
+        },
+        {
+            "content": [
+                "smock",
+                "workwear"
+            ]
+        },
+        {
+            "content": [
+                "softshell",
+                "vest"
+            ]
+        },
+        {
+            "content": [
+                "pique",
+                "polo"
+            ]
+        },
+        {
+            "content": [
+                "japanese",
+                "string"
+            ]
+        },
+        {
+            "content": [
+                "cover",
+                "neck"
+            ]
+        },
+        {
+            "content": [
+                "sun",
+                "visor"
+            ]
+        },
+        {
+            "content": [
+                "cover",
+                "face"
+            ]
+        },
+        {
+            "anti_word": [
+                "neck"
+            ],
+            "content": [
+                "face"
+            ]
+        },
+        {
+            "content": [
+                "face",
+                "neck"
+            ]
+        },
+        {
+            "content": [
+                "gaiter",
+                "neck"
+            ]
+        },
+        {
+            "content": [
+                "mask",
+                "textile"
+            ]
+        }
+    ],
+    "Cookware and Kitchenware": [
+		{
+			"content": [
+                "stopper",
+                "wine"
+            ]
+		},
+		{
+			"content":"cutlery"
+		},
+		{
+			"content" : ["thermo", "mug"]
+		},
+        {
+            "content": "mug"
+        },
+        {
+            "content": "cup",
+			"anti_word": "travel"
+        },
+        {
+            "content": "pot"
+        },
+        {
+            "content": "wineglass"
+        },
+        {
+            "content": "glass",
+			"anti_word": ["block","paperweight","pouch"]
+        },
+        {
+            "content": "thermos"
+        },
+        {
+            "anti_word": "sport",
+            "content": "bottle"
+        },
+		{
+			"content":["water","bottle"],
+			"anti_word":"sport"
+		},
+        {
+            "anti_word": "sport",
+            "content": "shaker"
+        },
+        {
+            "content": "glove",
+			"anti_word": "touchscreen"
+        },
+        {
+            "content": "platter"
+        },
+        {
+            "content": "salad"
+        },
+        {
+            "content": "maslenka"
+        },
+        {
+            "content": "jug"
+        },
+        {
+            "content": "pitcher"
+        },
+        {
+            "content": "decanter"
+        },
+        {
+            "content": "teapot"
+        },
+        {
+            "content": "turk"
+        },
+        {
+            "content": "menagerie"
+        },
+        {
+            "content": "tray"
+        },
+        {
+            "content": "juicer"
+        },
+        {
+            "content": "spice"
+        },
+        {
+            "content": "cheese"
+        },
+        {
+            "content": "blender"
+        },
+        {
+            "content": "spatula"
+        },
+        {
+            "content": "coaster"
+        },
+        {
+            "content": "apron"
+        },
+        {
+            "content": "bake"
+        },
+        {
+            "content": "kitchen"
+        },
+        {
+            "content": "nutcracker"
+        },
+        {
+            "content": "tumbler"
+        },
+        {
+            "content": "bowl"
+        },
+        {
+            "content": "jigger"
+        },
+        {
+            "content": "chopstick"
+        },
+        {
+            "content": "mortar"
+        },
+        {
+            "content": "beer"
+        },
+        {
+            "content": "wine"
+        },
+        {
+            "content": "saucer"
+        },
+        {
+            "content": "cook"
+        },
+        {
+            "content": "lunchbox"
+        },
+        {
+            "content": "container"
+        },
+        {
+            "content": "jar"
+        },
+        {
+            "content": "tealight"
+        },
+        {
+            "content": "tea"
+        },
+        {
+            "content": "cruet"
+        },
+        {
+            "content": [
+                "cocktail",
+                "set"
+            ]
+        },
+        {
+            "content": [
+                "knife",
+                "waiter´s"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "lunch"
+            ]
+        },
+        {
+            "content": [
+                "board",
+                "serve"
+            ]
+        },
+        {
+            "content": [
+                "set",
+                "tea"
+            ]
+        },
+        {
+            "content": [
+                "ceramic",
+                "piece",
+                "place"
+            ]
+        },
+        {
+            "content": [
+                "coffee",
+                "set"
+            ]
+        },
+        {
+            "content": [
+                "salad",
+                "utensil"
+            ]
+        },
+        {
+            "content": [
+                "bowl",
+                "salad"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "salad"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "sugar"
+            ]
+        },
+        {
+            "content": [
+                "bowl",
+                "sugar"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "mint"
+            ]
+        },
+        {
+            "content": [
+                "bowl",
+                "soup"
+            ]
+        },
+        {
+            "content": [
+                "bowl",
+                "candy"
+            ]
+        },
+        {
+            "content": [
+                "bowl",
+                "caviar"
+            ]
+        },
+        {
+            "content": [
+                "jug",
+                "thermos"
+            ]
+        },
+        {
+            "content": [
+                "bottle",
+                "decanter"
+            ]
+        },
+        {
+            "content": [
+                "filter",
+                "tea"
+            ]
+        },
+        {
+            "content": [
+                "coffee",
+                "pot"
+            ]
+        },
+        {
+            "content": [
+                "coffee",
+                "maker"
+            ]
+        },
+        {
+            "content": [
+                "board",
+                "chopping"
+            ]
+        },
+        {
+            "content": [
+                "salt",
+                "shaker"
+            ]
+        },
+        {
+            "content": [
+                "mill",
+                "pepper"
+            ]
+        },
+        {
+            "content": [
+                "grinder",
+                "spice"
+            ]
+        },
+        {
+            "content": [
+                "board",
+                "cheese"
+            ]
+        },
+        {
+            "content": [
+                "kitchen",
+                "tong"
+            ]
+        },
+        {
+            "content": [
+                "kitchen",
+                "thermometer"
+            ]
+        },
+        {
+            "content": [
+                "manicist",
+                "vegetable"
+            ]
+        },
+        {
+            "content": [
+                "silicone",
+                "spatula"
+            ]
+        },
+        {
+            "content": [
+                "container",
+                "storage"
+            ]
+        },
+        {
+            "content": [
+                "apron",
+                "kitchen"
+            ]
+        },
+        {
+            "content": [
+                "brush",
+                "silicone"
+            ]
+        },
+        {
+            "content": [
+                "kitchen",
+                "timer"
+            ]
+        },
+        {
+            "content": [
+                "kitchen",
+                "scale"
+            ]
+        },
+        {
+            "content": [
+                "cloth",
+                "table"
+            ]
+        },
+        {
+            "content": [
+                "runner",
+                "table"
+            ]
+        },
+        {
+            "content": [
+                "kitchen",
+                "knife"
+            ]
+        },
+        {
+            "content": [
+                "knife",
+                "steel"
+            ]
+        },
+        {
+            "content": [
+                "flask",
+                "vacuum"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "peppermint"
+            ]
+        },
+        {
+            "content": [
+                "cup",
+                "plastic"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "cardboard",
+                "cylindrical"
+            ]
+        },
+        {
+            "content": [
+                "iron",
+                "pan"
+            ]
+        },
+        {
+            "content": [
+                "ceramic",
+                "mug"
+            ]
+        },
+        {
+            "content": [
+                "carve",
+                "knife"
+            ]
+        },
+        {
+            "content": [
+                "apple",
+                "cutter"
+            ]
+        },
+        {
+            "content": [
+                "bamboo",
+                "chopstick"
+            ]
+        },
+        {
+            "content": [
+                "container",
+                "plastic"
+            ]
+        },
+        {
+            "content": [
+                "jar",
+                "storage"
+            ]
+        },
+        {
+            "content": [
+                "mitt",
+                "oven"
+            ]
+        },
+        {
+            "content": [
+                "board",
+                "cut"
+            ]
+        },
+        {
+            "content": [
+                "pizza",
+                "stone"
+            ]
+        },
+        {
+            "content": [
+                "infuser",
+                "tea"
+            ]
+        },
+        {
+            "content": [
+                "remover",
+                "seed"
+            ]
+        },
+        {
+            "content": [
+                "bamboo",
+                "mortar"
+            ]
+        },
+        {
+            "content": [
+                "silicone",
+                "straw"
+            ]
+        },
+        {
+            "content": [
+                "cork",
+                "double",
+                "stand"
+            ]
+        },
+        {
+            "content": [
+                "board",
+                "cutting"
+            ]
+        },
+        {
+            "content": [
+                "block",
+                "knife"
+            ]
+        },
+        {
+            "content": [
+                "drinking",
+                "straw"
+            ]
+        },
+        {
+            "content": [
+                "cook",
+                "spoon"
+            ]
+        },
+        {
+            "content": [
+                "coffee",
+                "holder"
+            ]
+        },
+        {
+            "content": [
+                "cream",
+                "ice",
+                "scoop"
+            ]
+        },
+        {
+            "content": [
+                "knife",
+                "set"
+            ]
+        }
+    ],
+
+    "Electronics": [
+		{
+			"content":["pocket", "phone", "stand"]
+		},
+		{
+			"content": [
+			"mobile", 
+			"case"
+			
+			]
+		},
+        {
+            "content": "headphones"
+        },
+        {
+            "content": "projector"
+        },
+        {
+            "content": "quadrocopter"
+        },
+        {
+            "content": "humidifier"
+        },
+        {
+            "content": "camera"
+        },
+        {
+            "content": "keyboard"
+        },
+        {
+            "content": "cable"
+        },
+        {
+            "content": "speaker",
+			"anti_word": "umbrella"
+        },
+        {
+            "content": "headphone"
+        },
+        {
+            "content": "earphones"
+        },
+        {
+            "content": "charger"
+        },
+        {
+            "content": "powerbank"
+        },
+        {
+            "content": "tablet"
+        },
+        {
+            "content": "earbuds"
+        },
+        {
+            "content": "usb"
+        },
+        {
+            "content": "battery"
+        },
+        {
+            "content": "earphone"
+        },
+        {
+            "content": "monopod"
+        },
+        {
+            "content": "selfie"
+        },
+        {
+            "content": "electronic"
+        },
+        {
+            "content": "wireless"
+        },
+        {
+            "content": "mouse"
+        },
+        {
+            "content": "laptop",
+			"anti_word":["bag","backpack"]
+        },
+        {
+            "content": "mousepad"
+        },
+        {
+            "content": [
+                "drive",
+                "flash"
+            ]
+        },
+        {
+            "content": [
+                "audio",
+                "speaker"
+            ],
+			"anti_word":"umbrella"
+        },
+        {
+            "content": [
+                "glass",
+                "reality",
+                "virtual"
+            ]
+        },
+        {
+            "content": [
+                "gadget",
+                "smart"
+            ]
+        },
+        {
+            "anti_word": "car",
+            "content": [
+                "charger",
+                "wireless"
+            ]
+        },
+        {
+            "content": [
+                "mouse",
+                "optical"
+            ]
+        },
+        {
+            "content": [
+                "computer",
+                "mouse"
+            ]
+        },
+        {
+            "content": [
+                "mouse",
+                "pc"
+            ]
+        },
+        {
+            "content": [
+                "mouse",
+                "pad"
+            ]
+        },
+        {
+            "content": [
+                "card",
+                "reader"
+            ]
+        },
+        {
+            "content": [
+                "docking",
+                "station"
+            ]
+        },
+        {
+            "content": [
+                "adapter"
+            ]
+        },
+        {
+            "content": [
+                "hub",
+                "usb"
+            ]
+        },
+        {
+            "content": [
+                "drive",
+                "hard"
+            ]
+        },
+        {
+            "content": [
+                "webcam"
+            ]
+        },
+        {
+            "content": [
+                "blocker",
+                "camera"
+            ]
+        },
+        {
+            "content": [
+                "cable"
+            ]
+        },
+        {
+            "content": "stylus",
+			"anti_word": "pen"
+        },
+        {
+            "content": [
+                "phone",
+                "stand"
+            ]
+        },
+        {
+            "content": [
+                "laptop",
+                "stand"
+            ]
+        },
+        {
+            "content": [
+                "glove",
+                "touchscreen"
+            ]
+        },
+        {
+            "content": [
+                "glove",
+                "screen",
+                "touch"
+            ]
+        },
+        {
+            "content": [
+                "finder",
+                "key"
+            ]
+        },
+        {
+            "content": [
+                "monopod",
+                "selfie"
+            ]
+        },
+        {
+            "content": [
+                "speaker",
+                "wireless"
+            ],
+			"anti_word":"umbrella"
+        },
+        {
+            "content": [
+                "music",
+                "output"
+            ]
+        },
+        {
+            "content": [
+                "headset",
+                "reality",
+                "virtual"
+            ]
+        },
+        {
+            "content": [
+                "reality",
+                "virtual"
+            ]
+        },
+        {
+            "content": [
+                "bracelet",
+                "smart"
+            ]
+        },
+        {
+            "content": [
+                "smart",
+                "wristband"
+            ]
+        },
+        {
+            "content": [
+                "laser",
+                "pen"
+            ]
+        },
+        {
+            "content": [
+                "bank",
+                "power"
+            ]
+        },
+        {
+            "content": [
+                "memory",
+                "stick"
+            ]
+        },
+        {
+            "content": [
+                "holder",
+                "mobile"
+            ],
+			"anti_word":"car"
+        },
+        {
+            "content": [
+                "mobile",
+                "phone"
+            ],
+			"anti_word":"pocket"
+        },
+        {
+            "content": [
+                "flash",
+                "usb"
+            ]
+        },
+        {
+            "content": [
+                "bluetooth",
+                "headphone"
+            ]
+        },
+        {
+            "anti_word": [
+                "car",
+                "car"
+            ],
+            "content": [
+                "holder",
+                "smartphone"
+            ]
+        },
+        {
+            "content": [
+                "blocker",
+                "webcam"
+            ]
+        },
+        {
+            "content": [
+                "device",
+                "electronic"
+            ]
+        },
+        {
+            "content": [
+                "cover",
+                "phone"
+            ]
+        },
+        {
+            "content": [
+                "mouse",
+                "wireless"
+            ]
+        },
+        {
+            "content": [
+                "multifunction",
+                "watch"
+            ]
+        },
+        {
+            "content": [
+                "charge",
+                "wireless"
+            ]
+        },
+        {
+            "content": [
+                "holder",
+                "phone"
+            ]
+        }
+    ],
+    "Gifts for Kids": [
+		{
+			"content":["backpack","child"]
+		},
+        {
+            "content": "crayon"
+        },
+        {
+            "content": "plush"
+        },
+        {
+            "content": "child",
+			"anti_word" : ["vest","cap","stress"]
+        },
+        {
+            "content": "balloon"
+        },
+        {
+            "content": "yoyo"
+        },
+        {
+            "content": "chalk"
+        },
+        {
+            "content": [
+                "custom",
+                "game",
+                "memory"
+            ]
+        },
+        {
+            "content": [
+                "duck",
+                "rubber"
+            ]
+        },
+        {
+            "content": [
+                "fox",
+                "plush"
+            ]
+        },
+        {
+            "content": [
+                "yo",
+                "yo"
+            ]
+        },
+        {
+            "content": [
+                "plush",
+                "sheep"
+            ]
+        },
+        {
+            "content": [
+                "hippo",
+                "plush"
+            ]
+        },
+        {
+            "content": [
+                "bear",
+                "teddy"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "card",
+                "laminate",
+                "presentation"
+            ]
+        },
+        {
+            "content": [
+                "fidget",
+                "toy"
+            ]
+        },
+        {
+            "content": [
+                "clapper",
+                "hand"
+            ]
+        },
+        {
+            "content": [
+                "hopper",
+                "truck"
+            ]
+        },
+        {
+            "content": [
+                "chalk",
+                "street"
+            ]
+        },
+        {
+            "content": [
+                "blower",
+                "bubble"
+            ]
+        },
+        {
+            "content": [
+                "book",
+                "colour"
+            ]
+        },
+        {
+            "content": [
+                "game",
+                "skill"
+            ]
+        },
+        {
+            "content": [
+                "baby",
+                "box"
+            ]
+        }
+    ],
+    "Household products": [
+		{
+			"content": ["tool", "set"]
+		},
+        {
+            "content": "candlestick"
+        },
+        {
+            "content": "candle"
+        },
+        {
+            "content": "vase"
+        },
+        {
+            "content": "lamp"
+        },
+        {
+            "content": "casket"
+        },
+        {
+            "content": "blanket"
+        },
+        {
+            "content": "fireplace"
+        },
+        {
+            "content": "humidifier",
+			"anti_word":["cable","led"]
+        },
+        {
+            "content": "measure"
+        },
+        {
+            "content": "jackknife"
+        },
+        {
+            "content": "reflectivecollar"
+        },
+        {
+            "content": "alarm"
+        },
+        {
+            "content": "bath"
+        },
+        {
+            "content": "hanger",
+			"anti_word": ["keyre","plush","lanyard"]
+        },
+        {
+            "content": "screwdriver"
+        },
+        {
+            "content": "puff"
+        },
+        {
+            "content": "sewing"
+        },
+        {
+            "content": [
+                "candle",
+                "wax"
+            ]
+        },
+        {
+            "content": [
+                "frame",
+                "photo"
+            ]
+        },
+        {
+            "content": [
+                "knife",
+                "pocket"
+            ]
+        },
+        {
+            "content": [
+                "clock",
+                "lcd"
+            ]
+        },
+        {
+            "content": [
+                "fold",
+                "meter"
+            ]
+        },
+        {
+            "content": [
+                "clasp",
+                "knife"
+            ]
+        },
+        {
+            "content": [
+                "laser",
+                "meter"
+            ]
+        },
+        {
+            "content": [
+                "bath",
+                "sponge"
+            ]
+        },
+        {
+            "content": [
+                "knife",
+                "waiter"
+            ]
+        },
+        {
+            "content": [
+                "screwdriver",
+                "set"
+            ]
+        },
+        {
+            "content": [
+                "multi",
+                "tool"
+            ],
+			"anti_word":"phone"
+        },
+        {
+            "content": [
+                "multifunctional",
+                "tool"
+            ]
+        },
+        {
+            "content": [
+                "foldable",
+                "knife"
+            ]
+        },
+        {
+            "content": [
+                "double",
+                "frame",
+                "led"
+            ]
+        },
+        {
+            "content": [
+                "lead",
+                "pet"
+            ]
+        },
+        {
+            "content": [
+                "measure",
+                "tape"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "wedding"
+            ]
+        },
+        {
+            "content": [
+                "fever",
+                "indicator"
+            ]
+        },
+        {
+            "content": [
+                "folding",
+                "meter"
+            ]
+        },
+        {
+            "content": [
+                "kit",
+                "sewing"
+            ]
+        }
+    ],
+    "Leisure Products": [
+		{"content":["cooler", "bag"]},
+
+		{
+			"content":["picnic", "backpack"]
+		},
+		{
+			"content":["beach", "bag"]
+		},
+		{
+			"content":["cool", "bag"]
+		},
+        {
+            "content": "fan"
+        },
+        {
+            "content": "binocular"
+        },
+        {
+            "content": "warmer"
+        },
+        {
+            "content": "compass"
+        },
+        {
+            "content": "flask"
+        },
+        {
+            "content": "chess"
+        },
+        {
+            "content": "backgammon"
+        },
+        {
+            "content": "puzzle"
+        },
+        {
+            "content": "frisbee"
+        },
+        {
+            "content": "beach",
+			"anti_word": ["towel","ball"]
+        },
+        {
+            "anti_word": "bracelet",
+            "content": "survival"
+        },
+        {
+            "content": "earplug"
+        },
+        {
+            "content": "tent"
+        },
+        {
+            "content": "barbecue"
+        },
+        {
+            "content": "grill"
+        },
+        {
+            "content": "picnic",
+			"anti_word": "blanket"
+        },
+        {
+            "content": "sneaker"
+        },
+        {
+            "content": "domino"
+        },
+        {
+            "content": "telescope"
+        },
+        {
+            "content": "whistle"
+        },
+        {
+            "content": "camping"
+        },
+        {
+            "content": "xylophone"
+        },
+        {
+            "content": "slipper"
+        },
+        {
+            "content": "travel"
+        },
+        {
+            "content": [
+                "beach",
+                "chair"
+            ]
+        },
+        {
+            "content": [
+                "ear",
+                "plug"
+            ]
+        },
+        {
+            "content": [
+                "inflatable",
+                "pillow"
+            ]
+        },
+        {
+            "content": [
+                "beach",
+                "tennis"
+            ]
+        },
+        {
+            "content": [
+                "pillow",
+                "travel"
+            ]
+        },
+        {
+            "content": [
+                "mug",
+                "travel"
+            ]
+        },
+        {
+            "content": [
+                "holder",
+                "passport"
+            ]
+        },
+        {
+            "content": [
+                "passport",
+                "wallet"
+            ]
+        },
+        {
+            "content": [
+                "fan",
+                "portable"
+            ]
+        },
+        {
+            "content": [
+                "fan",
+                "pocket"
+            ]
+        },
+        {
+            "content": [
+                "eye",
+                "mask"
+            ]
+        },
+        {
+            "content": [
+                "set",
+                "travel"
+            ]
+        },
+        {
+            "content": [
+                "bottle",
+                "hot",
+                "water"
+            ]
+        },
+        {
+            "content": [
+                "heat",
+                "pack"
+            ]
+        },
+        {
+            "content": [
+                "heat",
+                "pad"
+            ]
+        },
+        {
+            "content": [
+                "flip",
+                "flop"
+            ]
+        },
+        {
+            "content": [
+                "beach",
+                "slipper"
+            ]
+        },
+        {
+            "content": [
+                "bag",
+                "garment"
+            ]
+        },
+        {
+            "content": [
+                "lock",
+                "number"
+            ]
+        },
+        {
+            "content": [
+                "binocular"
+            ]
+        },
+        {
+            "content": [
+                "luggage",
+                "scale"
+            ]
+        },
+        {
+            "content": [
+                "bag",
+                "sleep"
+            ]
+        },
+        {
+            "content": [
+                "container",
+                "waterproof"
+            ]
+        },
+        {
+            "content": [
+                "basket",
+                "picnic"
+            ]
+        },
+        {
+            "content": [
+                "game",
+                "set"
+            ]
+        },
+        {
+            "content": [
+                "cooling",
+                "pad"
+            ]
+        },
+        {
+            "content": [
+                "heating",
+                "pad"
+            ]
+        },
+        {
+            "content": [
+                "reflector",
+                "safety"
+            ]
+        },
+        {
+            "content": [
+                "game",
+                "patience"
+            ]
+        },
+        {
+            "content": [
+                "basket",
+                "shopping"
+            ]
+        },
+        {
+            "content": [
+                "golf",
+                "tee"
+            ]
+        },
+        {
+            "content": [
+                "card",
+                "playing"
+            ]
+        },
+        {
+            "content": [
+                "game",
+                "memory"
+            ]
+        },
+        {
+            "content": [
+                "horn",
+                "stadium"
+            ]
+        },
+        {
+            "content": [
+                "camping",
+                "chair"
+            ]
+        },
+        {
+            "content": [
+                "disc",
+                "flying"
+            ]
+        },
+        {
+            "content": [
+                "beach",
+                "mat"
+            ]
+        },
+        {
+            "content": [
+                "cool",
+                "mat",
+                "universal"
+            ]
+        },
+        {
+            "content": [
+                "bird",
+                "house"
+            ]
+        },
+        {
+            "content": [
+                "freezer",
+                "pack"
+            ]
+        },
+        {
+            "content": [
+                "board",
+                "dart"
+            ]
+        },
+        {
+            "content": [
+                "organizer",
+                "travel"
+            ]
+        },
+        {
+            "content": [
+                "aluminum",
+                "flask"
+            ]
+        },
+        {
+            "content": [
+                "game",
+                "mikado"
+            ]
+        }
+    ],
+    "Office tools": [
+		{
+			"content": ["glass", "block"]
+		},
+		{
+            "content": "diary"
+        },
+        {
+            "content": "weekly"
+        },
+        {
+            "content": "note"
+        },
+        {
+            "content": "cardholder"
+        },
+        {
+            "content": "ruler"
+        },
+        {
+            "content": "СЃlip"
+        },
+        {
+            "content": "sharpener"
+        },
+        {
+            "content": "badge"
+        },
+        {
+            "content": "calculator"
+        },
+        {
+            "content": "clip",
+			"anti_word": ["pen","led"]
+        },
+        {
+            "content": "bookmark"
+        },
+        {
+            "content": "calendar",
+			"anti_word": "mousepad" 
+        },
+        {
+            "content": "paperweight"
+        },
+        {
+            "content": "noteblock"
+        },
+        {
+            "content": "notebook"
+        },
+        {
+            "content": "notepad"
+        },
+        {
+            "content": "portfolio"
+        },
+        {
+            "content": "clipboard"
+        },
+        {
+            "content": "cutter"
+        },
+        {
+            "content": "stapler"
+        },
+        {
+            "content": [
+                "business",
+                "card",
+                "holder"
+            ]
+        },
+        {
+            "content":"holder",
+			"anti_word": ["card","phone","bottle"]
+        },
+        {
+            "content": [
+                "knife",
+                "stationary"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "money"
+            ]
+        },
+        {
+            "content": [
+                "knife",
+                "paper"
+            ]
+        },
+        {
+            "content": [
+                "clip",
+                "paper"
+            ]
+        },
+        {
+            "content": [
+                "clip",
+                "document"
+            ]
+        },
+        {
+            "content": [
+                "badge",
+                "holder"
+            ]
+        },
+        {
+            "content": [
+                "bank",
+                "piggy"
+            ]
+        },
+        {
+            "content": [
+                "clock",
+                "table"
+            ]
+        },
+        {
+            "content": [
+                "station",
+                "weather"
+            ]
+        },
+        {
+            "content": [
+                "case",
+                "pencil"
+            ]
+        },
+        {
+            "content": [
+                "holder",
+                "pencil"
+            ]
+        },
+        {
+            "content": [
+                "holder",
+                "pen"
+            ]
+        },
+        {
+            "content": [
+                "paper",
+                "weight"
+            ]
+        },
+        {
+            "content": [
+                "clock",
+                "wall"
+            ]
+        },
+        {
+            "content": [
+                "paper",
+                "sleeve"
+            ]
+        },
+        {
+            "content": [
+                "document",
+                "folder"
+            ]
+        },
+        {
+            "content": [
+                "bubble",
+                "envelope"
+            ]
+        },
+        {
+            "content": [
+                "cahier",
+                "journal"
+            ]
+        },
+        {
+            "content": [
+                "conference",
+                "portfolio"
+            ]
+        },
+        {
+            "content": [
+                "map",
+                "scratch",
+                "world"
+            ]
+        },
+        {
+            "content": [
+                "cutter",
+                "knife"
+            ]
+        },
+        {
+            "content": [
+                "sand",
+                "timer"
+            ]
+        },
+        {
+            "content": [
+                "global",
+                "watch"
+            ]
+        },
+        {
+            "content": [
+                "holder",
+                "ticket"
+            ]
+        },
+        {
+            "content": [
+                "knife",
+                "retractable"
+            ]
+        },
+        {
+            "content": [
+                "bloc",
+                "stylux"
+            ]
+        },
+        {
+            "content": [
+                "letter",
+                "opener"
+            ]
+        },
+        {
+            "content": [
+                "memo",
+                "pad"
+            ]
+        },
+        {
+            "content": [
+                "map",
+                "world"
+            ]
+        },
+        {
+            "content": [
+                "document",
+                "holder"
+            ]
+        }
+    ],
+    "Package": [
+	
+		{"content":["gift", "pouch"]},
+        {
+            "content": [
+                "gift",
+                "wrap"
+            ]
+        },
+        {
+            "content": [
+                "gift",
+                "package"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "gift"
+            ]
+        },
+        {
+            "content": [
+                "bag",
+                "gift"
+            ]
+        },
+        {
+            "content": [
+                "bottle",
+                "package"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "custom"
+            ]
+        },
+        {
+            "content": [
+                "carton",
+                "wine"
+            ]
+        }
+    ],
+    "Personal accessories": [
+		{
+			"content":["bottle", "holder"]
+		},
+        {
+            "content": "comb"
+        },
+        {
+            "content": "mirror"
+        },
+        {
+            "content": "massager"
+        },
+        {
+            "content": "wristwatch"
+        },
+        {
+            "content": "glass",
+			"anti_word":["bottle","cup","mug","block","paperweight"]
+        },
+        {
+            "content": "light",
+			"anti_word" : ["hat","led","umbrella","shirt","vest","jacket"]
+        },
+        {
+            "content": "cufflink"
+        },
+        {
+            "content": "toothbrush"
+        },
+        {
+            "content": "hook",
+			"anti_word": "lanyard"
+        },
+        {
+            "content": "eyewear"
+        },
+        {
+            "content": "brush",
+			"anti_word": "cap"
+        },
+        {
+            "content": "sunglass"
+        },
+        {
+            "content": "manicure"
+        },
+        {
+            "content": "gas"
+        },
+        {
+            "content": "makeup"
+        },
+        {
+            "content": "sunscreen"
+        },
+        {
+            "content": "lipstick"
+        },
+        {
+            "content": "ashtray"
+        },
+        {
+            "content": "pillbox"
+        },
+        {
+            "content": "hairbrush"
+        },
+        {
+            "content": [
+                "balm",
+                "lip"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "pill"
+            ]
+        },
+        {
+            "content": [
+                "aid",
+                "kit"
+            ]
+        },
+        {
+            "content": [
+                "cosmetic",
+                "pouch"
+            ]
+        },
+        {
+            "content": [
+                "sheet",
+                "soap"
+            ]
+        },
+        {
+            "content": [
+                "spray",
+                "sunscreen"
+            ]
+        },
+        {
+            "content": [
+                "face",
+                "mask"
+            ]
+        },
+        {
+            "content": [
+                "leave",
+                "soap"
+            ]
+        },
+        {
+            "content": [
+                "cleaning",
+                "hand",
+                "spray"
+            ]
+        },
+        {
+            "content": [
+                "glass",
+                "nail"
+            ]
+        },
+        {
+            "content": [
+                "individual",
+                "spray",
+                "water"
+            ]
+        },
+        {
+            "content": [
+                "file",
+                "mini",
+                "nail"
+            ]
+        },
+        {
+            "content": [
+                "file",
+                "nail"
+            ]
+        },
+        {
+            "content": [
+                "guard",
+                "pocket"
+            ]
+        },
+        {
+            "content": [
+                "box",
+                "pillow"
+            ]
+        }
+    ],
+    "Promo souvenirs": [
+		{
+			"content":["picnic", "blanket"]
+		},
+		{
+			"content":["key", "chain"]
+		},
+        {
+            "content": "plaid"
+        },
+        {
+            "anti_word": "beach",
+            "content": "pillow"
+        },
+        {
+            "content": "towel"
+        },
+        {
+            "content": "antistress"
+        },
+        {
+            "content": "keyre"
+        },
+        {
+            "content": "keyring"
+        },
+        {
+            "content": "flashlight"
+        },
+        {
+            "anti_word": [
+                "smart",
+                "fitness",
+                "sport"
+            ],
+            "content": "bracelet"
+        },
+        {
+            "content": "wristband"
+        },
+        {
+            "content": "rubber"
+        },
+        {
+            "content": "lanyard"
+        },
+        {
+            "content": "postcard"
+        },
+        {
+            "content": "keychain"
+        },
+        {
+            "content": "trophy"
+        },
+        {
+            "content": "magnet"
+        },
+        {
+            "content": "rosary"
+        },
+        {
+            "content": "torch"
+        },
+        {
+            "content": "cushion"
+        },
+        {
+            "content": "banner"
+        },
+        {
+            "content": "promotion"
+        },
+        {
+            "content": "promotional"
+        },
+        {
+            "content": "stress"
+        },
+        {
+            "content": "trophee"
+        },
+        {
+            "content": [
+                "bath",
+                "rug"
+            ]
+        },
+        {
+            "content": [
+                "anti",
+                "stress"
+            ]
+        },
+        {
+            "content": [
+                "bath",
+                "mat"
+            ]
+        },
+        {
+            "content": [
+                "band",
+                "silicone"
+            ]
+        },
+        {
+            "content": [
+                "board",
+                "display"
+            ]
+        },
+        {
+            "content": [
+                "cube",
+                "pad"
+            ]
+        },
+        {
+            "content": [
+                "light",
+                "stick"
+            ]
+        },
+        {
+            "content": [
+                "event",
+                "wristband"
+            ]
+        },
+        {
+            "content": [
+                "key",
+                "ring"
+            ]
+        },
+        {
+            "content": [
+                "banner",
+                "stand"
+            ]
+        },
+        {
+            "content": [
+                "memo",
+                "sticker"
+            ]
+        },
+        {
+            "content": [
+                "silicone",
+                "wristband"
+            ]
+        },
+        {
+            "content": [
+                "emergency",
+                "torch"
+            ]
+        },
+        {
+            "content": [
+                "bracelet",
+                "dostoievski"
+            ]
+        },
+        {
+            "content": [
+                "pin",
+                "tag"
+            ]
+        },
+        {
+            "content": [
+                "sticker",
+                "vinyl"
+            ]
+        },
+        {
+            "content": [
+                "metal",
+                "pin"
+            ]
+        },
+        {
+            "content": [
+                "fridge",
+                "magnet"
+            ]
+        },
+        {
+            "content": [
+                "holder",
+                "picture"
+            ]
+        },
+        {
+            "content": [
+                "led",
+                "torch"
+            ]
+        },
+        {
+            "content": [
+                "event",
+                "hand"
+            ]
+        },
+        {
+            "content": [
+                "band",
+                "flexible",
+                "snap"
+            ]
+        }
+    ],
+    "Sport": [
+		{
+			 "content":["ball", "beach"]
+		},
+        {
+            "content": "sport",
+			"anti_word":["bag","backpack","vest","shirt"]
+        },
+        {
+            "anti_word": "pen",
+            "content": "ball"
+        },
+        {
+            "content": "expander"
+        },
+        {
+            "content": "whistle"
+        },
+        {
+            "content": "bike"
+        },
+        {
+            "anti_word": "towel",
+            "content": "fitness"
+        },
+        {
+            "content": "pedometer"
+        },
+        {
+            "content": "bicycle"
+        },
+        {
+            "content": "yoga"
+        },
+        {
+            "content": "pilates"
+        },
+        {
+            "content": "rope"
+        },
+        {
+            "content": "volleyball"
+        },
+        {
+            "content": "saddle"
+        },
+        {
+            "content": "football"
+        },
+        {
+            "content": [
+                "rope",
+                "skip"
+            ]
+        },
+        {
+            "content": [
+                "game'",
+                "sport"
+            ]
+        },
+        {
+            "content": [
+                "bottle",
+                "sport"
+            ]
+        },
+        {
+            "content": [
+                "protein",
+                "shaker"
+            ]
+        },
+        {
+            "content": [
+                "expander",
+                "fitness"
+            ]
+        },
+        {
+            "content": [
+                "band",
+                "exercise"
+            ]
+        },
+        {
+            "content": [
+                "dice",
+                "fitness"
+            ]
+        },
+        {
+            "content": [
+                "fitness",
+                "strap"
+            ]
+        },
+        {
+            "content": [
+                "jump",
+                "rope"
+            ]
+        },
+        {
+            "content": [
+                "mat",
+                "yoga"
+            ]
+        },
+        {
+            "content": [
+                "arm",
+                "reflective",
+                "strap"
+            ]
+        },
+        {
+            "content": [
+                "bell",
+                "bike"
+            ]
+        },
+        {
+            "content": [
+                "reflective",
+                "sticker"
+            ]
+        },
+        {
+            "content": [
+                "exercizer",
+                "hand"
+            ]
+        },
+        {
+            "content": [
+                "cover",
+                "saddle"
+            ]
+        }
+    ],
+    "Umbrellas": [
+        {
+            "content": "umbrella"
+        },
+        {
+            "content": "raincoat"
+        },
+        {
+            "content": [
+                "automatic",
+                "umbrella"
+            ]
+        }
+    ],
+    "VIP gifts": [
+    ],
+    "Writing utensils": [
+		{
+			"content":["ball", "pen"],
+			"anti_word":"notebook"
+		},
+        {
+            "anti_word": ["laser","lipstick",
+                "notebook"
+            ],
+            "content": "pen"
+        },
+        {
+            "content": "pencil"
+        },
+        {
+            "content": "marker"
+        },
+        {
+            "content": "highlighter"
+        },
+        {
+            "content": "ballpoint",
+			"anti_word":"notebook"
+        },
+        {
+            "content": "refill"
+        },
+        {
+            "content": "roller"
+        },
+        {
+            "content": [
+                "ballpoint",
+                "pen"
+            ],
+			"anti_word":"notebook"
+        },
+        {
+            "content": [
+                "metal",
+                "roller"
+            ]
+        },
+        {
+            "content": [
+                "pen",
+                "refill"
+            ]
+        },
+        {
+            "content": [
+                "pencils",
+                "set"
+            ]
+        }
+    ]
+}

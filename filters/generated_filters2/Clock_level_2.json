@@ -1,0 +1,1036 @@
+{
+    "Clock sets": {
+        "filter_words": [
+            {
+                "content": [
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "analog",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "alarm",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pendulum",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "grandfather",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "cuckoo",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "mantel",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "nautical",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "time",
+                    "zone",
+                    "clock",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "thermometer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "clock",
+                    "barometer",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Hourglass": {
+        "filter_words": [
+            {
+                "content": "hourglass"
+            },
+            {
+                "content": [
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "sand",
+                    "timer",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "hourglass"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "brass",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "sand",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "timepiece",
+                    "hourglass"
+                ]
+            },
+            {
+                "content": [
+                    "nautical",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "miniature",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "sandglass",
+                    "timer",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "retro",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "hourglass",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "hourglass",
+                    "clock"
+                ]
+            }
+        ]
+    },
+    "Office clock": {
+        "filter_words": [
+			{
+                "content":"clock",
+				"anti_word":["table","wall","hourglass"]
+
+            },
+            {
+                "content": [
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "clock",
+                    "office"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "analog",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "wall",
+                    "decor",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "date"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "temperature"
+                ]
+            },
+            {
+                "content": [
+                    "silent",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "battery",
+                    "operate"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "alarm"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "second"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "timer"
+                ]
+            },
+            {
+                "content": [
+                    "stylish",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "office",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "day",
+                    "date"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "calendar"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "clock",
+                    "world",
+                    "time"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "pendulum",
+                    "clock"
+                ]
+            }
+        ]
+    },
+    "Table clock": {
+        "filter_words": [
+			{
+				"content":["alarm", "clock"]
+			},
+            {
+                "content": [
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "mantel",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "bedside",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "analog",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "alarm",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "retro",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "quartz",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "battery",
+                    "operate",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "silent",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "table",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "table",
+                    "clock"
+                ]
+            }
+        ]
+    },
+    "VIP watch": {
+        "filter_words": [
+            {
+                "content": [
+                    "vip",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "premium",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "highend",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "exclusive",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "elite",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "prestigious",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "timepiece"
+                ]
+            },
+            {
+                "content": [
+                    "expensive",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "wristwatch"
+                ]
+            },
+            {
+                "content": [
+                    "status",
+                    "symbol",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "luxury",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "quality",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "brand",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "gold",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "diamond",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "man",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "woman",
+                    "watch"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "watch",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "watch",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "watch",
+                    "model"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "watch",
+                    "style"
+                ]
+            },
+            {
+                "content": [
+                    "vip",
+                    "watch",
+                    "brand"
+                ]
+            }
+        ]
+    },
+    "Wall clock": {
+        "filter_words": [
+            {
+                "content": [
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "silent",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "pendulum",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "retro",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "minimalist",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "nautical",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "novelty",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "quartz",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "atomic",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "wall",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "battery",
+                    "operate",
+                    "wall",
+                    "clock"
+                ]
+            }
+        ]
+    }
+}

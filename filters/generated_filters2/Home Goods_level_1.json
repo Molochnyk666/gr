@@ -1,0 +1,5731 @@
+{"Hangers":{"filter_words": [            {
+                "content": "hanger"
+            },
+			{"content":["shape", "hanger"]}
+			]},
+    "Air humidifiers": {
+        "filter_words": [
+            {
+                "content": [
+                    "air",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "ultrasonic",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "cool",
+                    "mist",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "warm",
+                    "mist",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "evaporative",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "steam",
+                    "vaporizer"
+                ]
+            },
+            {
+                "content": [
+                    "humidifier",
+                    "filter"
+                ]
+            },
+            {
+                "content": [
+                    "essential",
+                    "oil",
+                    "diffuser"
+                ]
+            },
+            {
+                "content": [
+                    "humidifier",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "house",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "room",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "bedroom",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "humidifier",
+                    "water",
+                    "treatment"
+                ]
+            },
+            {
+                "content": [
+                    "humidifier",
+                    "cleaning",
+                    "supply"
+                ]
+            },
+            {
+                "content": "humidifier"
+            },
+            {
+                "content": [
+                    "aromatherapy",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "humidifier",
+                    "replacement",
+                    "filter"
+                ]
+            },
+            {
+                "content": [
+                    "humidity",
+                    "monitor"
+                ]
+            },
+            {
+                "content": "dehumidifier"
+            },
+            {
+                "content": [
+                    "air",
+                    "purifier",
+                    "humidifier"
+                ]
+            },
+            {
+                "content": [
+                    "humidifier",
+                    "aroma",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "humidifier",
+                    "tank"
+                ]
+            },
+            {
+                "content": [
+                    "humidifier",
+                    "stand"
+                ]
+            }
+        ]
+    },
+    "Candles and candle holders": {
+        "filter_words": [
+            {
+                "content": [
+                    "candle",
+                    "candle",
+                    "holder"
+                ]
+            },
+            {
+                "content": "candle"
+            },
+            {
+                "content": [
+                    "candle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "pillar",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "tea",
+                    "light",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "candlestick",
+                    "holders"
+                ]
+            },
+            {
+                "content": [
+                    "votive",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "soy",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "wax",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "lanterns"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "aromatherapy",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "taper",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "jars"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "sconces"
+                ]
+            },
+            {
+                "content": [
+                    "unity",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "tray"
+                ]
+            },
+            {
+                "content": [
+                    "beeswax",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "floating",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "snuffers"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "warmer"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "molds"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "centerpiece"
+                ]
+            },
+            {
+                "content": [
+                    "hurricane",
+                    "candle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "candle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "drip",
+                    "protector"
+                ]
+            },
+            {
+                "content": "candlestick"
+            },
+            {
+                "content": [
+                    "candlestick",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "taper",
+                    "candle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pillar",
+                    "candle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "candlestick",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "candlestick"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "candlesticks"
+                ]
+            },
+            {
+                "content": [
+                    "candlestick",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "brass",
+                    "candlesticks"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "candlestick"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "candlestick"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "candlesticks"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "candlesticks"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "candlesticks"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "candlesticks"
+                ]
+            },
+            {
+                "content": [
+                    "candlestick",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "candlestick",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "candlestick",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "candlestick",
+                    "holder",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "tall",
+                    "candlesticks"
+                ]
+            },
+            {
+                "content": [
+                    "short",
+                    "candlesticks"
+                ]
+            },
+            {
+                "content": [
+                    "candlestick",
+                    "taper",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "candlestick",
+                    "pillar",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "candlestick",
+                    "tea",
+                    "light",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "candlestick",
+                    "votive",
+                    "candles"
+                ]
+            },
+            {
+                "content": "candle"
+            },
+            {
+                "content": [
+                    "flameless",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "birthday",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "christmas",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "jar",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "essential",
+                    "oil",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "flicker",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "citronella",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "dinner",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "church",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "wedding",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "spa",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "burning",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "fragrant",
+                    "candles"
+                ]
+            },
+            {
+                "content": [
+                    "perfumed",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "wax",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "soy",
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "floral",
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "fruit",
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "spice",
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "pillar",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "votive",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "tea",
+                    "light",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "jar",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "candle",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "scented",
+                    "candle",
+                    "brand"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "scented",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "strong",
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "candle",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "candle",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "candle",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "candle",
+                    "special"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Candles and candle holders_level_2.json"
+    },
+    "Caskets": {
+        "filter_words": [
+            {
+                "content": "casket"
+            },
+            {
+                "content": [
+                    "funeral",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "burial",
+                    "casket"
+                ]
+            },
+            {
+                "content": "coffin"
+            },
+            {
+                "content": [
+                    "funeral",
+                    "urn"
+                ]
+            },
+            {
+                "content": [
+                    "cremation",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "biodegradable",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "casket",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "casket",
+                    "lining"
+                ]
+            },
+            {
+                "content": [
+                    "casket",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "military",
+                    "casket"
+                ]
+            },
+            {
+                "content": [
+                    "casket",
+                    "vault"
+                ]
+            },
+            {
+                "content": [
+                    "casket",
+                    "hardware"
+                ]
+            },
+            {
+                "content": [
+                    "casket",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "casket",
+                    "panel"
+                ]
+            },
+            {
+                "content": [
+                    "casket",
+                    "interior"
+                ]
+            },
+            {
+                "content": [
+                    "casket",
+                    "spray"
+                ]
+            }
+        ]
+    },
+    "Gift sets for the home": {
+        "filter_words": [
+            {
+                "content": [
+                    "gift",
+                    "set",
+                    "home"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "home",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "decor",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bathroom",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "candle",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "fragrance",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bedding",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "bar",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "spa",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "office",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "dining",
+                    "room",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "living",
+                    "room",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "accessory",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "essential",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "comfort",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "entertaining",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "garden",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "wellness",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "gourmet",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "artwork",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "cleaning",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "organization",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "fitness",
+                    "gift",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "diy",
+                    "gift",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Goods for animals": {
+        "filter_words": [
+            {
+                "content": [
+                    "good",
+                    "animal"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "dog",
+                    "bed"
+                ]
+            },
+            {
+                "content": [
+                    "cat",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "cage"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "food"
+                ]
+            },
+            {
+                "content": "aquarium"
+            },
+            {
+                "content": [
+                    "pet",
+                    "grooming",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "animal",
+                    "bedding"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "carrier"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "clothing"
+                ]
+            },
+            {
+                "content": [
+                    "animal",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "leash"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "collar"
+                ]
+            },
+            {
+                "content": [
+                    "animal",
+                    "houses"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "training",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "reptile",
+                    "terrarium"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "animal",
+                    "cage"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "bowls"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "treat"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "health",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "litter",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "door"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "furniture"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "cleaning",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "stroller"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "ramp"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "harness"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "flea",
+                    "&",
+                    "tick",
+                    "control"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "dental",
+                    "care",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "medication"
+                ]
+            },
+            {
+                "content": [
+                    "animal",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "animal",
+                    "feeding",
+                    "dish"
+                ]
+            },
+            {
+                "content": [
+                    "dog",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "cat",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "bird",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "reptile",
+                    "feeding",
+                    "dish"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "food",
+                    "dish"
+                ]
+            },
+            {
+                "content": [
+                    "animal",
+                    "water",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "nonslip",
+                    "pet",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "pet",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "animal",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "automatic",
+                    "pet",
+                    "feeder"
+                ]
+            },
+            {
+                "content": [
+                    "elevate",
+                    "pet",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "feeding",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "rabbit",
+                    "feeding",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "guinea",
+                    "pig",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "hamster",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "fish",
+                    "feeding",
+                    "ring"
+                ]
+            },
+            {
+                "content": [
+                    "horse",
+                    "feeding",
+                    "bucket"
+                ]
+            },
+            {
+                "content": [
+                    "slow",
+                    "feed",
+                    "dog",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "pet",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "pet",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "pet",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "animal",
+                    "food",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "breed",
+                    "dog",
+                    "bowl"
+                ]
+            },
+            {
+                "content": [
+                    "frisbee",
+                    "dog"
+                ]
+            },
+            {
+                "content": [
+                    "dog",
+                    "frisbee"
+                ]
+            },
+            {
+                "content": [
+                    "pet",
+                    "frisbee"
+                ]
+            },
+            {
+                "content": [
+                    "dog",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "dog",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "dog",
+                    "exercise",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "flying",
+                    "disc",
+                    "dog"
+                ]
+            },
+            {
+                "content": [
+                    "dog",
+                    "training",
+                    "frisbee"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "dog",
+                    "frisbee"
+                ]
+            },
+            {
+                "content": [
+                    "interactive",
+                    "dog",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "dog",
+                    "fetch",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "rubber",
+                    "dog",
+                    "frisbee"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "dog",
+                    "frisbee"
+                ]
+            },
+            {
+                "content": [
+                    "chew",
+                    "resistant",
+                    "dog",
+                    "frisbee"
+                ]
+            },
+            {
+                "content": [
+                    "floatable",
+                    "dog",
+                    "frisbee"
+                ]
+            },
+            {
+                "content": [
+                    "dog",
+                    "disc",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "dog",
+                    "play",
+                    "frisbee"
+                ]
+            },
+            {
+                "content": [
+                    "dog",
+                    "activity",
+                    "toy"
+                ]
+            },
+            {
+                "content": [
+                    "frisbee",
+                    "large",
+                    "dog"
+                ]
+            },
+            {
+                "content": [
+                    "frisbee",
+                    "small",
+                    "dog"
+                ]
+            },
+            {
+                "content": [
+                    "dog",
+                    "sport",
+                    "equipment"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Goods for animals_level_2.json"
+    },
+    "Instruments": {
+        "filter_words": [
+				{
+			"content": ["officer", "knife"]
+		},
+				{
+			"content": "roulette"
+		},
+		{
+                "anti_word": [
+                    "keyre",
+                    "keyring",
+                    [
+                        "key",
+                        "ring"
+                    ],
+                    [
+                        "key",
+                        "chain"
+                    ],
+                    "keychain"
+                ],
+                "content": [
+                    "measure",
+                    "tape"
+                ]
+            },
+			{
+                "content": [
+                    "measuring",
+                    "tape"
+                ]
+            },
+            {
+                "content": "instrument"
+            },
+            {
+                "content": [
+                    "musical",
+                    "instrument"
+                ]
+            },
+            {
+                "content": "guitar"
+            },
+            {
+                "content": "piano"
+            },
+            {
+                "content": "violin"
+            },
+            {
+                "content": "drum"
+            },
+            {
+                "content": "flute"
+            },
+            {
+                "content": "saxophone"
+            },
+            {
+                "content": "trumpet"
+            },
+            {
+                "content": "harmonica"
+            },
+            {
+                "content": "ukulele"
+            },
+            {
+                "content": "keyboard"
+            },
+            {
+                "content": [
+                    "percussion",
+                    "instrument"
+                ]
+            },
+            {
+                "content": [
+                    "wind",
+                    "instrument"
+                ]
+            },
+            {
+                "content": [
+                    "string",
+                    "instruments"
+                ]
+            },
+            {
+                "content": [
+                    "brass",
+                    "instruments"
+                ]
+            },
+            {
+                "content": [
+                    "electronic",
+                    "instruments"
+                ]
+            },
+            {
+                "content": [
+                    "music",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "instrument",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "instrument",
+                    "case"
+                ]
+            },
+            {
+                "content": "metronome"
+            },
+            {
+                "content": "tuner"
+            },
+            {
+                "content": [
+                    "music",
+                    "stand"
+                ]
+            },
+            {
+                "content": "microphone"
+            },
+            {
+                "content": "amplifier"
+            },
+            {
+                "content": [
+                    "dj",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "recording",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "music",
+                    "production",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "band",
+                    "instrument"
+                ]
+            },
+            {
+                "content": [
+                    "orchestra",
+                    "instruments"
+                ]
+            },
+            {
+                "content": [
+                    "music",
+                    "sheet"
+                ]
+            },
+            {
+                "content": [
+                    "instrument",
+                    "cleaning",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "instrument",
+                    "repair",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "music",
+                    "book"
+                ]
+            },
+            {
+                "content": [
+                    "instrument",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "music",
+                    "software"
+                ]
+            },
+            {
+                "content": "roulettes"
+            },
+            {
+                "content": [
+                    "roulette",
+                    "wheel"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "table"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "chip"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "marker"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "rake"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "layout"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "casino",
+                    "roulette"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "roulette",
+                    "wheel"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "roulette",
+                    "wheel"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "game",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "felt",
+                    "layout"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "betting",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "spinner"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "dealer",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "table",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "wheel",
+                    "ball"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "game",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "roulette",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "table",
+                    "cloth"
+                ]
+            },
+            {
+                "content": [
+                    "deluxe",
+                    "roulette",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "wheel",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "roulette",
+                    "game",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "swiss",
+                    "army",
+                    "knive"
+                ]
+            },
+            {
+                "content": [
+                    "hunting",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "tactical",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "survival",
+                    "knives"
+                ]
+            },
+            {
+                "content": [
+                    "edc",
+                    "everyday",
+                    "carry",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "utility",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "blade",
+                    "knive"
+                ]
+            },
+            {
+                "content": [
+                    "pen",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "lock",
+                    "blade",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "slip",
+                    "joint",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "trapper",
+                    "knive"
+                ]
+            },
+            {
+                "content": [
+                    "jack",
+                    "knives"
+                ]
+            },
+            {
+                "content": [
+                    "whittling",
+                    "knives"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "pocket",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "collector",
+                    "pocket",
+                    "knives"
+                ]
+            },
+            {
+                "content": "multitool"
+            },
+            {
+                "content": [
+                    "swiss",
+                    "army",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "survival",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "multitool"
+                ]
+            },
+            {
+                "content": "leatherman"
+            },
+            {
+                "content": [
+                    "gerber",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "multifunction",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "multipurpose",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "tactical",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "edc",
+                    "everyday",
+                    "carry",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "utility",
+                    "knife"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "plier"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "fold",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "keychain",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "multifunctional",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "survival",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "survival",
+                    "gear"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "multitool"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "scissor"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "bottle",
+                    "opener"
+                ]
+            },
+            {
+                "content": [
+                    "multitool",
+                    "opener"
+                ]
+            },
+            {
+                "content": "screwdriver"
+            },
+            {
+                "content": [
+                    "hand",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "phillips",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "flathead",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "torx",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "precision",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "multibit",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "magnetic",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "ratcheting",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "insulated",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "electric",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "cordless",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "interchangeable",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "electronic"
+                ]
+            },
+            {
+                "content": [
+                    "watchmaker",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "automotive",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "comfort",
+                    "grip"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "nonslip",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "tight",
+                    "space"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "reach",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "storage",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "diy",
+                    "projects"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "home",
+                    "repair"
+                ]
+            },
+            {
+                "content": [
+                    "screwdriver",
+                    "computer",
+                    "repair"
+                ]
+            },
+            {
+                "content": "hammer"
+            },
+            {
+                "content": [
+                    "construction",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "carpentry",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "improvement",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "hardware",
+                    "tool"
+                ]
+            },
+            {
+                "content": "mallet"
+            },
+            {
+                "content": "sledgehammer"
+            },
+            {
+                "content": [
+                    "ballpeen",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "claw",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "framing",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "demolition",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "masonry",
+                    "hammer"
+                ]
+            },
+            {
+                "content": [
+                    "softface",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "dead",
+                    "blow",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "power",
+                    "hammer"
+                ]
+            },
+            {
+                "content": [
+                    "hammer",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "hammer"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "household",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "multipurpose",
+                    "hammers"
+                ]
+            },
+            {
+                "content": [
+                    "hammer",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "hammer",
+                    "handles"
+                ]
+            },
+            {
+                "content": [
+                    "hammer",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "hammer",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "building",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "power",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "masonry",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "concrete",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "plumbing",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "electrical",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "safety",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "machinery"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "hardware"
+                ]
+            },
+            {
+                "content": [
+                    "measuring",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "cut",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "drilling",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "scaffolding",
+                    "equipment"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "demolition",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "fastener"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "level"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "saw"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "drill"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "hammer"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "screwdriver"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "wrench"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "plier"
+                ]
+            },
+            {
+                "content": [
+                    "construction",
+                    "ladder"
+                ]
+            },
+            {
+                "content": [
+                    "tool",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "wrench",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plier",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "drill",
+                    "bit"
+                ]
+            },
+            {
+                "content": [
+                    "socket",
+                    "set"
+                ]
+            },
+            {
+                "content": "toolbox"
+            },
+            {
+                "content": [
+                    "home",
+                    "repair",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "tool",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "automotive",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "electrician",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "carpenter",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "gardening",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "mechanic",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "maintenance",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "tool"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Instruments_level_2.json"
+    },
+    "Interior souvenirs": {
+        "filter_words": [
+					{
+				"content": ["aroma", "diffuser"]
+			},
+            {
+                "content": [
+                    "interior",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "decor",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "ornamental",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "artistic",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "design",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "accent",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "keepsake"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "styling",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "collectible",
+                    "home",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "souvenirs"
+                ]
+            },
+            {
+                "content": [
+                    "handcraft",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "cultural",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "home",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "home",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "traditional",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "theme",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "artisanal",
+                    "home",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "eclectic",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "souvenir",
+                    "figurines"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "fragrance"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "essential",
+                    "oil",
+                    "diffuser"
+                ]
+            },
+            {
+                "content": [
+                    "incense",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "fragrance",
+                    "oil"
+                ]
+            },
+            {
+                "content": [
+                    "aromatherapy",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "room",
+                    "spray"
+                ]
+            },
+            {
+                "content": [
+                    "reed",
+                    "diffuser"
+                ]
+            },
+            {
+                "content": "potpourri"
+            },
+            {
+                "content": [
+                    "scent",
+                    "wax",
+                    "melt"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "perfume"
+                ]
+            },
+            {
+                "content": [
+                    "fragrance",
+                    "lamps"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "sachet"
+                ]
+            },
+            {
+                "content": [
+                    "aroma",
+                    "burners"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "fragrance",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "drawer",
+                    "liner"
+                ]
+            },
+            {
+                "content": [
+                    "fragrance",
+                    "beads"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "stone"
+                ]
+            },
+            {
+                "content": [
+                    "fragrance",
+                    "mist"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "aroma",
+                    "bead"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "soap"
+                ]
+            },
+            {
+                "content": [
+                    "fragrance",
+                    "plugin"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "lotion"
+                ]
+            },
+            {
+                "content": [
+                    "fragrance",
+                    "diffuser",
+                    "stick"
+                ]
+            },
+            {
+                "content": [
+                    "scent",
+                    "room",
+                    "freshener"
+                ]
+            },
+            {
+                "content": [
+                    "photo",
+                    "frame",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "picture",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "wedding",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "family",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "collage",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "multi",
+                    "picture",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "diy",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "scrapbook",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "hang",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "souvenir",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "souvenir",
+                    "photo",
+                    "album"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "design",
+                    "photo",
+                    "frame"
+                ]
+            },
+            {
+                "content": "vase"
+            },
+            {
+                "content": [
+                    "decorative",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "decor",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "flower",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "porcelain",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "crystal",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "floor",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "miniature",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "souvenir",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "artistic",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "unique",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "painted",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "tall",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "short",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "geometric",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "abstract",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "oriental",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "terracotta",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "marble",
+                    "vases"
+                ]
+            },
+            {
+                "content": [
+                    "gold",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "silver",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "brass",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "vase",
+                    "home",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "map",
+                    "globe"
+                ]
+            },
+            {
+                "content": [
+                    "map",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "globe",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "theme",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "world",
+                    "map",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "globe",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "map",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "geographic",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "nautical",
+                    "globe",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "map",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "earth",
+                    "globe",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "map",
+                    "theme",
+                    "interior",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "globe",
+                    "theme",
+                    "interior",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "cartography",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "world",
+                    "explorer",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "map",
+                    "globe",
+                    "collectible"
+                ]
+            },
+            {
+                "content": [
+                    "geographic",
+                    "interior",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "map",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "world",
+                    "globe",
+                    "decoration"
+                ]
+            },
+            {
+                "content": [
+                    "map",
+                    "globe",
+                    "ornament"
+                ]
+            },
+            {
+                "content": [
+                    "navigation",
+                    "themed",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "statue",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "statue",
+                    "souvenirs"
+                ]
+            },
+            {
+                "content": [
+                    "figurine",
+                    "souvenirs"
+                ]
+            },
+            {
+                "content": [
+                    "sculpture",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "miniature",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "decor",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "collectible",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "artistic",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "handcrafted",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "bronze",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "resin",
+                    "figurines"
+                ]
+            },
+            {
+                "content": [
+                    "antique",
+                    "statues"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "souvenir",
+                    "sculpture"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "sculpture"
+                ]
+            },
+            {
+                "content": [
+                    "miniature",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "art",
+                    "souvenir",
+                    "statues"
+                ]
+            },
+            {
+                "content": [
+                    "figurine",
+                    "collectibles"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "decor",
+                    "statue"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "decor",
+                    "figurine"
+                ]
+            },
+            {
+                "content": [
+                    "souvenir",
+                    "statuettes"
+                ]
+            },
+            {
+                "content": [
+                    "plant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "planter"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "plant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "plant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "gardening"
+                ]
+            },
+            {
+                "content": [
+                    "flower",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "succulent",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "hang",
+                    "plant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "terracotta",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "greenery"
+                ]
+            },
+            {
+                "content": [
+                    "pottery",
+                    "plant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "houseplant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "herb",
+                    "pots"
+                ]
+            },
+            {
+                "content": [
+                    "bonsai",
+                    "pots"
+                ]
+            },
+            {
+                "content": [
+                    "selfwatering",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "plant",
+                    "pot",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "plant",
+                    "pottery"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "plant",
+                    "pot"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "pottery"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "vase"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "planting",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "plant",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "hydroponic",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "herb",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "gardening",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "allinone",
+                    "plant",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "seed",
+                    "starter",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "vegetable",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "flower",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "bonsai",
+                    "tree",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "succulent",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "mushroom",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "terrarium",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "greenhouse",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "plant",
+                    "growing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "gardening",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "care",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "starter",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "plant",
+                    "propagation",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "planting",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "gardening",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "heating",
+                    "souvenir"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "bioethanol",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "fireplace",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "indoor",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "fire",
+                    "pit"
+                ]
+            },
+            {
+                "content": [
+                    "ventless",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "fireplace",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "tabletop",
+                    "fire",
+                    "feature"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "tabletop",
+                    "fireplace"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "tabletop",
+                    "fireplace"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Interior souvenirs_level_2.json"
+    },
+    "Lamps and luminaires": {
+        "filter_words": [
+            {
+                "content": [
+                    "lamp",
+                    "luminaire"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "floor",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "wall",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "ceiling",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "pendant",
+                    "light"
+                ]
+            },
+            {
+                "content": "chandelier"
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "lighting"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "bedside",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "lamp",
+                    "shade"
+                ]
+            },
+            {
+                "content": [
+                    "lamp",
+                    "basis"
+                ]
+            },
+            {
+                "content": [
+                    "reading",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "lamp"
+                ]
+            },
+            {
+                "content": "sconces"
+            },
+            {
+                "content": "lantern"
+            },
+            {
+                "content": "spotlight"
+            },
+            {
+                "content": [
+                    "track",
+                    "lighting"
+                ]
+            },
+            {
+                "content": [
+                    "recess",
+                    "lighting"
+                ]
+            },
+            {
+                "content": [
+                    "bathroom",
+                    "lighting"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "lighting"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "solar",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "garden",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "night",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "dimmable",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "energysave",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "desk",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "power",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "led",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "usb",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "reading",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "night",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "rechargeable",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "clipon",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "bedside",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "study",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "office",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "flexible",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "dimmable",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "adjustable",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "touch",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "wall",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "camping",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "outdoor",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "luminaire"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "light",
+                    "fixture"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "lighting",
+                    "solution"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "ambient",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "mood",
+                    "lamp"
+                ]
+            },
+            {
+                "content": "bulb"
+            },
+            {
+                "content": [
+                    "light",
+                    "bulb"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "bulb"
+                ]
+            },
+            {
+                "content": [
+                    "incandescent",
+                    "bulbs"
+                ]
+            },
+            {
+                "content": [
+                    "halogen",
+                    "bulbs"
+                ]
+            },
+            {
+                "content": [
+                    "brilliance",
+                    "bulbs"
+                ]
+            },
+            {
+                "content": [
+                    "fluorescent",
+                    "bulb"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "fluorescent",
+                    "bulb"
+                ]
+            },
+            {
+                "content": [
+                    "energy",
+                    "save",
+                    "bulb"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "light",
+                    "bulb"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "light",
+                    "bulb"
+                ]
+            },
+            {
+                "content": [
+                    "colored",
+                    "light",
+                    "bulb"
+                ]
+            },
+            {
+                "content": [
+                    "dimmable",
+                    "light",
+                    "bulb"
+                ]
+            },
+            {
+                "content": [
+                    "bulb",
+                    "lamps"
+                ]
+            },
+            {
+                "content": [
+                    "bulb",
+                    "luminaires"
+                ]
+            },
+            {
+                "content": [
+                    "lamp",
+                    "bulb",
+                    "replacement"
+                ]
+            },
+            {
+                "content": [
+                    "luminaire",
+                    "bulb",
+                    "replacement"
+                ]
+            },
+            {
+                "content": [
+                    "bulb",
+                    "lighting",
+                    "fixture"
+                ]
+            },
+            {
+                "content": [
+                    "bulb",
+                    "pendant",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "bulb",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "bulb",
+                    "floor",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "bulb",
+                    "ceiling",
+                    "luminaires"
+                ]
+            },
+            {
+                "content": [
+                    "bulb",
+                    "wall",
+                    "luminaires"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "bulb",
+                    "luminaires"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "bulb",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "bulb",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "bulb",
+                    "luminaires"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "bulb",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "classic",
+                    "bulb",
+                    "luminaires"
+                ]
+            },
+            {
+                "content": [
+                    "bulb",
+                    "chandeliers"
+                ]
+            },
+            {
+                "content": [
+                    "bulb",
+                    "sconces"
+                ]
+            },
+            {
+                "content": [
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "indoor",
+                    "lighting"
+                ]
+            },
+            {
+                "content": [
+                    "living",
+                    "room",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "bedroom",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "dining",
+                    "room",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "bathroom",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "ceile",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "pendant",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "energy",
+                    "save",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "dimmable",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "touch",
+                    "control",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "color",
+                    "change",
+                    "interior",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "nightstand",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "luminaire"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "light",
+                    "fixture"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "pendant",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "wall",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "ceiling",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "outdoor",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "bathroom",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "ceramic",
+                    "luminaire"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "ceramic",
+                    "luminaire"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "ceramic",
+                    "luminaire"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "ceramic",
+                    "luminaire"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "chandelier"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "sconce"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "lampshade"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "desk",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "floor",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "lanterns"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "lighting",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "ceramic",
+                    "decorative",
+                    "light"
+                ]
+            },
+            {
+                "content": "nightlight"
+            },
+            {
+                "content": [
+                    "nightlight",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "nightlight",
+                    "luminaire"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "plugin",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "sensor",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "dimmable",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "color",
+                    "change",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "motion",
+                    "sensor",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "bedside",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "nursery",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "nightlight",
+                    "fixture"
+                ]
+            },
+            {
+                "content": [
+                    "wallmounted",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "tabletop",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "energyefficient",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "light",
+                    "nightlight"
+                ]
+            },
+            {
+                "content": [
+                    "nightlight",
+                    "bulb"
+                ]
+            },
+            {
+                "content": [
+                    "nightlight",
+                    "timer"
+                ]
+            },
+            {
+                "content": [
+                    "nightlight",
+                    "remote",
+                    "control"
+                ]
+            },
+            {
+                "content": [
+                    "nightlight",
+                    "sound",
+                    "machine"
+                ]
+            },
+            {
+                "content": [
+                    "nightlight",
+                    "music",
+                    "player"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "read",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "study",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "metal",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "touch",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "dimmable",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "industrial",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "contemporary",
+                    "table",
+                    "lamps"
+                ]
+            },
+            {
+                "content": [
+                    "traditional",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "battery",
+                    "operate",
+                    "table",
+                    "lamp"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "lamp",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "lamp",
+                    "shade"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "lamp",
+                    "basis"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "lamp",
+                    "usb",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "table",
+                    "lamp",
+                    "night",
+                    "light"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Lamps and luminaires_level_2.json"
+    }
+}

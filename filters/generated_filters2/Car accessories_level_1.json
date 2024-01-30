@@ -1,0 +1,1233 @@
+{	"Parking cards":{
+	
+	"filter_words":[			
+	{
+				"content": "parking"
+			},
+			{
+				"content": ["parking", "pad"]
+			},
+			{
+				"content": ["parking", "disc"]
+			},
+			{
+				"content": ["parking", "card"]
+			}]},
+    "Breathalysers": {
+        "filter_words": [
+            {
+                "content": "breathalyser"
+            },
+            {
+                "content": [
+                    "car",
+                    "breathalyser"
+                ]
+            },
+            {
+                "content": [
+                    "auto",
+                    "breathalyser"
+                ]
+            },
+            {
+                "content": [
+                    "vehicle",
+                    "breathalyser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "alcohol",
+                    "tester"
+                ]
+            },
+            {
+                "content": [
+                    "auto",
+                    "alcohol",
+                    "detector"
+                ]
+            },
+            {
+                "content": [
+                    "breathalyser",
+                    "car"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "breath",
+                    "alcohol",
+                    "tester"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "breathalyser",
+                    "car"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "accessory",
+                    "breathalyser"
+                ]
+            },
+            {
+                "content": [
+                    "alcohol",
+                    "breathalyser",
+                    "vehicle"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "alcohol",
+                    "breathalyser"
+                ]
+            },
+            {
+                "content": [
+                    "breath",
+                    "alcohol",
+                    "tester",
+                    "car"
+                ]
+            },
+            {
+                "content": [
+                    "incar",
+                    "breathalyser"
+                ]
+            },
+            {
+                "content": [
+                    "automotive",
+                    "breathalyser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "dui",
+                    "prevention",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "safety",
+                    "breathalyser"
+                ]
+            },
+            {
+                "content": [
+                    "drunk",
+                    "driving",
+                    "prevention",
+                    "car",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "alcohol",
+                    "monitoring",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "personal",
+                    "breathalyser",
+                    "car"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "alcohol",
+                    "breath",
+                    "test",
+                    "device"
+                ]
+            }
+        ]
+    },
+    "Car chargers": {
+        "filter_words": [
+		{"content": ["car", "multicharger"]},
+            {
+                "content": [
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "chargers"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "battery",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "fast",
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "dual",
+                    "usb",
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "multiport",
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "charger",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "iphone",
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "android",
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "universal",
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "cigarette",
+                    "lighter",
+                    "light",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "charger",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "charger",
+                    "socket"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "speed",
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "charger",
+                    "plug"
+                ]
+            },
+            {
+                "content": [
+                    "typec",
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "charger",
+                    "outlet"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "car",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "charger",
+                    "extension"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "charger",
+                    "converter"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "charger",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "micro",
+                    "usb",
+                    "car",
+                    "charger"
+                ]
+            }
+        ]
+    },
+    "Car fragrances": {
+        "filter_words": [
+            {
+                "content": [
+                    "car",
+                    "fragrance"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "air",
+                    "freshener"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "perfume"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "scent",
+                    "diffuser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "aromatherapy"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "odor",
+                    "eliminator"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "fragrance",
+                    "refill"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "vent",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "essential",
+                    "oil",
+                    "diffuser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "scent",
+                    "candle"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "fragrance",
+                    "spray"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "deodorizer"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "smell",
+                    "remover"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "car",
+                    "fragrance"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "car",
+                    "freshener"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "incense",
+                    "burner"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "fragrance",
+                    "oil"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "scent",
+                    "sachet"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "fragrance",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "aroma",
+                    "bead"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "scent",
+                    "gel"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "fragrance",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "scent",
+                    "wax"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "fragrance",
+                    "pod"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "scent",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "fragrance",
+                    "bottle"
+                ]
+            }
+        ]
+    },
+    "Car kits": {
+        "filter_words": [
+            {
+                "content": [
+                    "car",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "kit",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "emergency",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "tool",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "cleaning",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "aid",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "repair",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "safety",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "detailing",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "stereo",
+                    "installation",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "bluetooth",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "interior",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "light",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "audio",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "body",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "paint",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "wash",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "survival",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "polish",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "wax",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "tire",
+                    "repair",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "window",
+                    "tint",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "seat",
+                    "cover",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "floor",
+                    "mat",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "charger",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "gps",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "speaker",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "alarm",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "upholstery",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "air",
+                    "freshener",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "maintenance",
+                    "kit"
+                ]
+            }
+        ]
+    },
+    "Car organisers": {
+        "filter_words": [
+            {
+                "content": [
+                    "car",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "storage",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "seat",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "trunk",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "console",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "backseat",
+                    "organiser",
+                    "car"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "cup",
+                    "holder",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "glove",
+                    "box",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "visor",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "door",
+                    "pocket",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "interior",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "storage",
+                    "solution"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "storage",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "storage",
+                    "bin"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "storage",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "storage",
+                    "net"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "storage",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "storage",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "dashboard",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "boot",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "travel",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "tidy",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "multipocket",
+                    "organiser"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "hanging",
+                    "organiser"
+                ]
+            }
+        ]
+    },
+    "Car phone holders": {
+        "filter_words": [
+            {
+                "content": [
+                    "car",
+                    "phone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "mobile",
+                    "phone",
+                    "car",
+                    "mount"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "phone",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "vehicle",
+                    "phone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "smartphone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "car",
+                    "phone",
+                    "mount"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "phone",
+                    "bracket"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "cell",
+                    "phone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "universal",
+                    "car",
+                    "phone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "dashboard",
+                    "phone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "windshield",
+                    "phone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "vent",
+                    "clip",
+                    "phone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "magnetic",
+                    "car",
+                    "phone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "rotatable",
+                    "car",
+                    "phone",
+                    "mount"
+                ]
+            },
+            {
+                "content": [
+                    "handsfree",
+                    "car",
+                    "phone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "phone",
+                    "dock"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "phone",
+                    "cradle"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "phone",
+                    "grip"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "charge",
+                    "car",
+                    "phone",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "suction",
+                    "cup",
+                    "phone",
+                    "holder"
+                ]
+            }
+        ]
+    },
+    "Ice scrapers": {
+        "filter_words": [
+            {
+                "content": [
+                    "ice",
+                    "scraper"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "ice",
+                    "scraper"
+                ]
+            },
+            {
+                "content": [
+                    "windshield",
+                    "ice",
+                    "scraper"
+                ]
+            },
+            {
+                "content": [
+                    "snow",
+                    "removal",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "snow",
+                    "brush"
+                ]
+            },
+            {
+                "content": [
+                    "winter",
+                    "car",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "removal",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "window",
+                    "ice",
+                    "scraper"
+                ]
+            },
+            {
+                "content": [
+                    "auto",
+                    "ice",
+                    "scraper"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "ice",
+                    "scraper"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "scraper",
+                    "mitt"
+                ]
+            },
+            {
+                "content": [
+                    "heavy",
+                    "duty",
+                    "ice",
+                    "scraper"
+                ]
+            },
+            {
+                "content": [
+                    "telescopic",
+                    "ice",
+                    "scraper"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "breaker",
+                    "car"
+                ]
+            },
+            {
+                "content": [
+                    "snow",
+                    "ice",
+                    "scraper"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "frost",
+                    "removal",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "scraper",
+                    "brush"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "scraper",
+                    "car",
+                    "windshield"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "deicing",
+                    "tool"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "scraper",
+                    "glove"
+                ]
+            }
+        ]
+    }
+}

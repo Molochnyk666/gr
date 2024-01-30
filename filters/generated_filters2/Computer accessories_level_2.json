@@ -1,0 +1,2562 @@
+{
+    "Adapters": {
+        "filter_words": [
+            {
+                "content": "adapter"
+            },
+            {
+                "content": [
+                    "computer",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "hdmi",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "vga",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "ethernet",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "power",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "audio",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "display",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "network",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "dvi",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "monitor",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "printer",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "usbc",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "ac",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "dc",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "sata",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "pci",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "serial",
+                    "port",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "parallel",
+                    "port",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "video",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "gaming",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "micro",
+                    "usb",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "usb",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "thunderbolt",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "firewire",
+                    "adapter"
+                ]
+            }
+        ]
+    },
+    "Cables": {
+        "filter_words": [
+            {
+                "content": "cable"
+            },
+            {
+                "content": [
+                    "computer",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "hdmi",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "ethernet",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "vga",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "audio",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "power",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "displayport",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "dvi",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "printer",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "network",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "sata",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "extension",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "charge",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "data",
+                    "transfer",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "coaxial",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "fiber",
+                    "optic",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "monitor",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "cable",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "cable",
+                    "connector"
+                ]
+            },
+            {
+                "content": [
+                    "cable",
+                    "management",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "cable",
+                    "tie"
+                ]
+            },
+            {
+                "content": [
+                    "cable",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "cable",
+                    "clip"
+                ]
+            }
+        ]
+    },
+    "Camera locks": {
+        "filter_words": [
+            {
+                "content": [
+                    "camera",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "security",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "dslr",
+                    "camera",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "safety",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "lock",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "antitheft",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "lock",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "lock",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "lock",
+                    "mount"
+                ]
+            },
+            {
+                "content": [
+                    "tripod",
+                    "camera",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "cable",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "lock",
+                    "bracket"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "lock",
+                    "plate"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "lock",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "lock",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "lock",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "lock",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "lock",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "lock"
+                ]
+            },
+            {
+                "content": [
+                    "camera",
+                    "lock",
+                    "computer"
+                ]
+            },
+            {
+                "content": [
+                    "lockable",
+                    "camera",
+                    "case"
+                ]
+            }
+        ]
+    },
+    "Card readers": {
+        "filter_words": [
+            {
+                "content": [
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "memory",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "sd",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "multicard",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "flash",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "micro",
+                    "sd",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "external",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "internal",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "pc",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "universal",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "digital",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "highspeed",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader",
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader",
+                    "camera"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader",
+                    "phone"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "card",
+                    "reader"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader",
+                    "usb",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader",
+                    "mac"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader",
+                    "linux"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader",
+                    "android"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader",
+                    "ios"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader",
+                    "tablet"
+                ]
+            },
+            {
+                "content": [
+                    "card",
+                    "reader",
+                    "gaming",
+                    "console"
+                ]
+            }
+        ]
+    },
+    "Computer mice": {
+        "filter_words": [
+            {
+                "content": [
+                    "computer",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "optical",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "optical",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "gaming",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "ergonomic",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "trackball",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "cordless",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "pc"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "scroll",
+                    "wheel",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "dpi",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "rgb",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "silent",
+                    "click",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "button"
+                ]
+            },
+            {
+                "content": [
+                    "programmable",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "graphic",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "gaming"
+                ]
+            },
+            {
+                "content": [
+                    "vertical",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "mouse",
+                    "laptop"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "adjustable",
+                    "dpi"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "nano",
+                    "receiver"
+                ]
+            },
+            {
+                "content": [
+                    "multidevice",
+                    "mouse"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "backlit"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "mac"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "high",
+                    "precision",
+                    "sensor"
+                ]
+            }
+        ]
+    },
+    "Cooling stands": {
+        "filter_words": [
+            {
+                "content": [
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "cooling",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "cpu",
+                    "cooler"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "cooler"
+                ]
+            },
+            {
+                "content": [
+                    "notebook",
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "gaming",
+                    "laptop",
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "cooling",
+                    "fan",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "cooling",
+                    "dock"
+                ]
+            },
+            {
+                "content": [
+                    "pc",
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "silent",
+                    "cooling",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "dual",
+                    "fan",
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "multiangle",
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "ergonomic",
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "performance",
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "rgb",
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "aluminum",
+                    "cooling",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "cooling",
+                    "stand",
+                    "led",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "ultra",
+                    "slim",
+                    "cooling",
+                    "pad"
+                ]
+            }
+        ]
+    },
+    "Docking stations": {
+        "filter_words": [
+            {
+                "content": [
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "universal",
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "multiport",
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "hdmi",
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "thunderbolt",
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "dual",
+                    "display",
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "docking",
+                    "station",
+                    "charging"
+                ]
+            },
+            {
+                "content": [
+                    "docking",
+                    "station",
+                    "mac"
+                ]
+            },
+            {
+                "content": [
+                    "docking",
+                    "station",
+                    "window"
+                ]
+            },
+            {
+                "content": [
+                    "docking",
+                    "station",
+                    "ethernet"
+                ]
+            },
+            {
+                "content": [
+                    "docking",
+                    "station",
+                    "audio"
+                ]
+            },
+            {
+                "content": [
+                    "docking",
+                    "station",
+                    "usbc"
+                ]
+            },
+            {
+                "content": [
+                    "docking",
+                    "station",
+                    "displayport"
+                ]
+            },
+            {
+                "content": [
+                    "docking",
+                    "station",
+                    "gaming"
+                ]
+            },
+            {
+                "content": [
+                    "docking",
+                    "station",
+                    "business"
+                ]
+            }
+        ]
+    },
+    "Hard discs": {
+        "filter_words": [
+            {
+                "content": [
+                    "hard",
+                    "disc"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "external",
+                    "hard",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "internal",
+                    "hard",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "ssd",
+                    "solid",
+                    "state",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "hdd",
+                    "hard",
+                    "disk",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "hard",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "hard",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "hard",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "hard",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "enclosure"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "sata",
+                    "hard",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "docking",
+                    "station"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "connector"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "mount"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "upgrade"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "replacement"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "expansion"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "backup"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "recovery"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "repair",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "cleaner"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "cloning",
+                    "software"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "partition",
+                    "software"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "diagnostic",
+                    "tool"
+                ]
+            }
+        ]
+    },
+    "Hard drive cases": {
+        "filter_words": [
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "hdd",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "ssd",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "external",
+                    "hard",
+                    "drive",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "hard",
+                    "drive",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "disk",
+                    "drive",
+                    "enclosure"
+                ]
+            },
+            {
+                "content": [
+                    "protective",
+                    "case",
+                    "hard",
+                    "drive"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "storage",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "carrying",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "hard",
+                    "drive",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "sata",
+                    "hard",
+                    "drive",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "case",
+                    "inch"
+                ]
+            },
+            {
+                "content": [
+                    "shockproof",
+                    "hard",
+                    "drive",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "hard",
+                    "drive",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "aluminum",
+                    "hard",
+                    "drive",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "hard",
+                    "drive",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "protective",
+                    "sleeve"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "travel",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "drive",
+                    "shell",
+                    "case"
+                ]
+            }
+        ]
+    },
+    "Keyboards": {
+        "filter_words": [
+            {
+                "content": "keyboard"
+            },
+            {
+                "content": [
+                    "computer",
+                    "keyboard"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "keyboard"
+                ]
+            },
+            {
+                "content": [
+                    "gaming",
+                    "keyboard"
+                ]
+            },
+            {
+                "content": [
+                    "mechanical",
+                    "keyboard"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "keyboard"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "keyboard"
+                ]
+            },
+            {
+                "content": [
+                    "ergonomic",
+                    "keyboard"
+                ]
+            },
+            {
+                "content": [
+                    "backlit",
+                    "keyboard"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "keyboard"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "mouse",
+                    "combo"
+                ]
+            },
+            {
+                "content": [
+                    "multimedia",
+                    "keyboard"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "keyboard"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "wrist",
+                    "rest"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "skin"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "tray"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "cleaner"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "replacement",
+                    "key"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "sticker"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "drawer"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "dust",
+                    "cover"
+                ]
+            }
+        ]
+    },
+    "Mouse pads": {
+        "filter_words": [
+            {
+                "content": [
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "gaming",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "ergonomic",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "wrist",
+                    "rest",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "led",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "extended",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "nonslip",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "pad",
+                    "wrist",
+                    "support"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "pad",
+                    "computer"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "pad",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "pad",
+                    "gaming"
+                ]
+            },
+            {
+                "content": [
+                    "office",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "pad",
+                    "laptop"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "pad",
+                    "arm",
+                    "support"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "pad",
+                    "gel",
+                    "wrist",
+                    "rest"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "pad",
+                    "keyboard",
+                    "wrist",
+                    "rest"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "surface",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "surface",
+                    "mouse",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "pad",
+                    "stitch",
+                    "edge"
+                ]
+            }
+        ]
+    },
+    "Organisers for accessories": {
+        "filter_words": [
+		{
+		"content":["cable", "manager"]
+		},
+            {
+                "content": [
+                    "organiser",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "cable",
+                    "management",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "accessory",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "desk",
+                    "cord",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "hub",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "keyboard",
+                    "storage",
+                    "rack"
+                ]
+            },
+            {
+                "content": [
+                    "monitor",
+                    "stand",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "mouse",
+                    "cable",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "pc",
+                    "accessory",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "stand",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "headset",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "desk",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "gaming",
+                    "accessory",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "wire",
+                    "management",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "cable",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "organizer",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "accessory",
+                    "drawer"
+                ]
+            },
+            {
+                "content": [
+                    "tech",
+                    "accessory",
+                    "organizer"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "accessory",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "accessory",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "accessory",
+                    "tray"
+                ]
+            }
+        ]
+    },
+    "PC accessory kits": {
+        "filter_words": [
+            {
+                "content": [
+                    "pc",
+                    "accessory",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "accessory",
+                    "bundle"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "accessory",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "computer",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "pc",
+                    "peripheral",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "hardware",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "pc",
+                    "setup",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "accessory",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "allinone",
+                    "pc",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "essential",
+                    "pc",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "gadget",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "pc",
+                    "gaming",
+                    "accessory",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "accessory",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "tool",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "pc",
+                    "cleaning",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "maintenance",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "pc",
+                    "upgrade",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "accessory",
+                    "package"
+                ]
+            },
+            {
+                "content": [
+                    "pc",
+                    "accessory",
+                    "combo"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "equipment",
+                    "kit"
+                ]
+            }
+        ]
+    },
+    "USB hubs": {
+        "filter_words": [
+            {
+                "content": [
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "multiport",
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "port",
+                    "expander"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "splitter"
+                ]
+            },
+            {
+                "content": [
+                    "highspeed",
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "power",
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "usbc",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "4port",
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "7port",
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "10port",
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "data",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "charging",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "hub",
+                    "power",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "hub",
+                    "pc"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "hub",
+                    "mac"
+                ]
+            },
+            {
+                "content": [
+                    "aluminum",
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "usb",
+                    "hub"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "typec",
+                    "hub"
+                ]
+            }
+        ]
+    },
+    "Webcams": {
+        "filter_words": [
+            {
+                "content": "webcam"
+            },
+            {
+                "content": [
+                    "hd",
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "camera"
+                ]
+            },
+            {
+                "content": [
+                    "pc",
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "desktop",
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "laptop",
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "video",
+                    "conferencing",
+                    "camera"
+                ]
+            },
+            {
+                "content": [
+                    "stream",
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "gaming",
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "microphone"
+                ]
+            },
+            {
+                "content": [
+                    "1080p",
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "logitech",
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "microsoft",
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "zoom",
+                    "meeting"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "skype"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "streaming"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "youtube"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "twitch"
+                ]
+            },
+            {
+                "content": [
+                    "night",
+                    "vision",
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "wide",
+                    "angle",
+                    "webcam"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "privacy",
+                    "shutter"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "autofocus"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "tripod"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "online",
+                    "class"
+                ]
+            },
+            {
+                "content": [
+                    "webcam",
+                    "video",
+                    "recording"
+                ]
+            }
+        ]
+    }
+}

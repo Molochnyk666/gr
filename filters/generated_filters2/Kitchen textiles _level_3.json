@@ -1,0 +1,846 @@
+{
+    "Aprons": {
+        "filter_words": [
+		            {
+                "content": "tabli"
+            },
+            {
+                "content": "apron"
+            },
+            {
+                "content": [
+                    "cooking",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "chef",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "bbq",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "bake",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "adjustable",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "apron",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "woman",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "man",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "apron",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "linen",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "disposable",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "short",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "apron",
+                    "bib"
+                ]
+            },
+            {
+                "content": [
+                    "apron",
+                    "strap"
+                ]
+            },
+            {
+                "content": [
+                    "apron",
+                    "grilling"
+                ]
+            },
+            {
+                "content": [
+                    "apron",
+                    "cleaning"
+                ]
+            },
+            {
+                "content": [
+                    "apron",
+                    "dishwashing"
+                ]
+            }
+        ]
+    },
+    "Kitchen textile sets": {
+        "filter_words": [
+            {
+                "content": [
+                    "kitchen",
+                    "textile",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "linen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "towel",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "oven",
+                    "mitt",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "pot",
+                    "holder",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "apron",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "dishcloth",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "rug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "curtain",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "napkin",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "textile",
+                    "bundle"
+                ]
+            },
+            {
+                "content": [
+                    "coordinate",
+                    "kitchen",
+                    "textile"
+                ]
+            },
+            {
+                "content": [
+                    "match",
+                    "kitchen",
+                    "linen"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "textile",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "textile",
+                    "package"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "textile",
+                    "combo"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "textile",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "textile",
+                    "ensemble"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "textile",
+                    "assortment"
+                ]
+            },
+            {
+                "content": [
+                    "complete",
+                    "kitchen",
+                    "textile",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Tablecloths": {
+        "filter_words": [
+            {
+                "content": "tablecloth"
+            },
+            {
+                "content": [
+                    "dining",
+                    "table",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "linen",
+                    "tablecloth"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "tablecloth"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "tablecloth"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "tablecloth"
+                ]
+            },
+            {
+                "content": [
+                    "rectangular",
+                    "tablecloth"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "lace"
+                ]
+            },
+            {
+                "content": [
+                    "vinyl",
+                    "tablecloth"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "tablecloth"
+                ]
+            },
+            {
+                "content": [
+                    "holiday",
+                    "tablecloth"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "pattern"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "floral",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "party"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "wedding"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "event"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "kitchen"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "dining",
+                    "room"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "embroidery"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "hemstitch"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "tassel"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "fringe"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "border"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "print"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "stripe"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "check"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "polka",
+                    "dot"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "paisley",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "geometric",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "tablecloth",
+                    "animal",
+                    "print"
+                ]
+            }
+        ]
+    },
+    "tacking": {
+        "filter_words": [
+            {
+                "content": "tacking"
+            },
+            {
+                "content": [
+                    "tack",
+                    "kitchen",
+                    "textile"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "apron"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "oven",
+                    "mitt"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "pot",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "dish",
+                    "cloth"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "table",
+                    "runner"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "placemat"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "napkin"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "kitchen",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "tea",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "kitchen",
+                    "linen"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "tablecloth"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "kitchen",
+                    "curtain"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "bread",
+                    "basket"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "kitchen",
+                    "textile",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "kitchen",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "kitchen",
+                    "textile",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "kitchenware",
+                    "textile"
+                ]
+            },
+            {
+                "content": [
+                    "tack",
+                    "kitchen",
+                    "textile",
+                    "essential"
+                ]
+            }
+        ]
+    },
+    "Wipes": {
+        "filter_words": [
+            {
+                "content": "wipe"
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "dish",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "cleaning",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "kitchen",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "reusable",
+                    "kitchen",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "kitchen",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "antibacterial",
+                    "kitchen",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "counter",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "hand",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "disposable",
+                    "kitchen",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "surface",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "cloth",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "towel",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "scrub",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "cleaning",
+                    "cloth"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "dishcloth"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "wipe",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "sponge",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "grease",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "sanitizing",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "washcloth"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "dry",
+                    "wipe"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "wipe",
+                    "roll"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "wipe",
+                    "dispenser"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "wipe",
+                    "refill"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,338 @@
+{
+    "Sports bottles": {
+        "filter_words": [
+            {
+                "content": [
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "hydration",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "insulated",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "leakproof",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bpafree",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "drink",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "athletic",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "running",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "cycle",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "hike",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "sipper",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "collapsible",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "infuser",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "filter",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "bottle",
+                    "straw"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "capacity",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "team",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "bottle",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "tritan",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "silicone",
+                    "sport",
+                    "bottle"
+                ]
+            }
+        ]
+    },
+    "Sports nutrition shakers": {
+        "filter_words": [
+					{
+				"content": "shaker"
+			},
+            {
+                "content": [
+                    "sport",
+                    "nutrition",
+                    "shaker"
+                ]
+            },
+            {
+                "content": [
+                    "protein",
+                    "shaker",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "workout",
+                    "shaker",
+                    "cups"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "water",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "drink",
+                    "container"
+                ]
+            },
+            {
+                "content": [
+                    "protein",
+                    "powder",
+                    "shaker"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "drink",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "hydration",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "athletic",
+                    "shaker",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "leakproof",
+                    "shaker",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "bpafree",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "workout",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "blender",
+                    "bottle",
+                    "sport",
+                    "nutrition"
+                ]
+            },
+            {
+                "content": [
+                    "mixer",
+                    "protein",
+                    "shake"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "shaker",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "stainless",
+                    "steel",
+                    "sport",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "shaker",
+                    "cup",
+                    "gym"
+                ]
+            },
+            {
+                "content": [
+                    "nutrition",
+                    "supplement",
+                    "shaker"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "nutrition",
+                    "mixer",
+                    "bottle"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "nutrition",
+                    "shaker"
+                ]
+            }
+        ]
+    }
+}

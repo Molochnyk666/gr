@@ -1,0 +1,1777 @@
+{
+    "Bluetooth speakers": {
+        "filter_words": [
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "stereo",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "audio",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "surround",
+                    "sound",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "soundbar"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker",
+                    "microphone"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker",
+                    "fm",
+                    "radio"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "bass",
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker",
+                    "usb",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker",
+                    "sd",
+                    "card",
+                    "slot"
+                ]
+            },
+            {
+                "content": [
+                    "multiroom",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "voiceactivate",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker",
+                    "alexa"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker",
+                    "google",
+                    "assistant"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker",
+                    "battery",
+                    "backup"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker",
+                    "remote",
+                    "control"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker",
+                    "alarm",
+                    "clock"
+                ]
+            }
+        ]
+    },
+    "Loudspeakers": {
+        "filter_words": [
+			{	"content": "speaker"	},
+            {
+                "content": "loudspeaker"
+            },
+            {
+                "content": [
+                    "audio",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "theater",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "surround",
+                    "sound",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "bookshelf",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "floor",
+                    "stand",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "inwall",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "speaker"
+                ]
+            },
+            {
+                "content": "soundbar"
+            },
+            {
+                "content": "subwoofer"
+            },
+            {
+                "content": [
+                    "speaker",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "studio",
+                    "monitors"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "marine",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "pa",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "mounts"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "amplifier"
+                ]
+            },
+            {
+                "content": [
+                    "hifi",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "dolby",
+                    "atmos",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "package"
+                ]
+            },
+            {
+                "content": [
+                    "ceiling",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "dock"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "component"
+                ]
+            }
+        ]
+    },
+    "Mini speakers": {
+        "filter_words": [
+            {
+                "content": [
+                    "mini",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "wireless",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "pocket",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "audio",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "stereo",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "size",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "usb",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "outdoor",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "home",
+                    "theater",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "laptop",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "desktop",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "surround",
+                    "sound",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "waterproof",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "bass",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "rechargeable",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "speaker",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "smart",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "car",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "soundbar",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "gaming",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "party",
+                    "speaker"
+                ]
+            }
+        ]
+    },
+    "Portable acoustics": {
+        "filter_words": [
+            {
+                "content": [
+                    "portable",
+                    "acoustic"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "sound",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "pa",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "battery",
+                    "power",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "audio"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "outdoor",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "stereo"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "microphone"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "portable",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "amplifier"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "audio",
+                    "device"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "soundbar"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "boombox"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "dj",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "fm",
+                    "radio"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "usb",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "aux",
+                    "input"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "bluetooth",
+                    "wifi"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "long",
+                    "battery",
+                    "life"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "high",
+                    "sound",
+                    "quality"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "bass"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "light",
+                    "effect"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "sd",
+                    "card",
+                    "slot"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "karaoke",
+                    "function"
+                ]
+            }
+        ]
+    },
+    "Portable speakers": {
+        "filter_words": [
+            {
+                "content": [
+                    "portable",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "audio"
+                ]
+            },
+            {
+                "content": [
+                    "mini",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "usb",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "rechargeable",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "sound",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "stereo"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "microphone"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "fm",
+                    "radio"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "bluetooth"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "aux"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "usb",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "battery"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "sd",
+                    "card",
+                    "slot"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "iphone"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "android"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "laptop"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "tv"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "car"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "camping"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "beach"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "shower"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "party"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "outdoor"
+                ]
+            }
+        ]
+    },
+    "Speaker Accessories": {
+        "filter_words": [
+            {
+                "content": [
+                    "speaker",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "mounts"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "grills"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "wall",
+                    "bracket"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "connector"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "wire"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "spike"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "plug"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "battery"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "power",
+                    "supply"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "volume",
+                    "control"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "isolation",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "dock"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "amplifier"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "subwoofers"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "tweeter"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "remote",
+                    "control"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "bluetooth",
+                    "adapter"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "repair",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "soundproofing",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "microphone",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "protective",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "extension",
+                    "cord"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "switch",
+                    "box"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "cleaning",
+                    "kit"
+                ]
+            }
+        ]
+    },
+    "Speaker and loudspeaker sets": {
+        "filter_words": [
+            {
+                "content": [
+                    "speaker",
+                    "loudspeaker",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "home",
+                    "theater",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "surround",
+                    "sound",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "bookshelf",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "floor",
+                    "stand",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "inwall",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "ceiling",
+                    "speaker"
+                ]
+            },
+            {
+                "content": "subwoofer"
+            },
+            {
+                "content": "soundbar"
+            },
+            {
+                "content": [
+                    "speaker",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "loudspeaker",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "stereo",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "car",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "marine",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "pa",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "studio",
+                    "monitors"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "multiroom",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "cable"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "amplifier"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "connector"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "mounts"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "package"
+                ]
+            }
+        ]
+    },
+    "Speakers with wireless charging": {
+        "filter_words": [
+            {
+                "content": [
+                    "speaker",
+                    "wireless",
+                    "charging"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "charging",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker",
+                    "wireless",
+                    "charging"
+                ]
+            },
+            {
+                "content": [
+                    "qi",
+                    "charge",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "wireless",
+                    "charging",
+                    "pad"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker",
+                    "wireless",
+                    "charging"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "charging",
+                    "dock",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "speaker",
+                    "wireless",
+                    "charging"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "charging",
+                    "sound",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "charge",
+                    "home",
+                    "theater",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "charging",
+                    "speakerphone"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "charging",
+                    "stereo",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "builtin",
+                    "wireless",
+                    "charger"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "charging",
+                    "enable",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "multifunction",
+                    "wireless",
+                    "charging",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "speaker",
+                    "qi",
+                    "wireless",
+                    "charging"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "charging",
+                    "speaker",
+                    "stand"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "charging",
+                    "alarm",
+                    "clock",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "speaker",
+                    "wireless",
+                    "charging"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "charging",
+                    "speaker",
+                    "led",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "charging",
+                    "speaker",
+                    "power",
+                    "bank"
+                ]
+            }
+        ]
+    },
+    "Wireless speakers": {
+        "filter_words": [
+            {
+                "content": [
+                    "wireless",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "home",
+                    "theater"
+                ]
+            },
+            {
+                "content": [
+                    "wifi",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "smart",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "bluetooth",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "wireless",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "sound",
+                    "system"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "stereo",
+                    "speaker"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "surround",
+                    "sound"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "microphone"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "alexa"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "google",
+                    "assistant"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "charging",
+                    "dock"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "fm",
+                    "radio"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "subwoofer"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "light"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "alarm",
+                    "clock"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "usb",
+                    "port"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "sd",
+                    "card",
+                    "slot"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "bluetooth"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "long",
+                    "battery",
+                    "life"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "high",
+                    "sound",
+                    "quality"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "bass",
+                    "boost"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "tv"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "computer"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "car"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "party"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "outdoor",
+                    "use"
+                ]
+            },
+            {
+                "content": [
+                    "wireless",
+                    "speaker",
+                    "shower"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,3577 @@
+{
+    "Bathroom mats": {
+        "filter_words": [
+            {
+                "content": [
+                    "bathroom",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "nonslip",
+                    "bath",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "absorbent",
+                    "bathroom",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "memory",
+                    "foam",
+                    "bath",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "bath",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "bathroom",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "shower",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "bathroom",
+                    "floor",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "antislip",
+                    "bathroom",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "bathroom",
+                    "carpet"
+                ]
+            },
+            {
+                "content": [
+                    "toilet",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "bathroom",
+                    "rug",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "bath",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "bathroom",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "bath",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "bathroom",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "bathroom",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "chenille",
+                    "bath",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "bathroom",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "bathroom",
+                    "runner",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "contour",
+                    "bath",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "quick",
+                    "dry",
+                    "bath",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "machine",
+                    "washable",
+                    "bathroom",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "bath",
+                    "mat"
+                ]
+            }
+        ]
+    },
+    "Cushions": {
+        "filter_words": [
+            {
+                "content": "cushion"
+            },
+            {
+                "content": [
+                    "cushion",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "throw",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "cushion",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "sofa",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "bed",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "floor",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "embroider",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "velvet",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "print",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "linen",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "silk",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "cushion",
+                    "textile",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "cushion",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "cushion",
+                    "pattern"
+                ]
+            },
+            {
+                "content": [
+                    "textile",
+                    "cushion",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "textile",
+                    "cushion",
+                    "manufacturer"
+                ]
+            },
+            {
+                "content": [
+                    "wholesale",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "cushion",
+                    "textile",
+                    "supplier"
+                ]
+            },
+            {
+                "content": [
+                    "cushion",
+                    "textile",
+                    "retailer"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "accent",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "sequin",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "bohemian",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "pattern",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "floral",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "pillow",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "bead",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "tassel",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "fringe",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "fur",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "geometric",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "textured",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "animal",
+                    "print",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "abstract",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "modern",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "rustic",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "tropical",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "nautical",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "patchwork",
+                    "cushion"
+                ]
+            }
+        ]
+    },
+    "Plaids": {
+        "filter_words": [
+		            {
+                "content": "blanket"
+            },
+            {
+                "content": "plaid"
+            },
+            {
+                "content": [
+                    "plaid",
+                    "textile"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "textile"
+                ]
+            },
+            {
+                "content": [
+                    "tartan",
+                    "textile"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "pattern",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "upholstery",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "clothing",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "design",
+                    "textile"
+                ]
+            },
+            {
+                "content": [
+                    "scottish",
+                    "plaid",
+                    "textile"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "print",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "home",
+                    "decor",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "fashion",
+                    "textile"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "cotton",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "wool",
+                    "textile"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "linen",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "silk",
+                    "textile"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "outdoor",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "quilting",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "apparel",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "textile",
+                    "print"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "plaids"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "plaids"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "throw"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "plaids"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "plaids"
+                ]
+            },
+            {
+                "content": [
+                    "hiking",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "road",
+                    "trip",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "size",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "packable",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "comfort",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "essential",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "adventure",
+                    "plaids"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "accessory",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "friendly",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "warm",
+                    "travel",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "mat"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "picnic",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "family",
+                    "size",
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "plaid",
+                    "carry",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "plaid",
+                    "camping"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "picnic",
+                    "plaids"
+                ]
+            },
+            {
+                "content": [
+                    "travel",
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "machine",
+                    "washable",
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "plaid",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "picnic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve"
+                ]
+            },
+            {
+                "content": [
+                    "long",
+                    "sleeve",
+                    "plaid",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "dress"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "jacket"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "sweater"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "blouse"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "tunic"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "cardigan"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "hoodie"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "coat"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "pullover"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "kimono"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "flannel",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "sweatshirt"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "poncho"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "robe"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "jumpsuit"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "nightshirt"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sleeve",
+                    "pajama"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "throw",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "tartan",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "warm",
+                    "fleece",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "fleece",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "bedding"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "throw"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "comforter"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "quilt"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "sheet"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "pajama"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "clothing"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "jacket"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "robes"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "fleece",
+                    "plaid",
+                    "home",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "woollen",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "tartan",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "throw"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "clothing"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "coat"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "shawl"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "bedding"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "upholstery"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "kilt"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "curtain"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "jacket"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "ponchos"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "trouser"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "skirt"
+                ]
+            },
+            {
+                "content": [
+                    "wool",
+                    "plaid",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaids"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "fuzzy",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "throw"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "bedding"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "rug"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "comforter"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "pajama"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "slipper"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "robe"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "stuff",
+                    "animal"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "dog",
+                    "bed"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "pet",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "upholstery"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "clothing"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "plaid",
+                    "home",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "tartan",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "tartan",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "throw",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "decorative",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sofa",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bed",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "pattern",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "cushion",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "outdoor",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "indoor",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "floor",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "seat",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "chair",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "couch",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "square",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "rectangular",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "round",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "cotton",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "linen",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "wool",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "velvet",
+                    "cushion"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "cushion",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "checkered",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "tartan",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "clothing"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "pattern"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "upholstery"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "throw"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "fabric",
+                    "yard"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "home",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "apparel"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "craft"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "design"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "textile"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "fashion"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "print"
+                ]
+            },
+            {
+                "content": [
+                    "acrylic",
+                    "plaid",
+                    "product"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "%",
+                    "cotton",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "clothing"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "dress"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "bedding"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "tablecloth"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "curtain"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "quilt"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "pant"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "skirt"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "upholstery"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "cotton",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "home",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "material"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "plaid",
+                    "pattern"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "synthetic",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "wrinkleresistant",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "checkered",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "tartan"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "gingham"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid",
+                    "clothing"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid",
+                    "home",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid",
+                    "upholstery"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid",
+                    "bedding"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid",
+                    "curtain"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid",
+                    "tablecloth"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid",
+                    "dress"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid",
+                    "pant"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid",
+                    "jacket"
+                ]
+            },
+            {
+                "content": [
+                    "polyester",
+                    "plaid",
+                    "fabric",
+                    "yard"
+                ]
+            },
+            {
+                "content": "bedspread"
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bedspread"
+                ]
+            },
+            {
+                "content": [
+                    "checkered",
+                    "bedspread"
+                ]
+            },
+            {
+                "content": [
+                    "tartan",
+                    "bedspread"
+                ]
+            },
+            {
+                "content": [
+                    "gingham",
+                    "bedspread"
+                ]
+            },
+            {
+                "content": [
+                    "buffalo",
+                    "plaid",
+                    "bedspread"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "quilt"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "comforter"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "duvet",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bedding",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bed",
+                    "linen"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bed",
+                    "cover"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bed",
+                    "sheet"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bed",
+                    "throw"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bed",
+                    "skirt"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bedding",
+                    "collection"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bedspread",
+                    "king",
+                    "size"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bedspread",
+                    "queen",
+                    "size"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bedspread",
+                    "twin",
+                    "size"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bedspread",
+                    "size"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bedspread",
+                    "single",
+                    "size"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bedspread",
+                    "double",
+                    "size"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bedspread",
+                    "kid"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bedspread",
+                    "adult"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bedspread",
+                    "teen"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "plaid"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "plaid",
+                    "pattern"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "plaid",
+                    "clothe"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "nursery",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "plaid",
+                    "bedding"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "child",
+                    "clothing"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "kid",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "plaid",
+                    "fabric"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "school",
+                    "uniform"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "plaid",
+                    "pajama"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "child",
+                    "shoe"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "kid",
+                    "backpack"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "plaid",
+                    "dress"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "kid",
+                    "room",
+                    "decor"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "plaid",
+                    "shirt"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "child",
+                    "hat"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "plaid",
+                    "skirt"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "kid",
+                    "furniture"
+                ]
+            },
+            {
+                "content": [
+                    "child",
+                    "plaid",
+                    "scarf"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "kids",
+                    "toys"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "clothing",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "tablecloth",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "kitchen",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "bathroom",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sofa",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "pajama",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "dinnerware",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "comforter",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "duvet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "curtain",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "picnic",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "school",
+                    "uniform",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "suit",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "tie",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "scarf",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "stationery",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "baby",
+                    "clothing",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "tea",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "towel",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "sheet",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "napkin",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "plaid",
+                    "luggage",
+                    "set"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Plaids_level_2.json"
+    },
+    "Towels": {
+        "filter_words": [
+            {
+                "content": "towel"
+            },
+            {
+                "content": [
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "hand",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "face",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "promotional",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "hotel",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "spa",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "gym",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "turkish",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "egyptian",
+                    "cotton",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "embroider",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "print",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "terry",
+                    "cloth",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "towel",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "guest",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "baby",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "quickdry",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "absorbent",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "towel",
+                    "robe"
+                ]
+            },
+            {
+                "content": [
+                    "towel",
+                    "wrap"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "towel",
+                    "february"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "special",
+                    "day",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "commemorative",
+                    "february",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "celebration",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "towel",
+                    "february",
+                    "theme"
+                ]
+            },
+            {
+                "content": [
+                    "custom",
+                    "towel",
+                    "february"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "event",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "date",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "towel",
+                    "mark",
+                    "february"
+                ]
+            },
+            {
+                "content": [
+                    "23rd",
+                    "february",
+                    "theme",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "towel",
+                    "special",
+                    "date"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "personalized",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "towel",
+                    "commemorate",
+                    "february"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "decorative",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "anniversary",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "birthday",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "holiday",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "special",
+                    "occasion",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "february",
+                    "customized",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "fitness",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "workout",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "sweat",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "exercise",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "fitness",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "quick",
+                    "dry",
+                    "gym",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "absorbent",
+                    "workout",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "yoga",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "athletic",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "cool",
+                    "towel",
+                    "fitness"
+                ]
+            },
+            {
+                "content": [
+                    "nonslip",
+                    "gym",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "antibacterial",
+                    "fitness",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "highperformance",
+                    "sport",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "exercise",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "gym",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "workout",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "fitness",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "durable",
+                    "sport",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "bathroom",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "egyptian",
+                    "cotton",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "quick",
+                    "dry",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "absorbent",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "spa",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "hotel",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "turkish",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "jacquard",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "stripe",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "organic",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "terry",
+                    "cloth",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "plush",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "colorful",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "pattern",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "guest",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "white",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "black",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "dish",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "tea",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "absorbent",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "terry",
+                    "cloth",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "linen",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "hand",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "decorative",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "chef",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "towel",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "dish",
+                    "dry",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "cleaning",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "print",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "embroider",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kitchen",
+                    "dishcloth"
+                ]
+            },
+            {
+                "content": [
+                    "waffle",
+                    "weave",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "professional",
+                    "kitchen",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "turkish",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "sauna",
+                    "bath",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "absorbent",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "quick",
+                    "dry",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "unisex",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "ecofriendly",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "high",
+                    "quality",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "thick",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "linen",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "extra",
+                    "large",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "breathable",
+                    "sauna",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "quick",
+                    "dry",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "microfiber",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "sand",
+                    "free",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "stripe",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "cotton",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "extra",
+                    "large",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "personalize",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "tropical",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "nautical",
+                    "beach",
+                    "towel"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel",
+                    "pocket"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel",
+                    "pillow"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "towel",
+                    "poncho"
+                ]
+            }
+        ],
+        "next_filter": "C:\\Users\\stank\\cat_v2\\filters\\generated_filters2\\Towels_level_2.json"
+    }
+}

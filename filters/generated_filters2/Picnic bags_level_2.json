@@ -1,0 +1,502 @@
+{
+    "Cooler bags": {
+        "filter_words": [
+				{
+			"content":["refrigerator", "bag"]
+		},
+			{
+				"content":["cooler", "bag"]
+			},
+            {
+                "content": [
+                    "cool",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cool",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "refrigerate",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cold",
+                    "storage",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "pack",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "chill",
+                    "food",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "cooler",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "cooler",
+                    "tote",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "cooler",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "small",
+                    "cool",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "family",
+                    "size",
+                    "cooler",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "bag",
+                    "cooling",
+                    "compartment"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "cooler",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "cooler",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "beach",
+                    "cooler",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "camping",
+                    "cooler",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "backpack",
+                    "cooler",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "cooler",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "cool",
+                    "picnic",
+                    "bag"
+                ]
+            }
+        ]
+    },
+    "Sets with picnic bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "set",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "outdoor",
+                    "picnic",
+                    "bag",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "complete",
+                    "picnic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "backpack",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "tote",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "picnic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "family",
+                    "picnic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "bag",
+                    "utensil"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "bag",
+                    "blanket"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "bag",
+                    "cool",
+                    "compartment"
+                ]
+            },
+            {
+                "content": [
+                    "4person",
+                    "picnic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "2person",
+                    "picnic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "picnic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "bag",
+                    "wine",
+                    "holder"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "bag",
+                    "tableware"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "picnic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "picnic",
+                    "bag",
+                    "set"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "bag",
+                    "food",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "bag",
+                    "drinkware"
+                ]
+            },
+            {
+                "content": [
+                    "lightweight",
+                    "picnic",
+                    "bag",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Thermal bags": {
+        "filter_words": [
+            {
+                "content": [
+                    "thermal",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cool",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "ice",
+                    "pack",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "cold",
+                    "storage",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "temperature",
+                    "control",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "bag",
+                    "insulation"
+                ]
+            },
+            {
+                "content": [
+                    "heat",
+                    "retention",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "cooler",
+                    "tote"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "lunch",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "insulated",
+                    "food",
+                    "carrier"
+                ]
+            },
+            {
+                "content": [
+                    "portable",
+                    "cooler",
+                    "bag",
+                    "picnic"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "wine",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "thermal",
+                    "backpack",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "picnic",
+                    "basket"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "bag",
+                    "thermal",
+                    "lining"
+                ]
+            },
+            {
+                "content": [
+                    "large",
+                    "insulate",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "thermal",
+                    "picnic",
+                    "bag"
+                ]
+            },
+            {
+                "content": [
+                    "picnic",
+                    "bag",
+                    "cooling",
+                    "compartment"
+                ]
+            },
+            {
+                "content": [
+                    "insulate",
+                    "picnic",
+                    "bag",
+                    "camping"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,502 @@
+{
+    "Eyeglass cases": {
+        "filter_words": [
+            {
+                "content": [
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "spectacle",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "glass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "protective",
+                    "eyewear",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "hard",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "soft",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "leather",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "design",
+                    "eyeglas",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "sunglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "eyewear",
+                    "storage"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "clip"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "cleaning",
+                    "cloth"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "travel",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "eyeglas",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "bulk"
+                ]
+            },
+            {
+                "content": [
+                    "personalized",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "luxury",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "waterproof",
+                    "eyeglas",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "zipper"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "handle"
+                ]
+            },
+            {
+                "content": [
+                    "foldable",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "compact",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "case",
+                    "set"
+                ]
+            }
+        ]
+    },
+    "Eyeglasses ": {
+        "filter_words": [
+		            {
+                "content": "sunglass"
+            },
+            {
+                "content": "eyeglass"
+            },
+            {
+                "content": [
+                    "prescription",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "reading",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "rimless",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "bifocal",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "progressive",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "man"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "woman"
+                ]
+            },
+            {
+                "content": [
+                    "kid",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "sport",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "computer",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "blue",
+                    "light",
+                    "block",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "polarized",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "anti",
+                    "-",
+                    "reflective",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "round",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "square",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "cat",
+                    "eye",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "aviator",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "oversized",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "frame"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "lense"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "accessory"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "cleaning",
+                    "kit"
+                ]
+            },
+            {
+                "content": [
+                    "eyeglass",
+                    "repair",
+                    "kit"
+                ]
+            }
+        ]
+    },
+    "Wood-rimmed glasses": {
+        "filter_words": [
+            {
+                "content": [
+                    "wood",
+                    "rim",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "wood",
+                    "frame",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wood",
+                    "rim",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "eyeglass"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "wood",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "handmade",
+                    "wood",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "prescription",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "sunglass"
+                ]
+            },
+            {
+                "content": [
+                    "eco",
+                    "-",
+                    "friendly",
+                    "wood",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "vintage",
+                    "wood",
+                    "glass"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "bamboo",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "handcrafted",
+                    "wood",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "natural",
+                    "wood",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "eco",
+                    "-",
+                    "friendly",
+                    "wood",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "spectacle",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "hardwood",
+                    "eyeglass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "wooden",
+                    "protective",
+                    "glass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "retro",
+                    "wood",
+                    "glass",
+                    "case"
+                ]
+            },
+            {
+                "content": [
+                    "designer",
+                    "wood",
+                    "glasses",
+                    "case"
+                ]
+            }
+        ]
+    }
+}
